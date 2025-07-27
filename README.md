@@ -1,6 +1,5 @@
 <h1 align="center">Leonxzy</h1>
-<p align="center">
-  <a href="https://your-username.github.io/matrix-background/" target="_blank">
+
     <img src="https://raw.githubusercontent.com/your-username/matrix-background/main/matrix-preview.gif" alt="Matrix Rain Background" width="100%" />
   </a>
 </p>
