@@ -45,7 +45,7 @@
 
 ### 🔥 Popular Repositories
 
-- 🦆 [**Hacking Snake Game**]([https://github.com/Leonxzy44/Hacking-Snake-shortcuts]() — Codes of my game in Python
+- 🦆 [**Hacking Snake Game**]([https://github.com/Leonxzy44/Hacking-Snake-shortcuts/tree/main/Hacking%20snake.py]() — Codes of my game in Python
 - 💰 [**smart-contract-solana**](https://github.com/your-username/smart-contract-solana) — Solana-based smart contract in TypeScript
 
 ---
