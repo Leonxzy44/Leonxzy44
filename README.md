@@ -1,4 +1,7 @@
 <h1 align="center">Leonxzy</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="Matrix Rain" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Tech+Explorer" alt="Typing SVG" />
