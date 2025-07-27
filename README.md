@@ -52,7 +52,8 @@
 ### My email --->
 
 - Email: leonhodzic44@gmail.com
-- LinkedIn: [YourProfile](https://linkedin.com/in/yourprofile)
+- Discord: leonxzy_
+- X: LeonxzyDEV  
 
 
 <!---
