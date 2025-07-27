@@ -49,7 +49,7 @@
 
 ---
 
-### My email --->
+### My email & contacts --->
 
 - Email: leonhodzic44@gmail.com
 - Discord: leonxzy_
