@@ -45,7 +45,7 @@
 
 ### 🔥 Popular Repositories
 
-- 📷 [**360_panorama**](https://github.com/your-username/360_panorama) — 3D panorama in JavaScript
+- 🦆 [**Hacking Snake Game**]([https://github.com/your-username/360_panorama](https://github.com/Leonxzy44/Hacking-Snake-shortcuts) — Codes of my game in Python
 - 💰 [**smart-contract-solana**](https://github.com/your-username/smart-contract-solana) — Solana-based smart contract in TypeScript
 
 ---
