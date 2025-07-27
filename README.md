@@ -32,9 +32,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&langs_count=8" />
+  <img src="https://img.shields.io/badge/AI%20Engineer-%2300FFB3?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23FF9900?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-%23FF2070?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Developer-%230072C6?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Dev-%2311B584?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Researcher-%23623CEA?style=for-the-badge&logo=deepnote&logoColor=white" />
 </p>
 
 ---
