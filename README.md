@@ -45,7 +45,7 @@
 
 ### 🔮 My best repositories
 
-- 🦆 [**Hacking Snake Game**]([https://github.com/Leonxzy44/Hacking-Snake-shortcuts/tree/main/Hacking%20snake.py]() — Codes of my game in Python
+-  [**Hacking Snake Game**]([https://github.com/Leonxzy44/Hacking-Snake-shortcuts/tree/main/Hacking%20snake.py]() — Codes of my game in Python
 
 ---
 
