@@ -30,7 +30,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###🏅Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/Active%20Developer-1F1F1F?style=for-the-badge&logo=github&logoColor=00FF00" />
