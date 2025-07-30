@@ -58,11 +58,12 @@
 - Discord: leonxzy_
 - X: LeonxzyDEV
 
-- ### 📚 Currently learning & creating
 
--Learning Arduino & C++
+### 📚 Currently learning & creating
 
--Creating: 2nd Website 
+- Learning Arduino & C++
+
+- Creating: 2nd Website 
 
 
 - ![Profile Views](https://komarev.com/ghpvc/?username=Leonxzy44&label=VIEWS&color=2f2f2f&style=for-the-badge)
