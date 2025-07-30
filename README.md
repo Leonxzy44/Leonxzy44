@@ -58,6 +58,7 @@
 - Discord: leonxzy_
 - X: LeonxzyDEV
 
+---
 
 ### 📚 Currently learning & creating
 
