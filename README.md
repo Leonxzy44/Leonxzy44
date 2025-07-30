@@ -56,7 +56,10 @@
 
 - Email: leonhodzic44@gmail.com
 - Discord: leonxzy_
-- X: LeonxzyDEV  
+- X: LeonxzyDEV
+
+- ![Profile Views](https://komarev.com/ghpvc/?username=Leonxzy44&label=VIEWS&color=2f2f2f&style=for-the-badge)
+
 
 
 <!---
