@@ -68,23 +68,23 @@
 
 
 - ![Profile Views](https://komarev.com/ghpvc/?username=Leonxzy44&label=VIEWS&color=2f2f2f&style=for-the-badge)
-- 
+ 
 
-- <p align="center">
+<p align="center">
   <a href="https://discord.com/users/YOUR_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-1F1F1F?style=for-the-badge&logo=discord&logoColor=39FF14" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://open.spotify.com/user/YOUR_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1F1F1F?style=for-the-badge&logo=spotify&logoColor=39FF14" />
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
   <a href="https://www.twitch.tv/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-1F1F1F?style=for-the-badge&logo=twitch&logoColor=39FF14" />
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
   <a href="mailto:yourgmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1F1F1F?style=for-the-badge&logo=gmail&logoColor=39FF14" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="mailto:you@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-1F1F1F?style=for-the-badge&logo=microsoftoutlook&logoColor=39FF14" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 </p>
 
