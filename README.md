@@ -5,6 +5,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=228B22&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Tech+Explorer" alt="Typing SVG" />
 </p>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Lucid Dreams Player</title>
+</head>
+<body>
+  <h1>Welcome to My Page</h1>
+  <audio autoplay loop>
+    <source src="lucid_dreams.mp3" type="audio/mpeg" />
+    Your browser does not support the audio element.
+  </audio>
+</body>
+</html>
+
 
 
 
