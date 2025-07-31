@@ -5,18 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=228B22&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Tech+Explorer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR" target="_blank">
-    <img src="https://img.shields.io/badge/Lucid%20Dreams-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-
-  <a href="https://www.youtube.com/watch?v=mzB1VGEGcSU" target="_blank">
-    <img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
-
-
-
 
 
 
