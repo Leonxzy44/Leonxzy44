@@ -44,7 +44,7 @@
 -    🧠 **"System Design Interview"** 
 -    🚀 **"Clean Code"** 
 -    ☁️ **Weather Tracking Apps & Webs**  
--    🤖 **Machine Learning Engineering Practices**  
+     
 
 ---
 
@@ -66,7 +66,7 @@ When i code, i usually listen to:
 -    ☕ **Coffee Enthusiast:** Can't start coding without a perfect cup of coffee  
 -    🎮 **Gaming:** Fortnite, Minecraft, Witcher 3 
 -    ♟️ **Logic Games:** Enjoying Playing Chess
--    🎨 **Digital Artist:** Creating pixel art  
+-    ⌛ **Free Time Coder**  
 
  
 
