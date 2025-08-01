@@ -45,7 +45,7 @@
 
 ### 💫 My best repositories
 
--  [**Hacking Snake**] — Codes of my game in Python, PC and Laptop only.
+-  Hacking Snake Game — Codes of my game in Python, PC and Laptop only.
 
 -   https://developerleonxzy.itch.io/hacking-snake-game
 
