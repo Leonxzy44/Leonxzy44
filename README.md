@@ -62,7 +62,7 @@ When i code, i usually listen to:
 
 #    ℹ️ Interesting Facts About Me
 
--    🌙 **Night Owl:** Most productive coding happens between 10 PM - 2 AM  
+-    🌙 **Night Owl:** Most productive coding happens between 6PM - 11PM 
 -    ☕ **Coffee Enthusiast:** Can't start coding without a perfect cup of coffee  
 -    🎮 **Gaming:** Fortnite, Minecraft, Witcher 3 
 -    ♟️ **Logic Games:** Enjoying Playing Chess
