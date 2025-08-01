@@ -38,9 +38,9 @@
 
 
 
-# 📚 Currently Creating & Learning
+#    📚 Currently Creating & Learning
 
--    🌐 **"Designing New Website for Links"**  
+-    🌐 **"Designing New Website for connections"**  
 -    🧠 **"System Design Interview"** 
 -    🚀 **"Clean Code"** 
 -    ☁️ **Weather Tracking Apps & Webs**  
@@ -48,25 +48,25 @@
 
 ---
 
-# 🎵 Coding Playlist
+#    🎵 Coding Playlist
 
 When i code, i usually listen to:
 
-- 🎶 Rap Hits 
-- 🎸 Progressive Rock   
-- 🎹 Ambient & Electronic Music  
-- 🎮 Gaming: Funks  
+-    🎶 Rap Hits 
+-    🎸 Progressive Rock   
+-    🎹 Ambient & Electronic Music  
+-    🎮 Gaming: Funks  
  
 
 ---
 
-# ⚡ Interesting Facts About Me
+#    ℹ️ Interesting Facts About Me
 
-- 🌙 **Night Owl:** Most productive coding happens between 10 PM - 2 AM  
-- ☕ **Coffee Enthusiast:** Can't start coding without a perfect cup of coffee  
-- 🎮 **Gaming:** Fortnite, Minecraft, Witcher 3 
-- 🧩 **Problem Solver:** Enjoying playing chess 
-- 🎨 **Digital Artist:** Creating pixel art  
+-    🌙 **Night Owl:** Most productive coding happens between 10 PM - 2 AM  
+-    ☕ **Coffee Enthusiast:** Can't start coding without a perfect cup of coffee  
+-    🎮 **Gaming:** Fortnite, Minecraft, Witcher 3 
+-    ♟️ **Logic Games:** Enjoying Playing Chess
+-    🎨 **Digital Artist:** Creating pixel art  
 
  
 
