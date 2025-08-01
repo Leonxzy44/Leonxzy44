@@ -32,36 +32,19 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center" style="background:#0d1117; padding:25px; border-radius:15px; box-shadow: inset 0 0 20px #00ff99, 0 0 20px #00ff99; font-family:'Segoe UI', monospace; color:#ccffcc; width:fit-content;">
+| Statistic         | Value                                                          |
+|-------------------|----------------------------------------------------------------|
+| ⭐ Total Stars     | ![Stars](https://img.shields.io/badge/0-00ff66?style=for-the-badge&logo=github&logoColor=white&label=Stars)          |
+| ⏳ Total Commits   | ![Commits](https://img.shields.io/badge/25-00ff66?style=for-the-badge&logo=git&logoColor=white&label=Commits)        |
+| 📤 Total PRs      | ![PRs](https://img.shields.io/badge/1-00ff66?style=for-the-badge&logo=pull-request&logoColor=white&label=Pull%20Requests) |
+| 🐞 Total Issues   | ![Issues](https://img.shields.io/badge/0-00ff66?style=for-the-badge&logo=bug&logoColor=white&label=Issues)           |
+| 📅 Contributions  | ![Contributions](https://img.shields.io/badge/0-00ff66?style=for-the-badge&logo=calendar&logoColor=white&label=Contributions) |
 
-<table>
-<tr>
-<td style="vertical-align:top; font-size:15px; font-weight:bold; padding-right:40px;">
+---
 
-⭐ TOTAL STARS &nbsp; <span style="display:inline-block; padding: '5px 12px'; background:#003300; border: 2px solid #00ff66; border-radius:6px; box-shadow: 0 0 8px #00ff66; min-width: 24px; text-align:center; color:#ccffcc;">0</span><br>
+### 🟢 HTML 100.00%
 
-🐙 &nbsp; COMMITS &nbsp; <span style="display:inline-block; padding: '5px 12px'; background:#003300; border: 2px solid #00ff66; border-radius:6px; box-shadow: 0 0 8px #00ff66; min-width: 24px; text-align:center; color:#ccffcc;">25</span><br>
-
-📤 PULL REQUESTS &nbsp; <span style="display:inline-block; padding: '5px 12px'; background:#003300; border: 2px solid #00ff66; border-radius:6px; box-shadow: 0 0 8px #00ff66; min-width: 24px; text-align:center; color:#ccffcc;">1</span><br>
-
-🐞 ISSUES &nbsp; <span style="display:inline-block; padding: '5px 12px'; background:#003300; border: 2px solid #00ff66; border-radius:6px; box-shadow: 0 0 8px #00ff66; min-width: 24px; text-align:center; color:#ccffcc;">0</span><br>
-
-📅 CONTRIBUTIONS &nbsp; <span style="display:inline-block; padding: '5px 12px'; background:#003300; border: 2px solid #00ff66; border-radius:6px; box-shadow: 0 0 8px #00ff66; min-width: 24px; text-align:center; color:#ccffcc;">0</span>
-
-</td>
-
-<td style="vertical-align:middle;">
-
-<div style="background-color:#1e1e1e; width:220px; height:14px; border-radius:10px; box-shadow: inset 0 0 10px #00ff99;">
-  <div style="width:100%; height:100%; background:linear-gradient(90deg, #00ff99, #00ffaa); border-radius:10px; box-shadow: 0 0 6px #00ffaa;"></div>
-</div>
-<div style="color:#00ffaa; font-size:16px; font-weight:bold; margin-top:8px;">🟢 HTML 100.00%</div>
-
-</td>
-</tr>
-</table>
-
-</div>
+![Progress](https://img.shields.io/badge/HTML-100%25-00ff66?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
