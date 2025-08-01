@@ -44,8 +44,15 @@
 - Favorites:
 - Lucid Dreams (Juice WRLD)
 - Ransom (Lil Tecca)
+
+  Click Here:
+
+  <a href="https://open.spotify.com/user/31a5f6q7d6vszhg65tjld37ix5i4" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+
 </h1>
--Check it out:
+
 
 <a href="https://open.spotify.com/user/31a5f6q7d6vszhg65tjld37ix5i4" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
