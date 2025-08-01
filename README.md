@@ -32,7 +32,6 @@
 <h1 align="center"> Coding Playlist
 - Favorites:
 - Lucid Dream (Juice WRLD)
-- Ransom (Lil Tecca)
 
 Click here:  <a href="https://open.spotify.com/user/31a5f6q7d6vszhg65tjld37ix5i4" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
