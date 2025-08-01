@@ -66,7 +66,6 @@
 - Creating: 2nd Website 
 
 
-- ![Profile Views](https://komarev.com/ghpvc/?username=Leonxzy44&label=VIEWS&color=2f2f2f&style=for-the-badge)
  
 
 <p align="center">
@@ -86,6 +85,8 @@
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 </p>
+
+- ![Profile Views](https://komarev.com/ghpvc/?username=Leonxzy44&label=VIEWS&color=2f2f2f&style=for-the-badge)
 
 
 
