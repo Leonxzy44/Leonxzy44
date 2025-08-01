@@ -32,17 +32,21 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center" style="background:#0d1117; padding:25px; border-radius:15px; box-shadow:inset 0 0 20px #00ff99, 0 0 20px #00ff99; font-family:'Segoe UI', monospace; color:#ccffcc; width:fit-content;">
+<div align="center" style="background:#0d1117; padding:25px; border-radius:15px; box-shadow: inset 0 0 20px #00ff99, 0 0 20px #00ff99; font-family:'Segoe UI', monospace; color:#ccffcc; width:fit-content;">
 
 <table>
 <tr>
 <td style="vertical-align:top; font-size:15px; font-weight:bold; padding-right:40px;">
 
-<img src="https://img.shields.io/badge/⭐_Total_Stars-0-00ff99?style=for-the-badge&labelColor=0d1117&logo=star&logoColor=00ff99" /><br>
-<img src="https://img.shields.io/badge/⏳_Commits-25-00ff99?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=00ff99" /><br>
-<img src="https://img.shields.io/badge/📤_Pull_Requests-1-00ff99?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=00ff99" /><br>
-<img src="https://img.shields.io/badge/🐞_Issues-0-00ff99?style=for-the-badge&labelColor=0d1117&logo=bug&logoColor=00ff99" /><br>
-<img src="https://img.shields.io/badge/📆_Contributions-0-00ff99?style=for-the-badge&labelColor=0d1117&logo=calendar&logoColor=00ff99" />
+⭐ TOTAL STARS &nbsp; <span style="display:inline-block; padding: '5px 12px'; background:#003300; border: 2px solid #00ff66; border-radius:6px; box-shadow: 0 0 8px #00ff66; min-width: 24px; text-align:center; color:#ccffcc;">0</span><br>
+
+🐙 &nbsp; COMMITS &nbsp; <span style="display:inline-block; padding: '5px 12px'; background:#003300; border: 2px solid #00ff66; border-radius:6px; box-shadow: 0 0 8px #00ff66; min-width: 24px; text-align:center; color:#ccffcc;">25</span><br>
+
+📤 PULL REQUESTS &nbsp; <span style="display:inline-block; padding: '5px 12px'; background:#003300; border: 2px solid #00ff66; border-radius:6px; box-shadow: 0 0 8px #00ff66; min-width: 24px; text-align:center; color:#ccffcc;">1</span><br>
+
+🐞 ISSUES &nbsp; <span style="display:inline-block; padding: '5px 12px'; background:#003300; border: 2px solid #00ff66; border-radius:6px; box-shadow: 0 0 8px #00ff66; min-width: 24px; text-align:center; color:#ccffcc;">0</span><br>
+
+📅 CONTRIBUTIONS &nbsp; <span style="display:inline-block; padding: '5px 12px'; background:#003300; border: 2px solid #00ff66; border-radius:6px; box-shadow: 0 0 8px #00ff66; min-width: 24px; text-align:center; color:#ccffcc;">0</span>
 
 </td>
 
@@ -58,6 +62,7 @@
 </table>
 
 </div>
+
 ---
 
 
