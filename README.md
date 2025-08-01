@@ -79,7 +79,7 @@
   <a href="https://open.spotify.com/user/31a5f6q7d6vszhg65tjld37ix5i4" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
-  <a href="https://www.twitch.tv/YOUR_USERNAME" target="_blank">
+  <a href="https://www.twitch.tv/leonxzy44" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
   <a href=" leonhodzic44@gmail.com ">
