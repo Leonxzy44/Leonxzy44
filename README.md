@@ -7,6 +7,10 @@
 
 ---
 
+<h1 align="center">About me </h1>
+
+<h1 align="center"> Web Developer and Programmer, interested into Math, Physics and Robotics.
+
 <h1 align="center">💻 Tech Stack </h1>
 
 <p align="center">
