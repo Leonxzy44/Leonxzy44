@@ -30,30 +30,32 @@
 
 ---
 
-
 ## 📊 GitHub Analytics
 
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px; box-shadow: 0 0 20px #00ff00; width: fit-content;">
+<div align="center">
 
 <table>
 <tr>
-<td style="color:#00ff00; font-family:monospace; font-size:15px; padding-right:40px;">
 
-⭐ <strong>Total Stars Earned:</strong> <span style="color:#00ff00;">0</span><br>
-🕒 <strong>Total Commits:</strong> <span style="color:#00ff00;">25</span><br>
-📬 <strong>Total PRs:</strong> <span style="color:#00ff00;">1</span><br>
-🐞 <strong>Total Issues:</strong> <span style="color:#00ff00;">0</span><br>
-📅 <strong>Contributed to (last year):</strong> <span style="color:#00ff00;">0</span><br>
-
+<!-- Left box -->
+<td align="left" style="background-color:#0d1117; border-radius:10px; padding:20px; box-shadow: 0 0 15px #00ff00; color:#00ff00; font-family:Segoe UI, monospace; font-size:14px; font-weight:bold;">
+⭐ Total Stars Earned: <span style="color:#00ff00;">0</span><br>
+🕒 Total Commits: <span style="color:#00ff00;">25</span><br>
+📬 Total PRs: <span style="color:#00ff00;">1</span><br>
+🐞 Total Issues: <span style="color:#00ff00;">0</span><br>
+📅 Contributed to (last year): <span style="color:#00ff00;">0</span>
 </td>
-<td>
 
-<div style="background-color:#1a1a1a; border-radius:10px; padding:10px; width:200px; box-shadow: inset 0 0 10px #00ff00;">
-  <div style="background-color:#00ff00; width:100%; height:10px; border-radius:5px;"></div>
-</div>
-<p style="color:#00ff00; font-family:monospace; margin-top:5px;">🟢 HTML 100.00%</p>
-
+<!-- Right box (progress bar) -->
+<td align="center" style="background-color:#0d1117; border-radius:10px; padding:20px; box-shadow: 0 0 15px #00ff00;">
+  <div style="background-color:#1a1a1a; border-radius:10px; width:200px; height:10px; box-shadow: inset 0 0 10px #00ff00;">
+    <div style="width:100%; height:100%; background-color:#00ff00; border-radius:10px;"></div>
+  </div>
+  <div style="color:#00ff00; font-family:Segoe UI, monospace; font-size:14px; font-weight:bold; margin-top:5px;">
+    🟢 HTML 100.00%
+  </div>
 </td>
+
 </tr>
 </table>
 
