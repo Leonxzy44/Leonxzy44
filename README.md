@@ -45,28 +45,38 @@ Click here:  <a href="https://open.spotify.com/user/31a5f6q7d6vszhg65tjld37ix5i4
 </p>
 
 ---
-### 💫 My best repositories
+# 📚 Currently Reading & Learning
 
--  Hacking Snake Game — Codes of my game in Python, PC and Laptop only.
-
--   https://developerleonxzy.itch.io/hacking-snake-game
-
----
-
-### My email & contacts --->
-
-- Email: leonhodzic44@gmail.com
-- Discord: leonxzy_
-- X: LeonxzyDEV
+- 📖 **"Designing Data-Intensive Applications"** by Martin Kleppmann  
+- 🧠 **"System Design Interview"** by Alex Xu  
+- 🚀 **"The Pragmatic Programmer"** by Andy Hunt & Dave Thomas  
+- 🎯 **Advanced Rust Programming Patterns**  
+- ☁️ **Kubernetes & Cloud-Native Architecture**  
+- 🤖 **Machine Learning Engineering Practices**  
 
 ---
 
-### 📚 Currently learning & creating
+# 🎵 Coding Soundtrack
 
-- Learning Arduino & C++
+When I'm in the zone, you'll find me coding to:
 
-- Creating: 2nd Website 
+- 🎶 Lo-fi Hip Hop & Chillhop  
+- 🎸 Progressive Rock & Post-Rock  
+- 🎹 Ambient & Electronic Music  
+- 🎮 Video Game Soundtracks  
+- ☕ Coffee Shop Ambience  
 
+---
+
+# ⚡ Fun Facts About Me
+
+- 🌙 **Night Owl:** Most productive coding happens between 10 PM - 2 AM  
+- ☕ **Coffee Enthusiast:** Can't start coding without a perfect cup of coffee  
+- 🎮 **Gaming Geek:** Love playing indie games and retro classics  
+- 📸 **Photography Hobbyist:** Capturing code in nature (literally!)  
+- 🧩 **Problem Solver:** Enjoy solving complex puzzles and brain teasers  
+- 🌱 **Tech Gardener:** Always nurturing new projects and ideas  
+- 🎨 **Digital Artist:** Creating pixel art and UI illustrations in spare time  
 
  
 
