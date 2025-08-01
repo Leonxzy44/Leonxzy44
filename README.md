@@ -37,9 +37,19 @@
  <img src="https://img.shields.io/badge/Websites-1F1F1F?style=for-the-badge&logo=googlechrome&logoColor=#39FF14" />
 
 ---
+<h1 align="center"> Coding Playlist 🎶</h1>
 
+- Favorites:
+- Lucid Dreams (Juice WRLD)
+- Ransom (Lil Tecca)
 
-</p>
+-Check it out:
+
+<a href="https://open.spotify.com/user/31a5f6q7d6vszhg65tjld37ix5i4" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
