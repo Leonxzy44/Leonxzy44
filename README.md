@@ -29,7 +29,6 @@
 
 
 ---
-
 ## 📊 GitHub Analytics
 
 | Statistic         | Value                                                          |
@@ -45,31 +44,6 @@
 ### 🟢 HTML 100.00%
 
 ![Progress](https://img.shields.io/badge/HTML-100%25-00ff66?style=for-the-badge&logo=html5&logoColor=white)
-
----
-
-
-<h1 align="center"> Coding Playlist 🎶</h1>
-<h1 align="center">
-- Favorites:
-- Lucid Dreams (Juice WRLD)
-- Ransom (Lil Tecca)
-
-  Click Here:
-
-  <a href="https://open.spotify.com/user/31a5f6q7d6vszhg65tjld37ix5i4" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-
-</h1>
-
-
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
 
 
 ---
