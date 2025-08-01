@@ -76,7 +76,7 @@
   <a href="https://discord.com/users/YOUR_ID" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://open.spotify.com/user/YOUR_ID" target="_blank">
+  <a href="https://open.spotify.com/user/31a5f6q7d6vszhg65tjld37ix5i4" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
   <a href="https://www.twitch.tv/YOUR_USERNAME" target="_blank">
