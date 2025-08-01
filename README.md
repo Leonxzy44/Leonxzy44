@@ -6,7 +6,9 @@
 </p>
 
 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/EaZleXlW1XnYw/giphy.gif" alt="Matrix Rain" width="100%" />
+</p>
 
 
 ---
