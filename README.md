@@ -66,30 +66,14 @@ When i code, i usually listen to:
 -    ☕ **Coffee Enthusiast:** Can't start coding without a perfect cup of coffee  
 -    🎮 **Gaming:** Fortnite, Minecraft, Witcher 3 
 -    ♟️ **Logic Games:** Enjoying Playing Chess
--    ⌛ **Free Time Coder**  
+-    ⌛ **Free Time Coder:** Always Organised
 
  
 
-<p align="center">
-  <a href="https://discord.com/users/YOUR_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://open.spotify.com/user/31a5f6q7d6vszhg65tjld37ix5i4" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-  <a href="https://www.twitch.tv/leonxzy44" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
-  <a href=" leonhodzic44@gmail.com ">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="mailto:you@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  </a>
-</p>
+<h1 align="center"> 
 
 - ![Profile Views](https://komarev.com/ghpvc/?username=Leonxzy44&label=VIEWS&color=2f2f2f&style=for-the-badge)
-
+</h1>
 
 
 
