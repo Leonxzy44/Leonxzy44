@@ -33,11 +33,30 @@
 
 ### 🏅Badges
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Active%20Developer-1F1F1F?style=for-the-badge&logo=github&logoColor=#39FF14" />
-  <img src="https://img.shields.io/badge/Programmer-1F1F1F?style=for-the-badge&logo=codeforces&logoColor=#39FF14" /> 
- <img src="https://img.shields.io/badge/Websites-1F1F1F?style=for-the-badge&logo=googlechrome&logoColor=#39FF14" />
+## 📊 GitHub Analytics
 
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+🔸 **Total Stars Earned:** 0  
+🕒 **Total Commits:** 25  
+📬 **Total PRs:** 1  
+🐞 **Total Issues:** 0  
+📅 **Contributed to (last year):** 0  
+
+</td>
+<td>
+
+![Green Bar](https://img.shields.io/badge/HTML-100%25-green?style=for-the-badge&logo=html5&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
 ---
 <h1 align="center"> Coding Playlist 🎶</h1>
 <h1 align="center">
