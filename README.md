@@ -40,11 +40,11 @@
 
 ---
 <h1 align="center"> Coding Playlist 🎶</h1>
-
+<h1 align="center">
 - Favorites:
 - Lucid Dreams (Juice WRLD)
 - Ransom (Lil Tecca)
-
+</h1>
 -Check it out:
 
 <a href="https://open.spotify.com/user/31a5f6q7d6vszhg65tjld37ix5i4" target="_blank">
