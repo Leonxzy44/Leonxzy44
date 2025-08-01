@@ -58,7 +58,11 @@
 </table>
 
 </div>
+
+
 ---
+
+
 <h1 align="center"> Coding Playlist 🎶</h1>
 <h1 align="center">
 - Favorites:
