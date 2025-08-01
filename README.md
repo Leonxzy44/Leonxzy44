@@ -31,32 +31,31 @@
 ---
 
 
-### 🏅Badges
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<table>
+<table style="border:2px solid #00ff00; border-radius:10px; box-shadow: 0 0 15px #00ff00; padding:10px; background-color:#0d1117;">
 <tr>
-<td>
+<td style="padding: 20px; color: #00ff00; font-family: monospace;">
 
-🔸 **Total Stars Earned:** 0  
-🕒 **Total Commits:** 25  
-📬 **Total PRs:** 1  
-🐞 **Total Issues:** 0  
-📅 **Contributed to (last year):** 0  
+⭐️ <strong>Total Stars Earned:</strong> 0<br>
+🕒 <strong>Total Commits:</strong> 25<br>
+📬 <strong>Total PRs:</strong> 1<br>
+🐞 <strong>Total Issues:</strong> 0<br>
+📅 <strong>Contributed to (last year):</strong> 0<br>
 
 </td>
-<td>
+<td style="padding: 20px;">
 
-![Green Bar](https://img.shields.io/badge/HTML-100%25-green?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://img.shields.io/badge/HTML-100%25-00ff00?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 100%">
 
 </td>
 </tr>
 </table>
 
 </div>
+
 ---
 <h1 align="center"> Coding Playlist 🎶</h1>
 <h1 align="center">
