@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=228B22&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Tech+Explorer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Leonxzy44/Leonxzy44/assets/YOUR_IMAGE_PATH/matrix-rain.png" alt="Matrix Rain" style="width:100%; height:auto;" />
-</p>
 
 ---
 
