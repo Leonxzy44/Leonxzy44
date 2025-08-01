@@ -40,6 +40,11 @@ Click here:  <a href="https://open.spotify.com/user/31a5f6q7d6vszhg65tjld37ix5i4
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
 ### 💫 My best repositories
 
 -  Hacking Snake Game — Codes of my game in Python, PC and Laptop only.
