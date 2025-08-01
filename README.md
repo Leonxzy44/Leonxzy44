@@ -67,7 +67,7 @@ When i code, i usually listen to:
 
 ---
 
-# ⚡ Fun Facts About Me
+# ⚡ Interesting Facts About Me
 
 - 🌙 **Night Owl:** Most productive coding happens between 10 PM - 2 AM  
 - ☕ **Coffee Enthusiast:** Can't start coding without a perfect cup of coffee  
