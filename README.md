@@ -31,10 +31,6 @@
 ### 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
 ---
 
 ### 🏅Badges
@@ -44,6 +40,11 @@
   <img src="https://img.shields.io/badge/Programmer-1F1F1F?style=for-the-badge&logo=codeforces&logoColor=#39FF14" />
 
   <img src="https://img.shields.io/badge/Websites-1F1F1F?style=for-the-badge&logo=googlechrome&logoColor=#39FF14" />
+
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 
