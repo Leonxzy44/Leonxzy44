@@ -19,6 +19,13 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
+| 🐍 **Python**               | 🌐 **HTML**                  | 💻 **C++**                     |
+|----------------------------|------------------------------|-------------------------------|
+| Data Analysis & Automation | Semantic Markup              | Performance-Oriented Coding   |
+| Flask / FastAPI Web Apps   | Responsive Design (CSS Grid) | OOP & Memory Management       |
+| Scripting & Tools          | Forms & User Input           | Game Dev / Hardware Projects  |
+
+
 ---
 
 ### 
