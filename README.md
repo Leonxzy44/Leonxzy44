@@ -17,13 +17,13 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  
 </p>
 
-| 🐍 **Python**               | 🌐 **HTML**                  | 💻 **C++**                     |
-|----------------------------|------------------------------|-------------------------------|
-| Data Analysis & Automation | Semantic Markup              | Performance-Oriented Coding   |
-| Flask / FastAPI Web Apps   | Responsive Design (CSS Grid) | OOP & Memory Management       |
-| Scripting & Tools          | Forms & User Input           | Game Dev / Hardware Projects  |
+
+
+
+<div align="center">  <table>   <thead>     <tr>       <th>🐍 <strong>Python</strong></th>       <th>🌐 <strong>HTML</strong></th>       <th>💻 <strong>C++</strong></th>     </tr>   </thead>   <tbody>     <tr>       <td>Data Analysis & Automation</td>       <td>Semantic Markup</td>       <td>Performance-Oriented Coding</td>     </tr>     <tr>       <td>Flask / FastAPI Web Apps</td>       <td>Responsive Design (CSS Grid)</td>       <td>OOP & Memory Management</td>     </tr>     <tr>       <td>Scripting & Tools</td>       <td>Forms & User Input</td>       <td>Game Dev / Hardware Projects</td>     </tr>   </tbody> </table>  </div>
 
 
 ---
