@@ -32,30 +32,33 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="center" style="background-color:#0b0f10; padding:25px; border-radius:15px; box-shadow: inset 0 0 25px #00ff88, 0 0 25px #00ff88; width:fit-content; font-family:'Segoe UI', monospace; color:#00ffcc;">
 
 <table>
 <tr>
 
-<!-- Left box -->
-<td align="left" style="background-color:#0d1117; border-radius:10px; padding:20px; box-shadow: 0 0 15px #00ff00; color:#00ff00; font-family:Segoe UI, monospace; font-size:14px; font-weight:bold;">
-⭐ Total Stars Earned: <span style="color:#00ff00;">0</span><br>
-🕒 Total Commits: <span style="color:#00ff00;">25</span><br>
-📬 Total PRs: <span style="color:#00ff00;">1</span><br>
-🐞 Total Issues: <span style="color:#00ff00;">0</span><br>
-📅 Contributed to (last year): <span style="color:#00ff00;">0</span>
+<!-- LEFT PANEL -->
+<td style="padding-right:40px; vertical-align:top;">
+
+<span style="font-size:18px;">🌟</span> <strong>Total Stars Earned:</strong> <span style="color:#66ffcc;">0</span><br>
+<span style="font-size:18px;">⏳</span> <strong>Total Commits:</strong> <span style="color:#66ffcc;">25</span><br>
+<span style="font-size:18px;">📨</span> <strong>Total PRs:</strong> <span style="color:#66ffcc;">1</span><br>
+<span style="font-size:18px;">🐛</span> <strong>Total Issues:</strong> <span style="color:#66ffcc;">0</span><br>
+<span style="font-size:18px;">📆</span> <strong>Contributed to (last year):</strong> <span style="color:#66ffcc;">0</span>
+
 </td>
 
-<!-- Right box (progress bar) -->
-<td align="center" style="background-color:#0d1117; border-radius:10px; padding:20px; box-shadow: 0 0 15px #00ff00;">
-  <div style="background-color:#1a1a1a; border-radius:10px; width:200px; height:10px; box-shadow: inset 0 0 10px #00ff00;">
-    <div style="width:100%; height:100%; background-color:#00ff00; border-radius:10px;"></div>
-  </div>
-  <div style="color:#00ff00; font-family:Segoe UI, monospace; font-size:14px; font-weight:bold; margin-top:5px;">
-    🟢 HTML 100.00%
-  </div>
-</td>
+<!-- RIGHT PANEL (PROGRESS BAR) -->
+<td style="vertical-align:top; text-align:center;">
 
+<div style="background-color:#1a1a1a; border-radius:12px; width:220px; height:14px; box-shadow: inset 0 0 12px #00ff88; margin-bottom:8px;">
+  <div style="width:100%; height:100%; background:linear-gradient(90deg, #00ff88, #00ffaa); border-radius:12px; box-shadow:0 0 8px #00ffaa;"></div>
+</div>
+<div style="color:#00ffcc; font-weight:bold; font-size:16px;">
+  🟢 HTML 100.00%
+</div>
+
+</td>
 </tr>
 </table>
 
