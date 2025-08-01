@@ -82,7 +82,7 @@
   <a href="https://www.twitch.tv/YOUR_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
-  <a href="leonhodzic44@gmail.com">
+  <a href=" leonhodzic44@gmail.com ">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="mailto:you@outlook.com">
