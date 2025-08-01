@@ -33,29 +33,31 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px; box-shadow: 0 0 20px #00ff00; width: fit-content;">
 
-<table style="border:2px solid #00ff00; border-radius:10px; box-shadow: 0 0 15px #00ff00; padding:10px; background-color:#0d1117;">
+<table>
 <tr>
-<td style="padding: 20px; color: #00ff00; font-family: monospace;">
+<td style="color:#00ff00; font-family:monospace; font-size:15px; padding-right:40px;">
 
-⭐️ <strong>Total Stars Earned:</strong> 0<br>
-🕒 <strong>Total Commits:</strong> 25<br>
-📬 <strong>Total PRs:</strong> 1<br>
-🐞 <strong>Total Issues:</strong> 0<br>
-📅 <strong>Contributed to (last year):</strong> 0<br>
+⭐ <strong>Total Stars Earned:</strong> <span style="color:#00ff00;">0</span><br>
+🕒 <strong>Total Commits:</strong> <span style="color:#00ff00;">25</span><br>
+📬 <strong>Total PRs:</strong> <span style="color:#00ff00;">1</span><br>
+🐞 <strong>Total Issues:</strong> <span style="color:#00ff00;">0</span><br>
+📅 <strong>Contributed to (last year):</strong> <span style="color:#00ff00;">0</span><br>
 
 </td>
-<td style="padding: 20px;">
+<td>
 
-<img src="https://img.shields.io/badge/HTML-100%25-00ff00?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 100%">
+<div style="background-color:#1a1a1a; border-radius:10px; padding:10px; width:200px; box-shadow: inset 0 0 10px #00ff00;">
+  <div style="background-color:#00ff00; width:100%; height:10px; border-radius:5px;"></div>
+</div>
+<p style="color:#00ff00; font-family:monospace; margin-top:5px;">🟢 HTML 100.00%</p>
 
 </td>
 </tr>
 </table>
 
 </div>
-
 ---
 <h1 align="center"> Coding Playlist 🎶</h1>
 <h1 align="center">
