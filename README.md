@@ -29,24 +29,14 @@
 
 
 ---
+<h1 align="center"> Coding Playlist
+-Favorites:
+-Lucid Dream (Juice WRLD)
+-Ransom (Lil Tecca)
 
-<h1 align="center">
-##  GitHub Analytics
-
-| Statistic         | Value                                                          |
-|-------------------|----------------------------------------------------------------|
-| ![Stars](https://img.shields.io/badge/0-00ff66?style=for-the-badge&logo=github&logoColor=white&label=Stars)                   
-| ![Commits](https://img.shields.io/badge/25-00ff66?style=for-the-badge&logo=git&logoColor=white&label=Commits)                 
-| ![PRs](https://img.shields.io/badge/1-00ff66?style=for-the-badge&logo=pull-request&logoColor=white&label=Pull%20Requests)                      
-| ![Issues](https://img.shields.io/badge/0-00ff66?style=for-the-badge&logo=bug&logoColor=white&label=Issues)                       
-| ![Contributions](https://img.shields.io/badge/0-00ff66?style=for-the-badge&logo=calendar&logoColor=white&label=Contributions) 
-
----
-
-
-![Progress](https://img.shields.io/badge/HTML-100%25-00ff66?style=for-the-badge&logo=html5&logoColor=white)
-
-</h1>
+Click here:  <a href="https://open.spotify.com/user/31a5f6q7d6vszhg65tjld37ix5i4" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
 
 
 ---
