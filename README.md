@@ -31,19 +31,39 @@
 ---
 ## 📊 GitHub Analytics
 
-| Statistic         | Value                                                          |
-|-------------------|----------------------------------------------------------------|
-| ⭐ Total Stars     | ![Stars](https://img.shields.io/badge/0-00ff66?style=for-the-badge&logo=github&logoColor=white&label=Stars)          |
-| ⏳ Total Commits   | ![Commits](https://img.shields.io/badge/25-00ff66?style=for-the-badge&logo=git&logoColor=white&label=Commits)        |
-| 📤 Total PRs      | ![PRs](https://img.shields.io/badge/1-00ff66?style=for-the-badge&logo=pull-request&logoColor=white&label=Pull%20Requests) |
-| 🐞 Total Issues   | ![Issues](https://img.shields.io/badge/0-00ff66?style=for-the-badge&logo=bug&logoColor=white&label=Issues)           |
-| 📅 Contributions  | ![Contributions](https://img.shields.io/badge/0-00ff66?style=for-the-badge&logo=calendar&logoColor=white&label=Contributions) |
+<div align="center" style="background:#0d1117; padding:25px; border-radius:15px; box-shadow: inset 0 0 20px #00ff99, 0 0 20px #00ff99; font-family:'Segoe UI', monospace; color:#ccffcc; width:fit-content;">
 
----
+<table>
+<tr>
 
-### 🟢 HTML 100.00%
+<!-- Left side: All stats -->
+<td style="vertical-align:top; font-size:15px; font-weight:bold; padding-right:40px;">
 
-![Progress](https://img.shields.io/badge/HTML-100%25-00ff66?style=for-the-badge&logo=html5&logoColor=white)
+⭐ &nbsp; Total Stars &nbsp; <span style="background:#003300; border: 2px solid #00ff66; border-radius:6px; box-shadow: 0 0 8px #00ff66; padding:5px 12px; min-width:24px; text-align:center; display:inline-block; color:#ccffcc;">0</span><br><br>
+
+⏳ &nbsp; Total Commits &nbsp; <span style="background:#003300; border: 2px solid #00ff66; border-radius:6px; box-shadow: 0 0 8px #00ff66; padding:5px 12px; min-width:24px; text-align:center; display:inline-block; color:#ccffcc;">25</span><br><br>
+
+📤 &nbsp; Total PRs &nbsp; <span style="background:#003300; border: 2px solid #00ff66; border-radius:6px; box-shadow: 0 0 8px #00ff66; padding:5px 12px; min-width:24px; text-align:center; display:inline-block; color:#ccffcc;">1</span><br><br>
+
+🐞 &nbsp; Total Issues &nbsp; <span style="background:#003300; border: 2px solid #00ff66; border-radius:6px; box-shadow: 0 0 8px #00ff66; padding:5px 12px; min-width:24px; text-align:center; display:inline-block; color:#ccffcc;">0</span><br><br>
+
+📅 &nbsp; Contributions &nbsp; <span style="background:#003300; border: 2px solid #00ff66; border-radius:6px; box-shadow: 0 0 8px #00ff66; padding:5px 12px; min-width:24px; text-align:center; display:inline-block; color:#ccffcc;">0</span>
+
+</td>
+
+<!-- Right side: HTML progress box -->
+<td style="vertical-align:middle; padding-left:40px;">
+
+<div style="background:#003300; border: 2px solid #00ff66; border-radius:8px; box-shadow: 0 0 12px #00ff66; padding:12px 22px; font-weight:bold; font-size:18px; color:#ccffcc; display:inline-flex; align-items:center; gap:8px;">
+  <span style="font-size:24px;">🟢</span> HTML 100.00%
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 
 ---
