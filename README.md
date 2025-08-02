@@ -82,16 +82,16 @@ When i code, i usually listen to:
 
 
   <!-- Stack Overflow -->
-  <a href="https://stackoverflow.com/users/yourid" target="_blank">
+  <a href="https://stackoverflow.com/users/30537744/leonxzy44" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow logo"/>
   </a>
 
-  <!-- Monkeytype -->
-  <a href="https://monkeytype.com/profile/yourname" target="_blank">
-    <img src="https://img.shields.io/badge/Monkeytype-333333?style=for-the-badge&logo=monkeytype&logoColor=white" alt="Monkeytype logo"/>
+  <p align="left">
+  <!-- Twitter/X -->
+  <a href="https://x.com/LeonxzyDEV" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X logo"/>
   </a>
-</p>
-<h1 align="center"> 
+
 
 ---
 Thank you for visiting and Happy Coding! 🌟
