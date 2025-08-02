@@ -105,6 +105,7 @@ When i code, i usually listen to:
  <h1 align="center"> 
 Thank you for visiting and Happy Coding! 🌟
 
+
    ![Profile Views](https://komarev.com/ghpvc/?username=Leonxzy44&label=VIEWS&color=2f2f2f&style=for-the-badge)
 
    </h1>
