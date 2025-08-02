@@ -78,7 +78,7 @@ When i code, i usually listen to:
 -   Outlook: leon.hodzic44@outlook.com
 
 
- 
+ ---
 
 
   <!-- Stack Overflow -->
@@ -111,6 +111,7 @@ When i code, i usually listen to:
 
 
 ---
+ <p align="center">
 Thank you for visiting and Happy Coding! 🌟
 
  ![Profile Views](https://komarev.com/ghpvc/?username=Leonxzy44&label=VIEWS&color=2f2f2f&style=for-the-badge)
