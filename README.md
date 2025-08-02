@@ -57,10 +57,11 @@ When i code, i usually listen to:
 -    🎹 Ambient & Electronic Music  
 -    🎮 Gaming: Funks
 
--    <a href="YOUR_SPOTIFY_LINK_HERE" target="_blank">
-  <img src="IMAGE_URL" alt="Spotify" width="100" style="border-radius: 8px;" />
+-  <h1 align="center">   <a href="https://open.spotify.com/user/31a5f6q7d6vszhg65tjld37ix5i4" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="Spotify" width="100" />
 </a>
 
+</h1>
  
 
 ---
