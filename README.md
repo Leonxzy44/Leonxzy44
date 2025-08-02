@@ -68,7 +68,7 @@ When i code, i usually listen to:
 -    ☕ **Coffee Enthusiast:** Can't start coding without a perfect cup of coffee  
 -    🎮 **Gaming:** Fortnite, Minecraft, Witcher 3 
 -    ♟️ **Logic Games:** Enjoying Playing Chess
--    ⌛ **Organised Coder** Always Organised
+-    ⌛ **Organised Coder:** Always Organised
 
 ---
 
