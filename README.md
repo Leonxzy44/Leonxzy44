@@ -72,6 +72,11 @@ When i code, i usually listen to:
 
 ---
 
+#   📨 My Mails
+
+-   G Mail: leonhodzic44@gmail.com
+-   Outlook: leon.hodzic44@outlook.com
+
 
  
 
