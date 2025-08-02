@@ -79,9 +79,25 @@ When i code, i usually listen to:
 
 
  
+<p align="left">
+  <!-- Twitter/X -->
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X logo"/>
+  </a>
 
+  <!-- Stack Overflow -->
+  <a href="https://stackoverflow.com/users/yourid" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow logo"/>
+  </a>
+
+  <!-- Monkeytype -->
+  <a href="https://monkeytype.com/profile/yourname" target="_blank">
+    <img src="https://img.shields.io/badge/Monkeytype-333333?style=for-the-badge&logo=monkeytype&logoColor=white" alt="Monkeytype logo"/>
+  </a>
+</p>
 <h1 align="center"> 
 
+---
 Thank you for visiting and Happy Coding! 🌟
 
  ![Profile Views](https://komarev.com/ghpvc/?username=Leonxzy44&label=VIEWS&color=2f2f2f&style=for-the-badge)
