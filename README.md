@@ -103,7 +103,7 @@ When i code, i usually listen to:
 
 ---
 
-<p align="left"> Thank you for visiting and Happy Coding! 🌟
+<p align="center"> Thank you for visiting and Happy Coding! 🌟
 
 <h1 align="center"> 
 
