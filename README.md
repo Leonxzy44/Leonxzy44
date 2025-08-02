@@ -86,6 +86,7 @@ When i code, i usually listen to:
     <img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow logo"/>
   </a>
 
+
   <p align="left">
   <!-- Twitter/X -->
   <a href="https://x.com/LeonxzyDEV" target="_blank">
