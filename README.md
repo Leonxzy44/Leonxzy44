@@ -55,7 +55,12 @@ When i code, i usually listen to:
 -    🎶 Rap Hits 
 -    🎸 Progressive Rock   
 -    🎹 Ambient & Electronic Music  
--    🎮 Gaming: Funks  
+-    🎮 Gaming: Funks
+
+-    <a href="YOUR_SPOTIFY_LINK_HERE" target="_blank">
+  <img src="IMAGE_URL" alt="Spotify" width="100" style="border-radius: 8px;" />
+</a>
+
  
 
 ---
