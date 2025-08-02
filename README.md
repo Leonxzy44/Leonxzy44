@@ -79,11 +79,7 @@ When i code, i usually listen to:
 
 
  
-<p align="left">
-  <!-- Twitter/X -->
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X logo"/>
-  </a>
+
 
   <!-- Stack Overflow -->
   <a href="https://stackoverflow.com/users/yourid" target="_blank">
