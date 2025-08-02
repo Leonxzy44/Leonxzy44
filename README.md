@@ -95,7 +95,7 @@ When i code, i usually listen to:
 
   <p align="left">
   <!-- Discord -->
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
+  <a href="https://discord.com/channels/@leonxzy_" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 
