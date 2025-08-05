@@ -109,7 +109,11 @@ When i code, i usually listen to:
   </a>
 </p>
 
+--
 
+# Join my Codify Discord Server from a project: 
+
+https://discord.gg/xjQx3TBZ
 
 ---
 
