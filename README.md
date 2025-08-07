@@ -40,7 +40,7 @@
 
 #    📚 Currently Creating & Learning
 
--    🌐 **"Designing New Website for connections"**  
+-    🌐 **"Creating New Website for connections"**  
 -    🧠 **"System Design Interview"** 
 -    🚀 **"Clean Code"** 
 -    ☁️ **Weather Tracking Apps & Webs**  
