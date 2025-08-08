@@ -78,7 +78,6 @@ When i code, i usually listen to:
 
   └── 📂 Coding projects, Editors, Apps.
 
- 
 
 (E:)
 
