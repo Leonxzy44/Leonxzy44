@@ -71,6 +71,29 @@ When i code, i usually listen to:
 -    ⌛ **Organised Coder:** Always Organised
 
 ---
+# My PC / Library 〔/〕
+
+
+(C:)
+
+  └── 📂 Coding projects, Editors, Apps.
+
+  
+
+(E:)
+
+  └── 📂 Games, Launchers...
+
+
+(D:)
+
+  └── 📂 Downloads.
+
+
+
+
+---
+
 
 #   📨 My Mails
 
