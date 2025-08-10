@@ -71,7 +71,7 @@ When i code, i usually listen to:
 -    ⌛ **Organised Coder:** Always Organised
 
 ---
-# My PC / Library〔/〕
+# My PC | Library〔/〕
 
 
 (C:)
