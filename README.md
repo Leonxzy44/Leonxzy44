@@ -42,7 +42,27 @@
 
 
 ---
+<p align="center">
+  <!-- Achievement-style badges (dark grey background) -->
+  <img alt="MultiLanguage" src="https://img.shields.io/badge/MultiLanguage-Rainbow%20Lang%20User%201pt-2b2b2b?style=for-the-badge" />
+  <img alt="Joined2020" src="https://img.shields.io/badge/Joined2020-Everything%20Started%20in%202020-2b2b2b?style=for-the-badge" />
+  <img alt="Commits" src="https://img.shields.io/badge/Commits-Deep%20Committer%203pt-2b2b2b?style=for-the-badge" />
+  <img alt="Stars" src="https://img.shields.io/badge/Stars-Stargazer%20247pt-2b2b2b?style=for-the-badge" />
+  <img alt="Followers" src="https://img.shields.io/badge/Followers-Active%20User%207pt-2b2b2b?style=for-the-badge" />
+  <img alt="Repositories" src="https://img.shields.io/badge/Repositories-Hyper%20Repo%20Creator%203pt-2b2b2b?style=for-the-badge" />
+  <img alt="Experience" src="https://img.shields.io/badge/Experience-Experienced%20Dev%2018pt-2b2b2b?style=for-the-badge" />
+  <img alt="Issues" src="https://img.shields.io/badge/Issues-High%20Issuer%202pt-2b2b2b?style=for-the-badge" />
+  <img alt="PullRequest" src="https://img.shields.io/badge/PullRequest-High%20Puller%202pt-2b2b2b?style=for-the-badge" />
+  <img alt="Reviews" src="https://img.shields.io/badge/Reviews-Intermediate%20Reviewer%203pt-2b2b2b?style=for-the-badge" />
 
+  <!-- Editor / OS logos (same dark look, with official logos) -->
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%20-2b2b2b?style=for-the-badge&logo=visual-studio-code" />
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-%20-2b2b2b?style=for-the-badge&logo=pycharm" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-%20-2b2b2b?style=for-the-badge&logo=windows" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-%20-2b2b2b?style=for-the-badge&logo=linux" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
