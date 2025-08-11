@@ -26,6 +26,19 @@
 <h1 align="center">🔮Most used </h1>
 
 <div align="center">  <table>   <thead>     <tr>       <th>1. <strong>Python</strong></th>       <th>2. <strong>HTML</strong></th>       <th>3. <strong>C++</strong></th>     </tr>   </thead>   <tbody>     <tr>       <td>Data Analysis & Automation</td>       <td>Website creating</td>       <td>Performance-Oriented Coding</td>     </tr>     <tr>       <td>Flask / FastAPI Web Apps</td>       <td>Responsive Design (CSS Grid)</td>       <td>OOP & Memory Management</td>     </tr>     <tr>       <td>Scripting & Tools</td>       <td>Forms & User Input</td>       <td>Game Dev / Hardware Projects</td>     </tr>   </tbody> </table>  </div>
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/MultiLanguage-Rainbow%20Lang%20User%201pt-purple?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Joined2020-Everything%20Started%20in%202020-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-Deep%20Committer%203pt-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Stars-Stargazer%20247pt-yellow?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Followers-Active%20User%207pt-teal?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Repositories-Hyper%20Repo%20Creator%203pt-cyan?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Experience-Experienced%20Dev%2018pt-lightblue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Issues-High%20Issuer%202pt-lightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/PullRequest-High%20Puller%202pt-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Reviews-Intermediate%20Reviewer%203pt-pink?style=for-the-badge&logo=github" />
+</p>
 
 
 ---
