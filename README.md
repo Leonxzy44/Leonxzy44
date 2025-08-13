@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Followers-Active%20User%207pt-teal?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Repositories-Hyper%20Repo%20Creator%203pt-cyan?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/PullRequest-High%20Puller%202pt-green?style=for-the-badge&logo=github" />
-  />
+  
 </p>
 
 
