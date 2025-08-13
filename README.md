@@ -28,6 +28,22 @@
 <div align="center">  <table>   <thead>     <tr>       <th>1. <strong>Python</strong></th>       <th>2. <strong>HTML</strong></th>       <th>3. <strong>C++</strong></th>     </tr>   </thead>   <tbody>     <tr>       <td>Data Analysis & Automation</td>       <td>Website creating</td>       <td>Performance-Oriented Coding</td>     </tr>     <tr>       <td>Flask / FastAPI Web Apps</td>       <td>Responsive Design (CSS Grid)</td>       <td>OOP & Memory Management</td>     </tr>     <tr>       <td>Scripting & Tools</td>       <td>Forms & User Input</td>       <td>Game Dev / Hardware Projects</td>     </tr>   </tbody> </table>  </div>
 
 ---
+<h1 align="center">Editors & Tools 🧰 </h1>
+
+<img src="https://img.shields.io/badge/Windows-8-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 8"/>
+<img src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10"/>
+<img src="https://img.shields.io/badge/Windows-11-00A4EF?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11"/>
+<a href="https://code.visualstudio.com/">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</a>
+<a href="https://www.jetbrains.com/pycharm/">
+  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=000000" alt="PyCharm"/>
+</a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux"/>
+
+
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/MultiLanguage-Rainbow%20Lang%20User%201pt-purple?style=for-the-badge&logo=github" />
