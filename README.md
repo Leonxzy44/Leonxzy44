@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux"/>
 
 <svg width="240" height="160" viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Windows 8 logo">
-  <title>Windows 8 logo</title>
+  
   <g fill="#00A4EF" transform="skewY(-12) translate(0,22)">
     <rect x="10"  y="10"  width="95" height="60"/>
     <rect x="120" y="5"   width="95" height="65"/>
