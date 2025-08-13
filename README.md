@@ -30,7 +30,7 @@
 ---
 <h1 align="center">Editors & Tools 🧰 
 
-
+---
 ![Windows 8](https://img.shields.io/badge/Windows%208-0078D6?style=for-the-badge&logo=windows8&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-00A4EF?style=for-the-badge&logo=windows11&logoColor=white)
