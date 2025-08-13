@@ -35,8 +35,6 @@
   
   <img src="https://img.shields.io/badge/Followers-Active%20User%207pt-teal?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Repositories-Hyper%20Repo%20Creator%203pt-cyan?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Experience-Experienced%20Dev%2018pt-lightblue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Issues-High%20Issuer%202pt-lightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/PullRequest-High%20Puller%202pt-green?style=for-the-badge&logo=github" />
   />
 </p>
