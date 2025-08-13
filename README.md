@@ -32,8 +32,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MultiLanguage-Rainbow%20Lang%20User%201pt-purple?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Joined2020-Everything%20Started%20in%202020-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Commits-Deep%20Committer%203pt-orange?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Stars-Stargazer%20247pt-yellow?style=for-the-badge&logo=github" />
+  
   <img src="https://img.shields.io/badge/Followers-Active%20User%207pt-teal?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Repositories-Hyper%20Repo%20Creator%203pt-cyan?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Experience-Experienced%20Dev%2018pt-lightblue?style=for-the-badge&logo=github" />
