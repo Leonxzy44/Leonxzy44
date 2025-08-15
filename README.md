@@ -55,13 +55,8 @@
 
 ---
 
-## 📌 Pinned
-
-[![clippy](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=clippy&theme=dark)](https://github.com/Leonxzy44/clippy)  
-[![privnote](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=privnote&theme=dark)](https://github.com/Leonxzy44/privnote)
 
 
----
 
 
 
@@ -69,6 +64,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
+
+
 ---
 
 
