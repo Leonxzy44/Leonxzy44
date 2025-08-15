@@ -43,9 +43,8 @@
 
 ---
 
-![Tech Grid](./skills-grid.svg)
 
----
+
 
 
 
