@@ -57,8 +57,8 @@
 
 ## 📌 Pinned
 
-[![clippy](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=clippy&theme=dark)](https://github.com/YourUsername/clippy)  
-[![privnote](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=privnote&theme=dark)](https://github.com/YourUsername/privnote)
+[![clippy](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=clippy&theme=dark)](https://github.com/Leonxzy44/clippy)  
+[![privnote](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=privnote&theme=dark)](https://github.com/Leonxzy44/privnote)
 
 
 ---
