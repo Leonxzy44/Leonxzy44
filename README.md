@@ -42,9 +42,25 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
 ---
+## ⭐ My Projects
+
+[<img src="https://img.icons8.com/color/48/shield.png" width="20"/> **Discord**](https://github.com/YourUsername/discord-project)  
+[<img src="https://img.icons8.com/color/48/domain.png" width="20"/> **Websites**](https://github.com/YourUsername/websites-project)  
+[<img src="https://img.icons8.com/color/48/settings.png" width="20"/> **DevOps**](https://github.com/YourUsername/devops-project)  
+[<img src="https://img.icons8.com/color/48/iphone.png" width="20"/> **Mobile**](https://github.com/YourUsername/mobile-project)  
+[<img src="https://img.icons8.com/color/48/laptop.png" width="20"/> **Desktop**](https://github.com/YourUsername/desktop-project)  
+[<img src="https://img.icons8.com/color/48/api.png" width="20"/> **API**](https://github.com/YourUsername/api-project)  
+[<img src="https://img.icons8.com/color/48/plugin.png" width="20"/> **IDE Plugins**](https://github.com/YourUsername/ide-plugins-project)  
+
+---
+
+## 📌 Pinned
+
+[![clippy](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=clippy&theme=dark)](https://github.com/YourUsername/clippy)  
+[![privnote](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=privnote&theme=dark)](https://github.com/YourUsername/privnote)
 
 
-
+---
 
 
 
@@ -52,9 +68,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
-
-
 ---
+
+
+
 
 #    📚 Currently Creating & Learning
 
