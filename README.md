@@ -46,7 +46,7 @@
 <p align="center">
 ## ⭐ My Projects
 
-[<img src="https://img.icons8.com/color/48/shield.png" width="20"/> **Discord**](https://github.com/YourUsername/discord-project)  
+
 [<img src="https://img.icons8.com/color/48/domain.png" width="20"/> **Websites**](https://github.com/YourUsername/websites-project)  
 [<img src="https://img.icons8.com/color/48/settings.png" width="20"/> **DevOps**](https://github.com/YourUsername/devops-project)  
 [<img src="https://img.icons8.com/color/48/iphone.png" width="20"/> **Mobile**](https://github.com/YourUsername/mobile-project)  
