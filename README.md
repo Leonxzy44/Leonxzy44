@@ -6,8 +6,11 @@
 </p>
 
 ---
+<p align="center">
+  <img src="./banner.svg" alt="pixel banner">
+</p>
 
-
+---
 
 <h1 align="center">💻 Tech Stack </h1>
 
