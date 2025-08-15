@@ -42,6 +42,8 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
 ---
+
+<p align="center">
 ## ⭐ My Projects
 
 [<img src="https://img.icons8.com/color/48/shield.png" width="20"/> **Discord**](https://github.com/YourUsername/discord-project)  
