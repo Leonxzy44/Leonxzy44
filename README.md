@@ -7,7 +7,7 @@
 
 ---
 <p align="center">
-  <img src="./banner.svg" alt="pixel banner">
+  <img src="./banner.svg" alt="Banner-animated">
 </p>
 
 ---
