@@ -23,6 +23,21 @@
   
 </p>
 
+<h1 align="center">Editors & Tools 🧰 
+
+---
+![Windows 8](https://img.shields.io/badge/Windows%208-0078D6?style=for-the-badge&logo=windows8&logoColor=white)
+![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-00A4EF?style=for-the-badge&logo=windows11&logoColor=white)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=000000)](https://www.jetbrains.com/pycharm/)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+![Google](https://img.shields.io/badge/Google-FFFFFF?style=for-the-badge&logo=google&logoColor=4285F4)
+![Microsoft Edge](https://img.shields.io/badge/Microsoft%20Edge-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+
+
+---
 
 <h1 align="center">🔮Most used </h1>
 
