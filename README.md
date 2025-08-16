@@ -133,7 +133,8 @@ When i code, i usually listen to:
 
 -   G Mail: leonhodzic44@gmail.com
 -   Outlook: leon.hodzic44@outlook.com
--   DC Server: https://discord.gg/xjQx3TBZ
+-   DC Server: 
+  https://discord.gg/xjQx3TBZ
 
 
 ---
