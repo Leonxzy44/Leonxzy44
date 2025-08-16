@@ -23,7 +23,7 @@
   
 </p>
 
-<h1 align="center">Editors & Tools 🧰 
+<h1 align="center">🧰Editors & Tools  
 
 ---
 ![Windows 8](https://img.shields.io/badge/Windows%208-0078D6?style=for-the-badge&logo=windows8&logoColor=white)
