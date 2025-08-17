@@ -140,7 +140,8 @@ leonhodzic44@gmail.com
 ---
 <p align="center">
 👤 Looking for someone to work with? 
-
+</p>
+<p align="center">
 I'm in! If you need any help at coding, fixing bugs or just want to talk about something, ask me!
 
 </p>
