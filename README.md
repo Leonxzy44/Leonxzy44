@@ -113,23 +113,6 @@ When i code, i usually listen to:
 -    ♟️ **Logic Games:** Enjoying Playing Chess
 -    ⌛ **Organised Coder:** Always Organised
 
----
-# My PC Library
-
-
-(C:)
-
-  └── 📂 Coding projects, Editors, Apps.
-
-
-(E:)
-
-  └── 📂 Games, Launchers...
-
-
-(D:)
-
-  └── 📂 Downloads.
 
 
 
