@@ -139,12 +139,12 @@ When i code, i usually listen to:
 
 #   📨 My Mails
 
--  🤝 G Mail: leonhodzic44@gmail.com
--
--  📧 Outlook:   leon.hodzic44@outlook.com
--
--  📡 DC Server: 
-  https://discord.gg/xjQx3TBZ
+-  🤝 G-Mail:
+leonhodzic44@gmail.com
+
+-  📧 Outlook:              leon.hodzic44@outlook.com
+
+-  📡 DC Server:  https://discord.gg/xjQx3TBZ
 
 
 ---
