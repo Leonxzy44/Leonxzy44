@@ -52,6 +52,7 @@
 
 <h1 align="center">⭐️My Projects   </h1>
 
+<p align="center">
 
 [<img src="https://img.icons8.com/color/48/domain.png" width="20"/> **Websites**](https://github.com/YourUsername/websites-project)  
 [<img src="https://img.icons8.com/color/48/settings.png" width="20"/> **Games**](https://github.com/Leonxzy44/Shell-Shockers-Bot)  
