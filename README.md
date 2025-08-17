@@ -39,7 +39,7 @@
 
 ---
 
-<h1 align="center">🏆 Most used </h1>
+<h1 align="center">🏆 Most used </h1
 
 <div align="center">  <table>   <thead>     <tr>       <th>1. <strong>Python</strong></th>       <th>2. <strong>HTML</strong></th>       <th>3. <strong>C++</strong></th>     </tr>   </thead>   <tbody>     <tr>       <td>Data Analysis & Automation</td>       <td>Website creating</td>       <td>Performance-Oriented Coding</td>     </tr>     <tr>       <td>Flask / FastAPI Web Apps</td>       <td>Responsive Design (CSS Grid)</td>       <td>OOP & Memory Management</td>     </tr>     <tr>       <td>Scripting & Tools</td>       <td>Forms & User Input</td>       <td>Game Dev / Hardware Projects</td>     </tr>   </tbody> </table>  </div>
 
@@ -50,9 +50,9 @@
 
 ---
 
-<h1 align="center">⭐️My Projects   </h1>
+<h1 align="center">⭐️My Projects   
 
-<p align="center">
+
 
 [<img src="https://img.icons8.com/color/48/domain.png" width="20"/> **Websites**](https://github.com/YourUsername/websites-project)  
 [<img src="https://img.icons8.com/color/48/settings.png" width="20"/> **Games**](https://github.com/Leonxzy44/Shell-Shockers-Bot)  
@@ -61,7 +61,9 @@
 [<img src="https://img.icons8.com/color/48/api.png" width="20"/> **API**](https://github.com/YourUsername/api-project)  
 [<img src="https://img.icons8.com/color/48/plugin.png" width="20"/> **IDE Plugins**](https://github.com/YourUsername/ide-plugins-project)  
 
-</p>
+</h1>
+
+
 
 ---
 
