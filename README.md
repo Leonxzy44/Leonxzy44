@@ -41,9 +41,11 @@
 
 <h1 align="center">🏆 Most used </h1
 
+<h1 align="center">
+
 <div align="center">  <table>   <thead>     <tr>       <th>1. <strong>Python</strong></th>       <th>2. <strong>HTML</strong></th>       <th>3. <strong>C++</strong></th>     </tr>   </thead>   <tbody>     <tr>       <td>Data Analysis & Automation</td>       <td>Website creating</td>       <td>Performance-Oriented Coding</td>     </tr>     <tr>       <td>Flask / FastAPI Web Apps</td>       <td>Responsive Design (CSS Grid)</td>       <td>OOP & Memory Management</td>     </tr>     <tr>       <td>Scripting & Tools</td>       <td>Forms & User Input</td>       <td>Game Dev / Hardware Projects</td>     </tr>   </tbody> </table>  </div>
 
- 
+ <h1>
 
 
 
