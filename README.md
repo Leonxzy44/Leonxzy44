@@ -144,6 +144,7 @@ leonhodzic44@gmail.com
 I'm in! If you need any help at coding, fixing bugs or just want to talk about something, ask me!
 
 </p>
+
 ---
 
 # 🍬 Connect with me
