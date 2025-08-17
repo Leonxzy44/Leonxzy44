@@ -186,6 +186,68 @@ When i code, i usually listen to:
 
    ![ Profile Views](https://komarev.com/ghpvc/?username=Leonxzy44&label=VIEWS&color=2f2f2f&style=for-the-badge)
 
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Buttons Counter</title>
+  <style>
+    body {
+      background-color: #0d1117;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      gap: 15px;
+    }
+
+    .btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 10px 20px;
+      font-size: 16px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-weight: bold;
+      border: none;
+      transition: transform 0.2s ease;
+    }
+
+    .btn:hover {
+      transform: scale(1.05);
+    }
+
+    .green { background-color: #2ea043; color: #fff; }
+    .red { background-color: #f85149; color: #fff; }
+    .blue { background-color: #1f6feb; color: #fff; }
+  </style>
+</head>
+<body>
+
+  <button class="btn green" id="starsBtn">⭐ Stars 0</button>
+  <button class="btn red" id="forksBtn">🍴 Forks 0</button>
+  <button class="btn blue" id="followBtn">👤 Follow 0</button>
+
+  <script>
+    let starsCount = 0;
+
+    document.getElementById("starsBtn").addEventListener("click", () => {
+      starsCount++;
+      document.getElementById("starsBtn").textContent = `⭐ Stars ${starsCount}`;
+    });
+
+    // Random numbers for Forks & Follow
+    document.getElementById("forksBtn").textContent = `🍴 Forks ${Math.floor(Math.random() * 100)}`;
+    document.getElementById("followBtn").textContent = `👤 Follow ${Math.floor(Math.random() * 100)}`;
+  </script>
+
+</body>
+</html>
+
   
 </h1>
 
