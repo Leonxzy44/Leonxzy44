@@ -64,7 +64,7 @@
 [<img src="https://img.icons8.com/color/48/domain.png" width="20"/> **Websites**](https://github.com/YourUsername/websites-project)  
 [<img src="https://img.icons8.com/color/48/settings.png" width="20"/> **Games**](https://github.com/Leonxzy44/Shell-Shockers-Bot)  
 [<img src="https://img.icons8.com/color/48/iphone.png" width="20"/> **Mobile**](https://github.com/YourUsername/mobile-project)  
-[<img src="https://img.icons8.com/color/48/laptop.png" width="20"/> **Desktop**](https://github.com/YourUsername/desktop-project)  
+[<img src="https://img.icons8.com/color/48/laptop.png" width="20"/> **Desktop**](https://github.com/Leonxzy44/Lindows-AIX-)  
 [<img src="https://img.icons8.com/color/48/api.png" width="20"/> **API**](https://github.com/YourUsername/api-project)  
 [<img src="https://img.icons8.com/color/48/plugin.png" width="20"/> **IDE Plugins**](https://github.com/YourUsername/ide-plugins-project)  
 
