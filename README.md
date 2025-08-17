@@ -186,7 +186,7 @@ When i code, i usually listen to:
 
    ![ Profile Views](https://komarev.com/ghpvc/?username=Leonxzy44&label=VIEWS&color=2f2f2f&style=for-the-badge)
 
-   ![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&color=brightgreen)
+   ![GitHub stars](https://img.shields.io/github/stars/Leonxzy44/Shell_Shockers_Bot?style=for-the-badge&color=brightgreen)
 ![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&color=red)
 ![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=blue)
 
