@@ -201,6 +201,26 @@ I'm in! If you need any help at coding, fixing bugs or just want to talk about s
   </a>
 </p>
 
+<!-- Profile Buttons -->
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/Leon Hodžić">
+    <img alt="HackerRank"
+         src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+  </a>
+  <a href="https://monkeytype.com/profile/Leonxzy">
+    <img alt="Monkeytype"
+         src="https://img.shields.io/badge/MONKEYTYPE-E2B714?style=for-the-badge&logo=monkeytype&logoColor=black">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/User:Leon Hodzic">
+    <img alt="Wikipedia"
+         src="https://img.shields.io/badge/WIKIPEDIA-000000?style=for-the-badge&logo=wikipedia&logoColor=white">
+  </a>
+  <a href="https://www.chess.com/member/Leonxzy44">
+    <img alt="Chess.com"
+         src="https://img.shields.io/badge/CHESS.COM-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white">
+  </a>
+</p>
+
 
 
 
