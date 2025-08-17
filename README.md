@@ -162,19 +162,19 @@ I'm in! If you need any help at coding, fixing bugs or just want to talk about s
   </a>
 
 
-  <p align="center">
+  <p align="left">
   <!-- Twitter/X -->
   <a href="https://x.com/LeonxzyDEV" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X logo"/>
   </a>
 
-  <p align="center">
+  <p align="left">
   <!-- Discord -->
   <a href="https://discord.com/channels/@leonxzy_" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 
-  <p align="center">
+  <p align="left">
   <!-- Spotify -->
   <a href="https://open.spotify.com/user/31a5f6q7d6vszhg65tjld37ix5i4" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
@@ -184,7 +184,7 @@ I'm in! If you need any help at coding, fixing bugs or just want to talk about s
 
 
 <!-- Profile Buttons -->
-<p align="center">
+<p align="left">
   <a href="https://www.hackerrank.com/profile/Leon Hodžić">
     <img alt="HackerRank"
          src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
