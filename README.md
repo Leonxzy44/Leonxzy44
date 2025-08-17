@@ -62,6 +62,8 @@
 [<img src="https://img.icons8.com/color/48/api.png" width="20"/> **API**](https://github.com/YourUsername/api-project)  
 [<img src="https://img.icons8.com/color/48/plugin.png" width="20"/> **IDE Plugins**](https://github.com/YourUsername/ide-plugins-project)  
 
+</p>
+
 ---
 
 
@@ -180,7 +182,7 @@ When i code, i usually listen to:
 
 ---
 
-<p align="center"> Thank you for visiting and Happy Coding! 🚀
+<p align="center"> Thank you for visiting and Happy Coding! 🌟
 
 <h1 align="center"> 
 
