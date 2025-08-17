@@ -139,9 +139,13 @@ leonhodzic44@gmail.com
 
 ---
 
-# 👤 Looking for someone to work with? 
+#👤 Looking for someone to work with? 
 
 I'm in! If you need any help at coding, fixing bugs or just want to talk about something, ask me!
+
+---
+
+# 🍬 Connect with me
 
 
 
