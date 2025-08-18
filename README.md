@@ -220,9 +220,7 @@ I'm in! If you need any help at coding, fixing bugs or just want to talk about s
 
    ![ Profile Views](https://komarev.com/ghpvc/?username=Leonxzy44&label=VIEWS&color=2f2f2f&style=for-the-badge)
 
-   <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/assets/icons/animatedLine.svg" width="100%" height="2px"/>
-</p>
+   
 
    
 
