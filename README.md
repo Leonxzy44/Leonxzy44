@@ -220,13 +220,7 @@ I'm in! If you need any help at coding, fixing bugs or just want to talk about s
 
    ![ Profile Views](https://komarev.com/ghpvc/?username=Leonxzy44&label=VIEWS&color=2f2f2f&style=for-the-badge)
 
-   <p align="center">
-  <svg width="100%" height="6">
-    <line x1="0" y1="3" x2="100%" y2="3" stroke="#00FF7F" stroke-width="6">
-      <animate attributeName="stroke-dasharray" from="0,2000" to="2000,0" dur="4s" repeatCount="indefinite" />
-    </line>
-  </svg>
-</p>
+ 
 
    
 
