@@ -126,6 +126,7 @@ When i code, i usually listen to:
 -    ☕ **Coffee Enthusiast:** Can't start coding without a perfect cup of coffee  
 -    🎮 **Gaming:** Fortnite, Minecraft, Witcher 3, Forza Horizon 5 
 -    ♟️ **Logic Games:** Enjoying Playing Chess
+-    📖 **Book enjoyer** Free-time book reader
 -    ⌛ **Organised Coder:** Always Organised
 
 
