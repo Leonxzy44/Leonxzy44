@@ -30,7 +30,9 @@
 </p>
 
 ---
- <p align="center">🛠️ Development Tools & IDEs  
+ <h1 align="center"> 🛠️ Development Tools & IDEs 
+
+   </h1>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
