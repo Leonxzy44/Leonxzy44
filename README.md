@@ -30,7 +30,7 @@
 </p>
 
 ---
- <h1 align="center"> 🗳 Development Tools & IDEs 
+ <h1 align="center"> 🔍Development Tools & IDEs 
 
    </h1>
 
