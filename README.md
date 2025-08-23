@@ -69,7 +69,17 @@
 
  <h1>
 
-
+---
+const archv0 = {
+    pronouns: "He/Him",
+    location: "🌍 Global Citizen",
+    currentFocus: ["Full-Stack Development", "System Architecture", "Open Source"],
+    workingOn: ["Innovative Web Applications", "Mobile Solutions", "AI Integration"],
+    learning: ["Advanced System Design", "Cloud Architecture", "Machine Learning"],
+    askMeAbout: ["Web Development", "Mobile Apps", "System Design", "Tech Career"],
+    funFact: "I debug with console.log and I'm not ashamed! 😄",
+    motto: "Code with passion, build with purpose ✨"
+};
 
 
 ---
