@@ -61,7 +61,24 @@
 ---
 <h1 align="center">  🚀 Deployment & Hosting </h1>
 
+---
+<p align="center">💫 About me
 
+  
+
+
+🧠 Exploring cutting-edge domains like LLMs, computer vision, NLP, agentic AI, and autonomous systems.
+
+
+
+💡 Passionate about open source, emerging tech, and collaborating.
+
+📚 Lifelong learner in AI research, personal development and Open Source.
+
+⚡ Full Stack Developer - Mostly backend but frontend too.
+
+Let's innovate together → 🛒 Fork a project, 🌟 star a repo, or ✉️ reach out.
+---
 
 <div align="center">
 
