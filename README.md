@@ -78,26 +78,11 @@
 
 ---
 
-<p align="center">💫 About me </p>
-
-  
-
-
-🧠 Exploring cutting-edge domains like LLMs, computer vision, NLP, agentic AI, and autonomous systems.
 
 
 
-💡 Passionate about open source, emerging tech, and collaborating.
-
-📚 Lifelong learner in AI research, personal development and Open Source.
-
-⚡ Full Stack Developer - Mostly backend but frontend too.
-
-Let's innovate together → 🛒 Fork a project, 🌟 star a repo, or ✉️ reach out.
 
 
-
----
 
 <h1 align="center">🏆 Most used </h1
 
