@@ -74,7 +74,23 @@
 [![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 
 </div>
+---
+<p align="center">💫 About me
 
+  
+
+
+🧠 Exploring cutting-edge domains like LLMs, computer vision, NLP, agentic AI, and autonomous systems.
+
+
+
+💡 Passionate about open source, emerging tech, and collaborating.
+
+📚 Lifelong learner in AI research, personal development and Open Source.
+
+⚡ Full Stack Developer - Mostly backend but frontend too.
+
+Let's innovate together → 🛒 Fork a project, 🌟 star a repo, or ✉️ reach out.
 
 ---
 
