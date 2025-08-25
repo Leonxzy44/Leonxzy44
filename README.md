@@ -5,21 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=228B22&center=true&vCenter=true&width=500&lines=%E2%80%8BSoftware+Developer+%7C+Programmer;%E2%80%8BOpen+Source+Enthusiast;%E2%80%8BTech+Explorer+%7C+Robotics" alt="Typing SVG" />
 </p>
 
----
-<h1 align="center">💫 About me </h1>
-
----
-
-⚡ Full Stack Developer - Mostly backend but frontend too.
-
-👨‍💻 Software Engineer & Developer who loves to code.
-
-💾 Arduino developer & Libraries.
-
-🔋 Always learning.
-
-
-Let's innovate together → 🛒 Fork a project, 🌟 star a repo, or ✉️ reach out.
 
 ---
 
