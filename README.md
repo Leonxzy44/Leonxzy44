@@ -59,6 +59,7 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
 ---
+
 <h1 align="center">  🚀 Deployment & Hosting </h1>
 
 
@@ -74,11 +75,13 @@
 [![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 
 </div>
+
 ---
-<p align="center">💫 About me
+
+<p align="center">💫 About me </p>
 
   
-
+<h1 align="center">
 
 🧠 Exploring cutting-edge domains like LLMs, computer vision, NLP, agentic AI, and autonomous systems.
 
@@ -91,6 +94,8 @@
 ⚡ Full Stack Developer - Mostly backend but frontend too.
 
 Let's innovate together → 🛒 Fork a project, 🌟 star a repo, or ✉️ reach out.
+
+</h1>
 
 ---
 
