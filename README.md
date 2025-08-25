@@ -81,7 +81,7 @@
 <p align="center">💫 About me </p>
 
   
-<h1 align="center">
+
 
 🧠 Exploring cutting-edge domains like LLMs, computer vision, NLP, agentic AI, and autonomous systems.
 
@@ -95,7 +95,7 @@
 
 Let's innovate together → 🛒 Fork a project, 🌟 star a repo, or ✉️ reach out.
 
-</h1>
+
 
 ---
 
