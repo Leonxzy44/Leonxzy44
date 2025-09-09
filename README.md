@@ -11,6 +11,8 @@
   
 💫 About me
 
+</p>
+
 ⚡ Full Stack Developer - Mostly backend but frontend too.
 👨‍💻 Software Engineer & Developer who has a passion to code.
 ⭐ Been coding python a long time :)
