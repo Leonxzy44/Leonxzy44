@@ -7,9 +7,19 @@
 
 
 ---
+<p align="center">
+  
+💫 About me
+
+⚡ Full Stack Developer - Mostly backend but frontend too.
+👨‍💻 Software Engineer & Developer who has a passion to code.
+⭐ Been coding python a long time :)
+🚀 Arduino developer & Libraries.
+💼 Always up to a project.
 
 
 
+---
 
 
 
