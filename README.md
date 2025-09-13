@@ -17,7 +17,7 @@
 
 👨‍💻 Software Engineer & Developer who has a passion to code.
 
-⭐ Been coding python a long time :)
+⭐ Been coding python a 𝘭𝘰𝘯𝘨 time :)
 
 🚀 Arduino developer & Libraries.
 
