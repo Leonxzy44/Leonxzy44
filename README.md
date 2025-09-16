@@ -131,24 +131,12 @@
 
 
 ---
----
-<h1 align="center">💫 About me </h1>
-
----
-
-⚡ Full Stack Developer - Mostly backend but frontend too.
-
-👨‍💻 Software Engineer & Developer who loves to code.
-
-💾 Arduino developer & Libraries.
-
-🔋 Always learning.
 
 
-Let's innovate together → 🛒 Fork a project, 🌟 star a repo, or ✉️ reach out.
 
 
----
+
+
 
 #    📚 Currently Creating & Learning
 
