@@ -23,6 +23,8 @@
 
 💼 Always up to a project.
 
+Let's innovate together → 🛒 Fork a project, 🌟 star a repo, or ✉️ reach out.
+
 
 
 ---
