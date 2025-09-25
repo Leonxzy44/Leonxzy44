@@ -17,13 +17,13 @@
 
 👨‍💻 Software Engineer & Developer who has a passion to code.
 
-⭐ Been coding python a 𝘭𝘰𝘯𝘨 time :)
+⭐ Been coding a 𝘭𝘰𝘯𝘨 time...
 
 🚀 Arduino developer & Libraries.
 
 💼 Always up to a project.
 
-Let's innovate together → 🛒 Fork a project, 🌟 star a repo, or ✉️ reach out.
+📧 leon.hodzic@outlook.com
 
 
 
