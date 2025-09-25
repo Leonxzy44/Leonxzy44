@@ -157,7 +157,7 @@ When i code, i usually listen to:
 -    🎶 Rap Hits 
 -    🎸 Progressive Rock   
 -    🎹 Ambient & Electronic Music  
--    🎮 Gaming: Funks
+-    🎮 Gaming: Electronic
 
 
  
