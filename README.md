@@ -15,11 +15,13 @@
 
 ⚡ Full Stack Developer - Mostly backend but frontend too.
 
-👨‍💻 Software Engineer & Developer who has a passion to code.
+👨‍💻 Software Engineer & Programmer.
 
 ⭐ Been coding a 𝘭𝘰𝘯𝘨 time...
 
 🚀 Arduino developer & Libraries.
+
+📑 Excell expert.
 
 💼 Always up to a project.
 
@@ -32,7 +34,7 @@
 
 
 
-<h1 align="center">💻 Tech Stack </h1>
+<h1 align="center">💼 Tech Stack </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
