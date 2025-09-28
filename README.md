@@ -9,9 +9,11 @@
 ---
 <p align="center">
   
-💫 About me
+
 
 </p>
+
+Hi there, My name is Leon and i'm from Croatia. I love to code and build projects. Most of my projects are on GitHub. My most sucessfull repo is https://github.com/Leonxzy44/Desktop-projects so you can check it out. Look at all things at read.me to find more info about me :) 
 
 ⚡ Full Stack Developer - Mostly backend but frontend too.
 
@@ -25,7 +27,7 @@
 
 💼 Always up to a project.
 
-📧 leon.hodzic@outlook.com
+📧 Contact me with mail. Links are below read.me
 
 
 
