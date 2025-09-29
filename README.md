@@ -13,9 +13,11 @@
 
 </p>
 
-My real name is Leon and i'm interested into coding, math, physics, reading, robotics and arduino. I love to code and build projects. I also like gaming. Most of my projects are on GitHub. My most successful repo is https://github.com/Leonxzy44/Desktop-projects so you can check it out. Look at all things at read.me to find more informations about me. Btw i'm a kid who still goes to school. (Best DEV in school). 
+My real name is Leon and i'm interested into coding, math, physics, reading, robotics and arduino. I love to code and build projects. I also like gaming. Most of my projects are on GitHub. My most successful repo is https://github.com/Leonxzy44/Desktop-projects so you can check it out. Look at all things at read.me to find more informations about me. If you're ever interested into collab, i'm in.
 
 ---
+<h1 align="center">💫 About >>> </h1>
+
 
 ⚡ Full Stack Developer - Mostly backend but frontend too.
 
