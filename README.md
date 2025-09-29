@@ -148,38 +148,7 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 
 
 
-#    📚 Currently Creating & Learning
 
--    🌐 **"Creating New Website for connections"**  
--    🧠 **"System Design Interview"** 
--    🚀 **"Clean Code"** 
--    ☁️ **Weather Tracking Apps & Webs**  
-     
-
----
-
-#    🎵 Coding Playlist
-
-When i code, i usually listen to:
-
--    🎶 Rap Hits 
--    🎸 Progressive Rock   
--    🎹 Ambient & Electronic Music  
--    🎮 Gaming: Electronic
-
-
- 
-
----
-
-#    ℹ️ Interesting Facts About Me
-
--    🌙 **Night Owl:** Most productive coding happens between 6 PM - 11 PM 
--    ☕ **Coffee Enthusiast:** Can't start coding without a perfect cup of coffee  
--    🎮 **Gaming:** Fortnite, Minecraft, Witcher 3, Forza Horizon 5, Clash of Clans 
--    ♟️ **Logic Games:** Enjoying Playing Chess
--    📖 **Book enjoyer** Free-time book reader
--    ⌛ **Organised Coder:** Always Organised
 
 
 
