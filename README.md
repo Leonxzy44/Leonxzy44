@@ -179,7 +179,7 @@ I'm in! If you need any help at coding, fixing bugs or just want to talk about s
 
 ---
 
-# 🔗 Connect with me
+# 🍬 Connect with me
 
 
 
