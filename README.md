@@ -32,6 +32,16 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 💼 Always up to a project.
 
 📧 Contact me with mail. Links are below read.me
+---
+#    ℹ️ Interesting Facts About Me
+
+-    🌙 **Night Owl:** Most productive coding happens between 6 PM - 11 PM 
+-    ☕ **Coffee Enthusiast:** Can't start coding without a perfect cup of coffee  
+-    🎮 **Gaming:** Fortnite, Minecraft, Witcher 3, Forza Horizon 5, Clash of Clans... 
+-    ♟️ **Chess:** Enjoying Playing Chess
+-    📖 **Book enjoyer:** Free-time book reader
+-    ⌛ **Organised Coder:** Always Organised
+
 
 
 
