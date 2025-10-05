@@ -173,7 +173,7 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 -  🤝 G-Mail:
 leonhodzic44@gmail.com
 
--  📧 Outlook:              leon.hodzic44@outlook.com
+-  📧 Outlook:              leon.hodzic@outlook.com
 
 -  📡 DC Server:  https://discord.gg/xjQx3TBZ
 
