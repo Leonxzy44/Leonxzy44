@@ -47,7 +47,7 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 
 ---
 
-<h1 align="center">🏆 Most used programming language </h1
+<h1 align="center">🏆 Most used </h1
 
 <h1 align="center">
 
