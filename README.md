@@ -170,7 +170,7 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 
 #   📨 My Mails
 
--  🤝 G-Mail:
+-  🤝 Gmail:
 leonhodzic44@gmail.com
 
 -  📧 Outlook:              leon.hodzic@outlook.com
