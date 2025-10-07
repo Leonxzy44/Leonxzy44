@@ -26,7 +26,7 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 
 ● Arduino developer & Libraries.
 
-● Excell expert.
+● Excell master.
 
 ● Always up to a project.
 
