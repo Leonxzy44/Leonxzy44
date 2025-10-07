@@ -133,7 +133,7 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 [<img src="https://img.icons8.com/color/48/iphone.png" width="20"/> **Mobile**](https://github.com/YourUsername/mobile-project)  
 [<img src="https://img.icons8.com/color/48/laptop.png" width="20"/> **Desktop**](https://github.com/Leonxzy44/Desktop-projects)  
 [<img src="https://img.icons8.com/color/48/api.png" width="20"/> **API**](https://github.com/YourUsername/api-project)  
-[<img src="https://img.icons8.com/color/48/plugin.png" width="20"/> **IDE Plugins**](https://github.com/YourUsername/ide-plugins-project)  
+[<img src="https://img.icons8.com/color/48/plugin.png" width="20"/> **IDE Plugins**](https://github.com/Leonxzy44/Plug-in/tree/main/Automatika%202025%20-%202026)  
 
 </h1>
 
