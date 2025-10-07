@@ -20,15 +20,15 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 
 ⚡ Full Stack Developer - Mostly backend but frontend too.
 
-👨‍💻 Software Engineer & Programmer.
+● Software Engineer & Programmer.
 
-⭐ Been coding a 𝘭𝘰𝘯𝘨 time...
+● Been coding a 𝘭𝘰𝘯𝘨 time...
 
-🚀 Arduino developer & Libraries.
+● Arduino developer & Libraries.
 
-📑 Excell expert.
+● Excell expert.
 
-💼 Always up to a project.
+● Always up to a project.
 
 📧 Contact me with mail. Links are below read.me
 ---
