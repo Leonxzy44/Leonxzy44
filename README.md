@@ -31,7 +31,9 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 ● Always up to a project.
 
 📧 Contact me with mail. Links are below read.me
+
 ---
+
 #    ℹ️ Interesting Facts About Me
 
 -    🌙 **Night Owl:** Most productive coding happens between 6 PM - 11 PM 
