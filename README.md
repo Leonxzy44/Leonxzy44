@@ -28,6 +28,8 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 
 ● Excell expert.
 
+● Currently working on a Lintorch software.
+
 ● Always up to a project.
 
 📧 Contact me with mail. Links are below read.me
