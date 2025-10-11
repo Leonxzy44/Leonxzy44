@@ -6,11 +6,8 @@
 </p>
 
 ---
-<p align="center">
 
-<div align="center">
 
-### 💻 Coding in Progress...
 
 <div align="center">
 
