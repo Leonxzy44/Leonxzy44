@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### 💾 Coding in progress...
+### Coding in progress...
 
 ![Super Mario Coding](https://media1.tenor.com/m/C1r3YSmu4IQAAAAd/coding.gif)
 
