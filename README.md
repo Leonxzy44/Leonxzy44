@@ -47,12 +47,15 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 📧 Contact me with mail. Links are below read.me
 
 </p>
+
 ---
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=%E2%80%8BPython+%7C+Programmer;%E2%80%8BHTML&CSS;%E2%80%8BJavaScript+%7C+C++" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=%E2%80%8BMaking usefull applicationsv& Webs+%7CHTML + CSS;%E2%80%8BHTML&CSS;%E2%80%8BJavaScript+%7C+C++" alt="Typing SVG" />
 </p>
 
 --- 
+
 <p align="center">
   🧠 Languages:
 <p align="center">
