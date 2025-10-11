@@ -9,11 +9,12 @@
 
 <div align="center">
 
-### Coding in progress...
+### 💻 Coding in Progress...
 
-![Super Mario Coding](https://media1.tenor.com/m/C1r3YSmu4IQAAAAd/coding.gif)
+![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 </div>
+
 
 ---
 
@@ -88,6 +89,15 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Leonxzy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Leonxzy" /></a></p><br><br>
+
+
+<div align="center">
+
+### Coding in progress...
+
+![Super Mario Coding](https://media1.tenor.com/m/C1r3YSmu4IQAAAAd/coding.gif)
+
+</div>
 
 
 
