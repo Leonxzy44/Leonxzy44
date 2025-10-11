@@ -7,13 +7,11 @@
 
 ---
 
-
-
 <div align="center">
 
-### 💻 Coding in Progress...
+### 💻 Mario + Code Mode
 
-![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Super Mario Coding](https://tenor.com/8BHDUYHMt6.gif)
 
 </div>
 
