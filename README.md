@@ -27,6 +27,7 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 ---
 <h1 align="center">💫 About me </h1>
 
+<p align="center">
 
 ⚡ Full Stack Developer - Mostly backend but frontend too.
 
@@ -43,6 +44,8 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 ● Always up to a project.
 
 📧 Contact me with mail. Links are below read.me
+
+</p>
 
 ---
 ### 🧠 Languages:
