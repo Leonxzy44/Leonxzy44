@@ -12,7 +12,7 @@
 
 ### 💻 Coding in Progress...
 
-![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Super Mario Coding](https://media.tenor.com/images/your-gif-id-here.gif)
 
 
 ---
