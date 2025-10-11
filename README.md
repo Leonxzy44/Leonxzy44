@@ -9,9 +9,9 @@
 
 <div align="center">
 
-### 💾 Mario is Debugging the Code...
+### 💾 Coding in progress...
 
-![Super Mario Coding](https://media.tenor.com/8BHDUYHMt6AAAAC/mario-coding.gif)
+![Super Mario Coding](https://media1.tenor.com/m/C1r3YSmu4IQAAAAd/coding.gif)
 
 </div>
 
