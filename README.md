@@ -127,9 +127,9 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 </details>
 
 <details>
-  <summary>⚙️ <b>DevOps</b></summary>
+  <summary>⚙️ <b>Softwares</b></summary>
 
-  - [**PipelinePro**](https://github.com/YOUR_USERNAME/pipelinepro) — CI/CD automation with Docker & GitHub Actions.  
+  - [**Lintorch™**](https://github.com/Leonxzy44/Lintorch-Official) — Apps stored in a one software 
   - [**Monitorly**](https://github.com/YOUR_USERNAME/monitorly) — Server monitoring dashboard using Prometheus + Grafana.
 
 </details>
@@ -153,7 +153,7 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 <details>
   <summary>🧩 <b>IDE Plugins</b></summary>
 
-  - [**CodeFormatter**](https://github.com/YOUR_USERNAME/codeformatter) — Universal code formatter for VSCode.  
+  - [**Arduino Projects**](https://github.com/Leonxzy44/ArduinoProjects) — Arduino projects library.
   - [**Rusty Helper**](https://github.com/YOUR_USERNAME/rusty-helper) — Rust code snippets & lint hints extension.
 
 </details>
