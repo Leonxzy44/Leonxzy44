@@ -108,7 +108,7 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
  <h1>
 
  ---
- ## 🏆 My Projects
+ ## ⭐ My Projects
 
 <details>
   <summary>🛡️ <b>Discord</b></summary>
