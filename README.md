@@ -82,7 +82,7 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 
 </p>
 ---
-![Super Mario Coding](https://media1.tenor.com/m/C1r3YSmu4IQAAAAd/coding.gif)
+
 
 ---
 ## 🌟 GitHub Stats
