@@ -83,7 +83,7 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 </p>
 
 ---
-![Typing Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Coding...](https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif)
 
 
 ---
