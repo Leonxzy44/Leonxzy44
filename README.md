@@ -94,7 +94,7 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&theme=tokyonight&hide_border=true)
 
-1. </h1>
+ </h1>
 
 ---
 
