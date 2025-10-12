@@ -168,38 +168,12 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 
 ### 📌 Pinned Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=clippy&theme=tokyonight)](https://github.com/YOUR_USERNAME/clippy)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=portfolio&theme=tokyonight)](https://github.com/YOUR_USERNAME/portfolio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=fittrack&theme=tokyonight)](https://github.com/YOUR_USERNAME/fittrack)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=modbot&theme=tokyonight)](https://github.com/YOUR_USERNAME/modbot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonxzy44&repo=clippy&theme=tokyonight)](https://github.com/YOUR_USERNAME/clippy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonxzy44&repo=portfolio&theme=tokyonight)](https://github.com/YOUR_USERNAME/portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonxzy44&repo=fittrack&theme=tokyonight)](https://github.com/YOUR_USERNAME/fittrack)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonxzy44&repo=modbot&theme=tokyonight)](https://github.com/YOUR_USERNAME/modbot)
 
  ---
-
-
-
-
-<h1 align="center">🚀 My Projects  </h1>
-
-
-
-<h1 align="center">
-
-
-
-
-[<img src="https://img.icons8.com/color/48/domain.png" width="20"/> **Websites**](https://github.com/YourUsername/websites-project)  
-[<img src="https://img.icons8.com/color/48/settings.png" width="20"/> **Games**](https://github.com/Leonxzy44/Games-Codes)  
-[<img src="https://img.icons8.com/color/48/iphone.png" width="20"/> **Mobile**](https://github.com/YourUsername/mobile-project)  
-[<img src="https://img.icons8.com/color/48/laptop.png" width="20"/> **Desktop**](https://github.com/Leonxzy44/Desktop-projects)  
-[<img src="https://img.icons8.com/color/48/api.png" width="20"/> **API**](https://github.com/YourUsername/api-project)  
-[<img src="https://img.icons8.com/color/48/plugin.png" width="20"/> **IDE Plugins**](https://github.com/Leonxzy44/ArduinoProjects)  
-
-</h1>
-
-
-
----
-
 
 
 
