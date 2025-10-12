@@ -129,8 +129,8 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 <details>
   <summary>⚙️ <b>Softwares</b></summary>
 
-  - [**Lintorch™**](https://github.com/Leonxzy44/Lintorch-Official) — Apps stored in a one software 
-  - [**Monitorly**](https://github.com/YOUR_USERNAME/monitorly) — Server monitoring dashboard using Prometheus + Grafana.
+  - [**Lintorch™**](https://github.com/Leonxzy44/Lintorch-Official) — Apps stored in a one software. 
+  - [**Lindows AIX™**](https://github.com/Leonxzy44/Desktop-projects/tree/main/Lindows%20AIX%E2%84%A2) — Apps stored in a one software (old version).
 
 </details>
 
