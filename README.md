@@ -108,6 +108,72 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
  <h1>
 
  ---
+ ## 🏆 My Projects
+
+<details>
+  <summary>🛡️ <b>Discord</b></summary>
+
+  - [**ModBot**](https://github.com/YOUR_USERNAME/modbot) — Powerful moderation bot with slash commands & auto-mod.  
+  - [**Musicify**](https://github.com/YOUR_USERNAME/musicify) — Music bot powered by Discord.js & Spotify API.
+
+</details>
+
+<details>
+  <summary>🌐 <b>Websites</b></summary>
+
+  - [**Portfolio**](https://github.com/YOUR_USERNAME/portfolio) — Personal portfolio built with Next.js + Tailwind CSS.  
+  - [**Blogify**](https://github.com/YOUR_USERNAME/blogify) — Static blog engine using Astro & Markdown.
+
+</details>
+
+<details>
+  <summary>⚙️ <b>DevOps</b></summary>
+
+  - [**PipelinePro**](https://github.com/YOUR_USERNAME/pipelinepro) — CI/CD automation with Docker & GitHub Actions.  
+  - [**Monitorly**](https://github.com/YOUR_USERNAME/monitorly) — Server monitoring dashboard using Prometheus + Grafana.
+
+</details>
+
+<details>
+  <summary>📱 <b>Mobile</b></summary>
+
+  - [**FitTrack**](https://github.com/YOUR_USERNAME/fittrack) — Fitness tracking app built with Flutter.  
+  - [**QuickNote**](https://github.com/YOUR_USERNAME/quicknote) — Minimal note app with end-to-end encryption.
+
+</details>
+
+<details>
+  <summary>💻 <b>Desktop</b></summary>
+
+  - [**Clippy**](https://github.com/YOUR_USERNAME/clippy) — Privacy-focused clipboard manager with sync & encryption *(Rust)*.  
+  - [**Termi**](https://github.com/YOUR_USERNAME/termi) — A modern, customizable terminal emulator built with Electron.
+
+</details>
+
+<details>
+  <summary>🧩 <b>IDE Plugins</b></summary>
+
+  - [**CodeFormatter**](https://github.com/YOUR_USERNAME/codeformatter) — Universal code formatter for VSCode.  
+  - [**Rusty Helper**](https://github.com/YOUR_USERNAME/rusty-helper) — Rust code snippets & lint hints extension.
+
+</details>
+
+---
+
+### 📊 Language Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 📌 Pinned Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=clippy&theme=tokyonight)](https://github.com/YOUR_USERNAME/clippy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=portfolio&theme=tokyonight)](https://github.com/YOUR_USERNAME/portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=fittrack&theme=tokyonight)](https://github.com/YOUR_USERNAME/fittrack)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=modbot&theme=tokyonight)](https://github.com/YOUR_USERNAME/modbot)
+
+ ---
 
 
 
