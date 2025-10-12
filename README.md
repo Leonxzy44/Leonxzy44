@@ -45,6 +45,8 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 
 ● Always up to a project.
 
+🌱 Currently working on: Lintorch software.
+
 📧 Contact me with mail. Links are below read.me
 
 </p>
