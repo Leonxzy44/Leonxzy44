@@ -82,19 +82,31 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 
 </p>
 
+---
+## 🌟 GitHub Stats
 
-
+### ⚡ Overall Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
-<h1 align="center">
-
-
-### 📊 Language Stats
-
+### 📊 Language Usage
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&theme=tokyonight&hide_border=true)
 
- </h1>
+---
+
+### 🔥 Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Leonxzy44&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Leonxzy44&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📈 Activity Graph
+[![YOUR_USERNAME's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leonxzy44&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
