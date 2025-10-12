@@ -88,16 +88,15 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 ---
 
 
+### 📊 Language Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&theme=tokyonight&hide_border=true)
+
 <div align="center">
 
-
-![Super Mario Coding](https://media1.tenor.com/m/C1r3YSmu4IQAAAAd/coding.gif)
-
-</div>
-
-
-
 ---
+
+
 
 <h1 align="center">🏆 Most used </h1
 
@@ -159,25 +158,6 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 </details>
 
 ---
-
-### 📊 Language Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 📌 Pinned Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonxzy44&repo=clippy&theme=tokyonight)](https://github.com/YOUR_USERNAME/clippy)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonxzy44&repo=portfolio&theme=tokyonight)](https://github.com/YOUR_USERNAME/portfolio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonxzy44&repo=fittrack&theme=tokyonight)](https://github.com/YOUR_USERNAME/fittrack)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonxzy44&repo=modbot&theme=tokyonight)](https://github.com/YOUR_USERNAME/modbot)
-
- ---
-
-
-
-
 
 
 <p align="center">
