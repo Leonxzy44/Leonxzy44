@@ -85,7 +85,7 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 ---
 <div align="center">
   
-![Coding...](https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif)
+![Coding...](https://media1.tenor.com/m/kxiro8Eecb8AAAAd/coding.gif)
 
 </div>
 
