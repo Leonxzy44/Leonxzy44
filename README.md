@@ -1,5 +1,40 @@
 <h1 align="center">Hi there! My name is Leonxzy! 👋 </h1>
 
+---
+<h1 align="center">Leon Hodzic</h1>
+
+<p align="center">
+  <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=00bfff" /></a>
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00bfff" /></a>
+  <a href="https://x.com/"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=00bfff" /></a>
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=00bfff" /></a>
+  <a href="https://dev.to/"><img src="https://img.shields.io/badge/DEV.to-000?style=for-the-badge&logo=devdotto&logoColor=00bfff" /></a>
+  <a href="https://ko-fi.com/"><img src="https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=kofi&logoColor=00bfff" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Subscribe-8.4K-00bfff?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Views-766K-00bfff?style=for-the-badge&logo=eye&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stars-17K-00bfff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Follow-8-00bfff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visitors-189K-00bfff?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="200" />
+  <img src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" width="200" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Star-00bfff?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=%E2%80%8BSoftware+Developer+%7C+Programmer;%E2%80%8BOpen+Source+Enthusiast;%E2%80%8BTech+Explorer+%7C+Robotics" alt="Typing SVG" />
