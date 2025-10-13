@@ -22,8 +22,8 @@
 <p align="center">
   <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=00bfff" /></a>
   <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00bfff" /></a>
-  <a href="https://x.com/"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=00bfff" /></a>
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=00bfff" /></a>
+  <a href="https://x.com/LeonxzyDEV"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=00bfff" /></a>
+  <a href="https://discord.com/channels/@lilcoder"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=00bfff" /></a>
   <a href="https://dev.to/"><img src="https://img.shields.io/badge/DEV.to-000?style=for-the-badge&logo=devdotto&logoColor=00bfff" /></a>
   <a href="https://ko-fi.com/"><img src="https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=kofi&logoColor=00bfff" /></a>
 </p>
