@@ -69,7 +69,7 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 
 ● Always up to a project.
 
-🌱 Currently working on: Lintorch software.
+💼 Currently working on: Lintorch software.
 
 📧 Contact me with mail. Links are below read.me
 
@@ -236,61 +236,6 @@ leonhodzic44@gmail.com
 <p align="center">
 I'm in! If you need any help at coding, fixing bugs or just want to talk about something, ask me!
 
-</p>
-
----
-
-# 🍬 Connect with me (Click the button)
-
-
-
-
-
-  <!-- Stack Overflow -->
-  <a href="https://stackoverflow.com/users/30537744/leonxzy44" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow logo"/>
-  </a>
-
-
-  <p align="left">
-  <!-- Twitter/X -->
-  <a href="https://x.com/LeonxzyDEV" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X logo"/>
-  </a>
-
-  <p align="left">
-  <!-- Discord -->
-  <a href="https://discord.com/channels/@leonxzy_" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-
-  <p align="left">
-  <!-- Spotify -->
-  <a href="https://open.spotify.com/user/31a5f6q7d6vszhg65tjld37ix5i4" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
-  </a>
-</p>
-
-
-
-<!-- Profile Buttons -->
-<p align="left">
-  <a href="https://www.hackerrank.com/profile/Leon Hodžić">
-    <img alt="HackerRank"
-         src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
-  </a>
-  <a href="https://monkeytype.com/profile/Leonxzy">
-    <img alt="Monkeytype"
-         src="https://img.shields.io/badge/MONKEYTYPE-E2B714?style=for-the-badge&logo=monkeytype&logoColor=black">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/User:Leon Hodzic">
-    <img alt="Wikipedia"
-         src="https://img.shields.io/badge/WIKIPEDIA-000000?style=for-the-badge&logo=wikipedia&logoColor=white">
-  </a>
-  <a href="https://www.chess.com/member/Leonxzy44">
-    <img alt="Chess.com"
-         src="https://img.shields.io/badge/CHESS.COM-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white">
-  </a>
 </p>
 
 ---
