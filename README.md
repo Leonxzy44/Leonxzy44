@@ -23,10 +23,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="200" />
-  <img src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" width="200" />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub%20Star-00bfff?style=for-the-badge&logo=github&logoColor=white" />
