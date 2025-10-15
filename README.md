@@ -29,20 +29,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Subscribe-8.4K-00bfff?style=for-the-badge&logo=youtube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Views-766K-00bfff?style=for-the-badge&logo=eye&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stars-17K-00bfff?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Follow-8-00bfff?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visitors-189K-00bfff?style=for-the-badge&logo=githubsponsors&logoColor=white" />
-</p>
-
----
 
 
 
-
-  
 
 
 </p>
