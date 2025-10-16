@@ -12,9 +12,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=1E2A78&center=true&vCenter=true&lines=ALWAYS+CODING;LEONXZY" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/k9YzZfY.png" width="400" alt="Leonxzy Logo"/> <!-- Replace with your logo if you want -->
-</p>
 
 
 ---
