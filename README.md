@@ -21,6 +21,10 @@
 
 ---
 
+![Discord Presence](https://lanyard.cnrad.dev/api/1341794911258939543?theme=dark&cachebust=2)
+
+
+
 <p align="center">
   <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=00bfff" /></a>
   <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00bfff" /></a>
@@ -29,7 +33,6 @@
   <a href="https://dev.to/"><img src="https://img.shields.io/badge/DEV.to-000?style=for-the-badge&logo=devdotto&logoColor=00bfff" /></a>
   <a href="https://ko-fi.com/"><img src="https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=kofi&logoColor=00bfff" /></a>
 
-![Discord Presence](https://lanyard.cnrad.dev/api/1341794911258939543?theme=dark&cachebust=2)
 
 
 
