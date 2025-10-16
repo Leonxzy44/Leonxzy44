@@ -19,10 +19,6 @@
 
 <svg viewBox="0 0 560 210" width="560" height="210" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated tech tiles: JavaScript, Python, HTML, C++, C#">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#0e1117"/>
-      <stop offset="1" stop-color="#0b0f16"/>
-    </linearGradient>
     <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="5" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
@@ -68,8 +64,10 @@
     </symbol>
   </defs>
 
-  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <!-- solid dark background to fix GitHub gray issue -->
+  <rect width="100%" height="100%" fill="#0e1117"/>
 
+  <!-- Tiles -->
   <g transform="translate(20 30)">
     <g transform="translate(0 0)">
       <use href="#card"/>
@@ -105,7 +103,6 @@
 </svg>
 
 </div>
-
 
 ---
 
