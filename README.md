@@ -79,7 +79,7 @@
 My real name is Leon and i'm interested into coding, math, physics, reading, robotics and arduino. I love to code and build projects. I also like gaming. Most of my projects are on GitHub. My most successful repo is https://github.com/Leonxzy44/Desktop-projects so you can check it out. You will probably like software Lintorch. Look at all things at read.me to find more informations about me. If you're ever interested into collaboration, contact me and then we are going to talk about it. Lintorch Software: https://github.com/Leonxzy44/Lintorch-Official
 
 ---
-<h1 align="center">💫 About me </h1>
+<h1 align="center">🚀 About me </h1>
 
 <p align="center">
 
