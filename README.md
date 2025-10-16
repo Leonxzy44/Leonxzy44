@@ -21,7 +21,8 @@
 
 ---
 
-![Discord Presence](https://lanyard.cnrad.dev/api/1341794911258939543?theme=dark&cachebust=2)
+<img width="214" height="91" alt="image" src="https://github.com/user-attachments/assets/9f80d144-b86b-4d39-88ed-decdc1128d50" />
+
 
 
 
