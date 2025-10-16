@@ -15,12 +15,97 @@
 
 
 ---
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Leonxzy&color=1E2A78&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/stars/Leonxzy?color=1E2A78&style=flat-square" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/github/followers/Leonxzy?color=1E2A78&style=flat-square" alt="GitHub Followers"/>
-</p>
+<svg viewBox="0 0 560 210" width="560" height="210" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated tech tiles: JavaScript, Python, HTML, C++, C#">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0e1117"/>
+      <stop offset="1" stop-color="#0b0f16"/>
+    </linearGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <symbol id="card" viewBox="0 0 96 96">
+      <rect x="0.5" y="0.5" width="95" height="95" rx="6" fill="#111826" stroke="#2a3242"/>
+    </symbol>
+
+    <!-- Icons -->
+    <symbol id="ico-js" viewBox="0 0 72 72">
+      <rect x="6" y="6" width="60" height="60" rx="6" fill="#f7df1e"/>
+      <text x="36" y="50" font-family="Segoe UI, Inter, Arial" font-size="36" font-weight="700" text-anchor="middle" fill="#1a1a1a">JS</text>
+    </symbol>
+
+    <symbol id="ico-py" viewBox="0 0 72 72">
+      <g>
+        <path d="M36 10c14 0 15 5 15 13v6H21v-7c0-7 3-12 15-12z" fill="#3776AB"/>
+        <circle cx="43.5" cy="20" r="3" fill="#fff"/>
+        <path d="M36 62c-14 0-15-5-15-13v-6h30v7c0 7-3 12-15 12z" fill="#FFE873"/>
+        <circle cx="28.5" cy="52" r="3" fill="#4a4a4a"/>
+      </g>
+    </symbol>
+
+    <symbol id="ico-html" viewBox="0 0 72 72">
+      <path d="M12 8h48l-5 48-19 8-19-8-5-48z" fill="#e44d26"/>
+      <path d="M36 64l19-8 4-40H36v48z" fill="#f16529"/>
+      <rect x="20" y="22" width="32" height="7" fill="#fff" opacity=".9"/>
+      <rect x="20" y="34" width="26" height="7" fill="#fff" opacity=".9"/>
+      <rect x="20" y="46" width="20" height="7" fill="#fff" opacity=".9"/>
+    </symbol>
+
+    <symbol id="ico-cpp" viewBox="0 0 72 72">
+      <rect x="6" y="6" width="60" height="60" rx="8" fill="#00599C"/>
+      <text x="30" y="50" font-family="Segoe UI, Inter, Arial" font-size="34" font-weight="700" text-anchor="middle" fill="#fff">C</text>
+      <text x="46" y="33" font-family="Segoe UI, Inter, Arial" font-size="20" font-weight="700" text-anchor="middle" fill="#fff">+</text>
+      <text x="56" y="47" font-family="Segoe UI, Inter, Arial" font-size="20" font-weight="700" text-anchor="middle" fill="#fff">+</text>
+    </symbol>
+
+    <symbol id="ico-cs" viewBox="0 0 72 72">
+      <rect x="6" y="6" width="60" height="60" rx="8" fill="#68217A"/>
+      <text x="32" y="50" font-family="Segoe UI, Inter, Arial" font-size="34" font-weight="700" text-anchor="middle" fill="#fff">C</text>
+      <text x="51" y="33" font-family="Segoe UI, Inter, Arial" font-size="24" font-weight="700" text-anchor="middle" fill="#fff">#</text>
+    </symbol>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+
+  <g transform="translate(20 30)">
+    <g transform="translate(0 0)">
+      <use href="#card"/>
+      <use href="#ico-js" x="12" y="10"/>
+      <text x="48" y="90" fill="#dfe7ff" text-anchor="middle" font-family="Inter, Segoe UI" font-size="14">JavaScript</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(110 0)">
+      <use href="#card"/>
+      <use href="#ico-py" x="12" y="10"/>
+      <text x="48" y="90" fill="#dfe7ff" text-anchor="middle" font-family="Inter, Segoe UI" font-size="14">Python</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3s" begin=".3s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(220 0)">
+      <use href="#card"/>
+      <use href="#ico-html" x="12" y="10"/>
+      <text x="48" y="90" fill="#dfe7ff" text-anchor="middle" font-family="Inter, Segoe UI" font-size="14">HTML</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3s" begin=".6s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(330 0)">
+      <use href="#card"/>
+      <use href="#ico-cpp" x="12" y="10"/>
+      <text x="48" y="90" fill="#dfe7ff" text-anchor="middle" font-family="Inter, Segoe UI" font-size="14">C++</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3s" begin=".9s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(440 0)">
+      <use href="#card"/>
+      <use href="#ico-cs" x="12" y="10"/>
+      <text x="48" y="90" fill="#dfe7ff" text-anchor="middle" font-family="Inter, Segoe UI" font-size="14">C#</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
+
+</div>
+
 
 ---
 
