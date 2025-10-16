@@ -106,10 +106,7 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 ---
 
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=1E2A78&center=true&vCenter=true&lines=Always+with+coffee;Mostly+coding+python;Coding+every+day" alt="Typing SVG" />
-</p>
+![Coding Life](https://img.shields.io/badge/Can't%20start%20coding%20without%20coffee...%20|%20Coding%20every%20day%20|%20Mostly%20coding%20in%20Python%20|%20Always%20Learning-007BFF?style=for-the-badge&logo=github&logoColor=white)
 
 
 <p align="center">
