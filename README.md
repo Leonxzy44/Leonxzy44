@@ -7,6 +7,49 @@
 </p>
 
 ---
+<!-- README.md for Leonxzy -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=1E2A78&center=true&vCenter=true&lines=THANKS+FOR+VISITING;LEONXZY" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/k9YzZfY.png" width="400" alt="Leonxzy Logo"/> <!-- Replace with your logo if you want -->
+</p>
+
+<p align="center">
+  <b>Developer</b>
+</p>
+
+<p align="center">
+  <a href="https://codepen.io/"><img src="https://img.icons8.com/ios-filled/30/1E2A78/codepen.png" alt="CodePen"/></a>
+  <a href="https://dev.to/"><img src="https://img.icons8.com/ios-filled/30/1E2A78/dev.png" alt="DEV"/></a>
+  <a href="https://discord.gg/"><img src="https://img.icons8.com/ios-filled/30/1E2A78/discord-logo.png" alt="Discord"/></a>
+  <a href="https://www.buymeacoffee.com/"><img src="https://img.icons8.com/ios-filled/30/1E2A78/cafe.png" alt="BuyMeACoffee"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Leonxzy&color=1E2A78&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/stars/Leonxzy?color=1E2A78&style=flat-square" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/followers/Leonxzy?color=1E2A78&style=flat-square" alt="GitHub Followers"/>
+</p>
+
+---
+
+### 🧠 Discord Presence
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/your_discord_id_here?bg=1E2A78&borderRadius=8px&idleMessage=Probably+coding..." alt="Discord Presence"/>
+</p>
+
+---
+
+### 🎧 Currently Listening To
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id_here&cover_image=true&theme=default&show_offline=false&background_color=1E2A78&interchange=false" alt="Spotify Now Playing"/>
+</p>
+
+---
 
 <div align="center">
 
