@@ -108,9 +108,8 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Can't+start+coding+without+coffee;Mostly+coding+in+Python;Preferring+Backend;Coding+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=5000&color=1E2A78&center=true&vCenter=true&lines=Can't+start+coding+without+coffe...;Mostly+coding+in+python;Coding+every+day" alt="Typing SVG" />
 </p>
-
 
 
 <p align="center">
