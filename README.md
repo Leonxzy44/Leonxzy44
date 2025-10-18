@@ -8,7 +8,7 @@
 
 ---
 
-<img src="./assets/javascript.svg" width="120">
+
 
 
 <div align="center">
