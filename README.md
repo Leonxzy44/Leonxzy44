@@ -21,11 +21,6 @@
 
 ---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-
-
-
 
 <p align="center">
   <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=00bfff" /></a>
