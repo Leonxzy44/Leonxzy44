@@ -7,7 +7,7 @@
 </p>
 
 ---
-[![My Skills](https://i.icoziv.workers.dev/icons?i=java,js,python,cpp,csharp,html&theme=dark)](https://i.icoziv.workers.dev)
+
 
 
 
