@@ -184,8 +184,12 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 </div>
 
 ---
+
+<p align="center">
+
 <h3>🧱 Minecraft stats</h3>
 
+</p>
 
 <p align="center">
 
