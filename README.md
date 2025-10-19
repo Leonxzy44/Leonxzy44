@@ -23,10 +23,10 @@
 
 ---
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=<Leonxzy>&cover_image=true&theme=default)](https://open.spotify.com/user/<spotify-username>)
 
 
----
+
+
 
 </p>
 
