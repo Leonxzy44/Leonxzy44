@@ -117,31 +117,36 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 
 <h1 align="center">🔮 GitHub Stats </h1>
 
-
-
 ### ⚡ Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
 ### 📊 Language Usage
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&theme=tokyonight&hide_border=true)
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ### 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Leonxzy44&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Leonxzy44&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Leonxzy44&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Leonxzy44&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
+</p>
 
 ### 📈 Activity Graph
-[![YOUR_USERNAME's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leonxzy44&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonxzy44&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
+</p>
 
 ---
 
