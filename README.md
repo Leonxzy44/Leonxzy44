@@ -3,7 +3,7 @@
 
    ![ Profile Views](https://komarev.com/ghpvc/?username=Leonxzy44&label=VIEWS&color=2f2f2f&style=for-the-badge)
 
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&title_color=yellow&icon_color=yellow&text_color=ffffff&bg_color=0d1117)
+   
 
   
 
