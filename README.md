@@ -13,10 +13,10 @@
 <h1 align="center">Hi there! My name is Leonxzy! 👋 </h1>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=ff7a00&style=for-the-badge&labelColor=000000&abbreviated=false" alt="Profile views" />
-</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile_Views-1842-orange?style=for-the-badge&color=ff7a00&labelColor=000000" alt="Profile views" />
+</p>
 
 
 
