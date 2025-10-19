@@ -3,10 +3,9 @@
 
    ![ Profile Views](https://komarev.com/ghpvc/?username=Leonxzy44&label=VIEWS&color=2f2f2f&style=for-the-badge)
 
-  ![GitHub Repo stars](https://img.shields.io/github/stars/octocat/Hello-World?color=yellow&style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/octocat/Hello-World?color=brightgreen&style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/octocat/Hello-World?color=blue&style=for-the-badge)
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&title_color=yellow&icon_color=yellow&text_color=ffffff&bg_color=0d1117)
 
+  
 
    ---
 </h1>
