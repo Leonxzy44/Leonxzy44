@@ -3,6 +3,14 @@
 
    ![ Profile Views](https://komarev.com/ghpvc/?username=Leonxzy44&label=VIEWS&color=2f2f2f&style=for-the-badge)
 
+   ![GitHub Repo stars](https://img.shields.io/github/stars/Leonxzy44/REPO?color=yellow&style=for-the-badge)
+
+   ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Leonxzy44/REPO?color=brightgreen&style=for-the-badge)
+
+   ![GitHub forks](https://img.shields.io/github/forks/Leonxzy44/REPO?color=blue&style=for-the-badge)
+
+
+
    ---
 </h1>
 
