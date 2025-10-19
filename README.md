@@ -1,3 +1,11 @@
+
+<h1 align="center"> 
+
+   ![ Profile Views](https://komarev.com/ghpvc/?username=Leonxzy44&label=VIEWS&color=2f2f2f&style=for-the-badge)
+
+   ---
+</h1>
+
 <h1 align="center">Hi there! My name is Leonxzy! 👋 </h1>
 
 
@@ -297,29 +305,6 @@ I'm in! If you need any help at coding, fixing bugs or just want to talk about s
 
 </p>
 
----
-
-
-
-
-
-
-<p align="center"> Thank you for visiting and Happy Coding! 🌟
-
-<h1 align="center"> 
-
-   ![ Profile Views](https://komarev.com/ghpvc/?username=Leonxzy44&label=VIEWS&color=2f2f2f&style=for-the-badge)
-
- 
-
-   
-
-   
-
-   
-
-  
-</h1>
 
 
 <!---
