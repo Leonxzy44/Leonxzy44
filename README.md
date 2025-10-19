@@ -115,15 +115,8 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 
 ---
 
-<div align="center">
-  
-![Coding...](https://media1.tenor.com/m/kxiro8Eecb8AAAAd/coding.gif)
 
-</div>
-
----
-
-<h1 align="center">🌟 GitHub Stats </h1>
+<h1 align="center">🔮 GitHub Stats </h1>
 
 
 
