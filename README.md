@@ -120,27 +120,28 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 <h1>🔮 GitHub Stats</h1>
 
 <h3>⚡ Overall Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&bg_color=1E1E1E" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FF7A00&icon_color=FF7A00&text_color=FFFFFF&bg_color=1E1E1E" alt="GitHub Stats" />
 
 <h3>📊 Language Usage</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&theme=radical&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=1E1E1E" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&theme=radical&hide_border=true&title_color=FF7A00&text_color=FFFFFF&bg_color=1E1E1E" alt="Top Languages" />
 
 <h3>🔥 Contribution Streak</h3>
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Leonxzy44&theme=radical&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Leonxzy44&theme=radical&hide_border=true&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00" alt="GitHub Streak" />
 </a>
 
 <h3>🏆 GitHub Trophies</h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leonxzy44&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=5&title=00FF00&text=FFFFFF&bg=1E1E1E" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Leonxzy44&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=5&title=FF7A00&text=FFFFFF&bg=1E1E1E" alt="Trophies" />
 </a>
 
 <h3>📈 Activity Graph</h3>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonxzy44&theme=react-dark&hide_border=true&line=00FF00&point=00FF00" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonxzy44&theme=react-dark&hide_border=true&line=FF7A00&point=FF7A00" alt="GitHub Activity Graph" />
 </a>
 
 </div>
+
 
 
 ---
