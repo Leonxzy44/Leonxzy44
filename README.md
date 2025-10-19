@@ -22,47 +22,10 @@
 </p>
 
 ---
-<p align="center">
-  <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF8C00" /></a>
-  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF8C00" /></a>
-  <a href="https://x.com/LeonxzyDEV"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FF8C00" /></a>
-  <a href="https://discord.com/channels/@lilcoder"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF8C00" /></a>
-  <a href="https://dev.to/"><img src="https://img.shields.io/badge/DEV.to-000000?style=for-the-badge&logo=devdotto&logoColor=FF8C00" /></a>
-  <a href="https://ko-fi.com/"><img src="https://img.shields.io/badge/Ko--fi-000000?style=for-the-badge&logo=kofi&logoColor=FF8C00" /></a>
-
-  <div align="center">
-
-  <!-- Wikipedia -->
-  <a href="https://en.wikipedia.org/wiki/Special:Contributions/Leon_Hodzic" target="_blank">
-    <img src="https://img.shields.io/badge/WIKIPEDIA-000000?style=for-the-badge&logo=wikipedia&logoColor=FF8C00" alt="Wikipedia"/>
-  </a>
-
-  <!-- Stack Overflow -->
-  <a href="https://stackoverflow.com/users/30537744/leonxzythedev" target="_blank">
-    <img src="https://img.shields.io/badge/STACK_OVERFLOW-000000?style=for-the-badge&logo=stackoverflow&logoColor=FF8C00" alt="Stack Overflow"/>
-  </a>
-
-  <!-- Monkeytype -->
-  <a href="https://monkeytype.com/Leonxzy" target="_blank">
-    <img src="https://img.shields.io/badge/MONKEYTYPE-000000?style=for-the-badge&logo=monkeytype&logoColor=FF8C00" alt="Monkeytype"/>
-  </a>
-
-  <!-- Chess.com -->
-  <a href="https://www.chess.com/member/leonxzy44" target="_blank">
-    <img src="https://img.shields.io/badge/CHESS.COM-000000?style=for-the-badge&logo=chessdotcom&logoColor=FF8C00" alt="Chess.com"/>
-  </a>
-
-  <!-- Lichess -->
-  <a href="https://lichess.org/@/LeonxzyChess" target="_blank">
-    <img src="https://img.shields.io/badge/LICHESS-000000?style=for-the-badge&logo=lichess&logoColor=FF8C00" alt="Lichess"/>
-  </a>
-
-</div>
-</p>
 
 
 
----
+
 
 
 
