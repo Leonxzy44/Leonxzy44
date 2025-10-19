@@ -4,6 +4,10 @@
    ![ Profile Views](https://komarev.com/ghpvc/?username=Leonxzy44&label=VIEWS&color=2f2f2f&style=for-the-badge)
 
    
+![Total Stars](https://img.shields.io/badge/Total_Stars-⭐_Dynamic-yellow?style=for-the-badge)
+![Total Commits](https://img.shields.io/badge/Total_Commits-🟢_Dynamic-brightgreen?style=for-the-badge)
+![Total Forks](https://img.shields.io/badge/Total_Forks-🔵_Dynamic-blue?style=for-the-badge)
+
 
   
 
