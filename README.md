@@ -20,69 +20,6 @@
 
 ---
 
-
-
-
-<div align="center">
-
-### 💻 Coding in Progress...
-
-![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-</div>
-
----
-
-
-<p align="center">
-  <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=00bfff" /></a>
-  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00bfff" /></a>
-  <a href="https://x.com/LeonxzyDEV"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=00bfff" /></a>
-  <a href="https://discord.com/channels/@lilcoder"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=00bfff" /></a>
-  <a href="https://dev.to/"><img src="https://img.shields.io/badge/DEV.to-000?style=for-the-badge&logo=devdotto&logoColor=00bfff" /></a>
-  <a href="https://ko-fi.com/"><img src="https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=kofi&logoColor=00bfff" /></a>
-
-
-
-
-  <div align="center">
-
-  <!-- Wikipedia -->
-  <a href="https://en.wikipedia.org/wiki/Special:Contributions/Leon_Hodzic" target="_blank">
-    <img src="https://img.shields.io/badge/WIKIPEDIA-000000?style=for-the-badge&logo=wikipedia&logoColor=00BFFF" alt="Wikipedia"/>
-  </a>
-
-  <!-- Stack Overflow -->
-  <a href="https://stackoverflow.com/users/30537744/leonxzythedev" target="_blank">
-    <img src="https://img.shields.io/badge/STACK_OVERFLOW-000000?style=for-the-badge&logo=stackoverflow&logoColor=00BFFF" alt="Stack Overflow"/>
-  </a>
-
-  <!-- Monkeytype -->
-  <a href="https://monkeytype.com/Leonxzy" target="_blank">
-    <img src="https://img.shields.io/badge/MONKEYTYPE-000000?style=for-the-badge&logo=monkeytype&logoColor=00BFFF" alt="Monkeytype"/>
-  </a>
-
-  <!-- Chess.com -->
-  <a href="https://www.chess.com/member/leonxzy44" target="_blank">
-    <img src="https://img.shields.io/badge/CHESS.COM-000000?style=for-the-badge&logo=chessdotcom&logoColor=00BFFF" alt="Chess.com"/>
-  </a>
-
-  <!-- Lichess -->
-  <a href="https://lichess.org/@/LeonxzyChess" target="_blank">
-    <img src="https://img.shields.io/badge/LICHESS-000000?style=for-the-badge&logo=lichess&logoColor=00BFFF" alt="Lichess"/>
-  </a>
-
-</div>
-
-</p>
-
----
-
-
-
-
-
-
 </p>
 
 My real name is Leon and i'm interested into coding, math, physics, reading, robotics and arduino. I love to code and build projects. I also like gaming. Most of my projects are on GitHub. My most successful repo is https://github.com/Leonxzy44/Desktop-projects so you can check it out. You will probably like software Lintorch. Look at all things at read.me to find more informations about me. If you're ever interested into collaboration, contact me and then we are going to talk about it. Lintorch Software: https://github.com/Leonxzy44/Lintorch-Official
@@ -97,7 +34,6 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 ● Software Engineer & Programmer.
 
 ● Been coding a 𝘭𝘰𝘯𝘨 time...
-
 ● Arduino developer & Libraries.
 
 ● Excell expert.
@@ -286,12 +222,54 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 
 ---
 
+<p align="center">
+  <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=00bfff" /></a>
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00bfff" /></a>
+  <a href="https://x.com/LeonxzyDEV"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=00bfff" /></a>
+  <a href="https://discord.com/channels/@lilcoder"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=00bfff" /></a>
+  <a href="https://dev.to/"><img src="https://img.shields.io/badge/DEV.to-000?style=for-the-badge&logo=devdotto&logoColor=00bfff" /></a>
+  <a href="https://ko-fi.com/"><img src="https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=kofi&logoColor=00bfff" /></a>
+
+
+
+
+  <div align="center">
+
+  <!-- Wikipedia -->
+  <a href="https://en.wikipedia.org/wiki/Special:Contributions/Leon_Hodzic" target="_blank">
+    <img src="https://img.shields.io/badge/WIKIPEDIA-000000?style=for-the-badge&logo=wikipedia&logoColor=00BFFF" alt="Wikipedia"/>
+  </a>
+
+  <!-- Stack Overflow -->
+  <a href="https://stackoverflow.com/users/30537744/leonxzythedev" target="_blank">
+    <img src="https://img.shields.io/badge/STACK_OVERFLOW-000000?style=for-the-badge&logo=stackoverflow&logoColor=00BFFF" alt="Stack Overflow"/>
+  </a>
+
+  <!-- Monkeytype -->
+  <a href="https://monkeytype.com/Leonxzy" target="_blank">
+    <img src="https://img.shields.io/badge/MONKEYTYPE-000000?style=for-the-badge&logo=monkeytype&logoColor=00BFFF" alt="Monkeytype"/>
+  </a>
+
+  <!-- Chess.com -->
+  <a href="https://www.chess.com/member/leonxzy44" target="_blank">
+    <img src="https://img.shields.io/badge/CHESS.COM-000000?style=for-the-badge&logo=chessdotcom&logoColor=00BFFF" alt="Chess.com"/>
+  </a>
+
+  <!-- Lichess -->
+  <a href="https://lichess.org/@/LeonxzyChess" target="_blank">
+    <img src="https://img.shields.io/badge/LICHESS-000000?style=for-the-badge&logo=lichess&logoColor=00BFFF" alt="Lichess"/>
+  </a>
+
+</div>
+
+</p>
 
 
 
 
 
 
+---
 #   📨 My Mails
 
 -  🤝 Gmail:
