@@ -130,14 +130,6 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
   <img src="https://streak-stats.demolab.com?user=Leonxzy44&theme=radical&hide_border=true&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00" alt="GitHub Streak" />
 </a>
 
-<h3>🏆 GitHub Trophies</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Leonxzy44&theme=radical&no-frame=true&title=FF7A00&text=FFFFFF&bg=1E1E1E" alt="Trophies" />
-  </a>
-</p>
-
-
 <h3>📈 Activity Graph</h3>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonxzy44&theme=react-dark&hide_border=true&line=FF7A00&point=FF7A00" alt="GitHub Activity Graph" />
