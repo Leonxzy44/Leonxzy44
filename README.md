@@ -131,9 +131,12 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 </a>
 
 <h3>🏆 GitHub Trophies</h3>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leonxzy44&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=5&title=FF7A00&text=FFFFFF&bg=1E1E1E" alt="Trophies" />
-</a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Leonxzy44&theme=radical&no-frame=true&title=FF7A00&text=FFFFFF&bg=1E1E1E" alt="Trophies" />
+  </a>
+</p>
+
 
 <h3>📈 Activity Graph</h3>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
