@@ -115,41 +115,34 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 
 ---
 
-<h1 align="center">🔮 GitHub Stats </h1>
+<div align="center">
 
-### ⚡ Overall Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+<h1>🔮 GitHub Stats</h1>
 
-### 📊 Language Usage
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<h3>⚡ Overall Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-### 🔥 Contribution Streak
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Leonxzy44&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+<h3>📊 Language Usage</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Leonxzy44&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
-</p>
+<h3>🔥 Contribution Streak</h3>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Leonxzy44&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 
-### 📈 Activity Graph
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonxzy44&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-  </a>
-</p>
+<h3>🏆 GitHub Trophies</h3>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Leonxzy44&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+</a>
+
+<h3>📈 Activity Graph</h3>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonxzy44&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</a>
+
+</div>
 
 ---
-
 
 <h1 align="center">🏆 Most used </h1
 
