@@ -13,7 +13,10 @@
 <h1 align="center">Hi there! My name is Leonxzy! 👋 </h1>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Leonxzy44&label=Profile+Views&color=ff7a00&style=for-the-badge&labelColor=000000&abbreviated=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=ff7a00&style=for-the-badge&labelColor=000000&abbreviated=false" alt="Profile views" />
+</p>
+
 
 
 
