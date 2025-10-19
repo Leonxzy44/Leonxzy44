@@ -185,20 +185,9 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 
 ---
 
-<p align="center">
-
-<h3>🧱 Minecraft stats</h3>
-
-</p>
-
-<p align="center">
-
-<img width="1616" height="846" alt="image" src="https://github.com/user-attachments/assets/085fa0f8-470d-48df-b8ff-e298f683e0f8" />
-
-</p>
 
 
----
+
 
 <h1 align="center">🏆 Most used </h1
 
