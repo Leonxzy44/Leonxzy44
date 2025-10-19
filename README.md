@@ -93,26 +93,23 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 </div>
 </p>
 
+---
+
 <h1 align="center">🚀 About me </h1>
 
 <p align="center">
 
-⚡ Full Stack Developer - Mostly backend but frontend too.
+● Full Stack Developer - Mostly backend but frontend too.
 
 ● Software Engineer & Programmer.
 
 ● Been coding a 𝘭𝘰𝘯𝘨 time...
+
 ● Arduino developer & Libraries.
 
-● Excell expert.
+● Currently working on: Lintorch software.
 
-● Currently working on a Lintorch software.
-
-● Always up to a project.
-
-💼 Currently working on: Lintorch software.
-
-📧 Contact me with mail. Links are below read.me
+● Contact me with mail. Links are below read.me
 
 </p>
 
