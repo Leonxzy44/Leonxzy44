@@ -195,6 +195,8 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 ---
 <h1 align="center">🌟 GitHub Stats </h1>
 
+<div align="center">
+
 
 ### ⚡ Overall Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
@@ -220,7 +222,7 @@ My real name is Leon and i'm interested into coding, math, physics, reading, rob
 [![YOUR_USERNAME's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leonxzy44&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
+</h1>
 
 
 <h1 align="center">🏆 Most used </h1
