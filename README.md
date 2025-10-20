@@ -212,7 +212,7 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
  ## ⭐ My Projects
 
 <details>
-  <summary>🟠 <b>Discord</b></summary>
+  <summary>⚙️ <b>Discord</b></summary>
 
   - [**ModBot**](https://github.com/YOUR_USERNAME/modbot) — Powerful moderation bot with slash commands & auto-mod.  
   - [**Musicify**](https://github.com/YOUR_USERNAME/musicify) — Music bot powered by Discord.js & Spotify API.
@@ -220,7 +220,7 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 </details>
 
 <details>
-  <summary>🟠 <b>Websites</b></summary>
+  <summary>⚙️ <b>Websites</b></summary>
 
   - [**Portfolio**](https://github.com/YOUR_USERNAME/portfolio) — Personal portfolio built with Next.js + Tailwind CSS.  
   - [**Blogify**](https://github.com/YOUR_USERNAME/blogify) — Static blog engine using Astro & Markdown.
@@ -228,7 +228,7 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 </details>
 
 <details>
-  <summary>🟠 <b>Softwares</b></summary>
+  <summary>⚙️ <b>Softwares</b></summary>
 
   - [**Lintorch™**](https://github.com/Leonxzy44/Lintorch-Official) — Apps stored in a one software. 
   - [**Lindows AIX™**](https://github.com/Leonxzy44/Desktop-projects/tree/main/Lindows%20AIX%E2%84%A2) — Apps stored in a one software (old version).
@@ -236,7 +236,7 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 </details>
 
 <details>
-  <summary>🟠 <b>Mobile</b></summary>
+  <summary>⚙️ <b>Mobile</b></summary>
 
   - [**FitTrack**](https://github.com/YOUR_USERNAME/fittrack) — Fitness tracking app built with Flutter.  
   - [**QuickNote**](https://github.com/YOUR_USERNAME/quicknote) — Minimal note app with end-to-end encryption.
@@ -244,7 +244,7 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 </details>
 
 <details>
-  <summary>🟠 <b>Desktop</b></summary>
+  <summary>⚙️ <b>Desktop</b></summary>
 
   - [**Clippy**](https://github.com/YOUR_USERNAME/clippy) — Privacy-focused clipboard manager with sync & encryption *(Rust)*.  
   - [**Termi**](https://github.com/YOUR_USERNAME/termi) — A modern, customizable terminal emulator built with Electron.
@@ -252,7 +252,7 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 </details>
 
 <details>
-  <summary>🟠 <b>IDE Plugins</b></summary>
+  <summary>⚙️ <b>IDE Plugins</b></summary>
 
   - [**Arduino Projects**](https://github.com/Leonxzy44/ArduinoProjects) — Arduino projects library.
   - [**Rusty Helper**](https://github.com/YOUR_USERNAME/rusty-helper) — Rust code snippets & lint hints extension.
