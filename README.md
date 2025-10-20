@@ -161,10 +161,6 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 
 ---
 
-<div align="center">
-
-<h1>🔮 GitHub Stats</h1>
-
 <h1 align="center">🔮 GitHub Stats </h1>
 
 ### ⚡ Overall Stats
@@ -197,6 +193,7 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonxzy44&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
+
 ---
 
 
