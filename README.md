@@ -165,24 +165,38 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 
 <h1>🔮 GitHub Stats</h1>
 
-<h3>⚡ Overall Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FF7A00&icon_color=FF7A00&text_color=FFFFFF&bg_color=1E1E1E" alt="GitHub Stats" />
+<h1 align="center">🔮 GitHub Stats </h1>
 
-<h3>📊 Language Usage</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&theme=radical&hide_border=true&title_color=FF7A00&text_color=FFFFFF&bg_color=1E1E1E" alt="Top Languages" />
+### ⚡ Overall Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-<h3>🔥 Contribution Streak</h3>
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Leonxzy44&theme=radical&hide_border=true&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00" alt="GitHub Streak" />
-</a>
+### 📊 Language Usage
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<h3>📈 Activity Graph</h3>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonxzy44&theme=react-dark&hide_border=true&line=FF7A00&point=FF7A00" alt="GitHub Activity Graph" />
-</a>
+### 🔥 Contribution Streak
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Leonxzy44&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
-</div>
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Leonxzy44&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
+</p>
 
+### 📈 Activity Graph
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonxzy44&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
+</p>
 ---
 
 
