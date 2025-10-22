@@ -24,7 +24,8 @@
 
 ---
 
-![WhatsApp Slika 2025-10-22 u 15 58 54_895187f8](https://github.com/user-attachments/assets/c5d51ddc-557f-44ea-ad31-ca6ea56bb005)
+![WhatsApp Slika 2025-10-22 u 16 00 49_d2259f8e](https://github.com/user-attachments/assets/0345bd76-48cf-4168-88c7-bb0edb772146)
+
 
 
 
