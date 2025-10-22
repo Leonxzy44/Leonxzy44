@@ -144,16 +144,19 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 
 <h1>🔮 GitHub Stats</h1>
 
-<h3>⚡ Overall Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<!-- 🟣 Purple Themed GitHub Stats -->
 
-<h3>📊 Language Usage</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonxzyTheDev&show_icons=true&title_color=c77dff&text_color=d6b4fc&icon_color=c77dff&bg_color=0d0d1a&hide_border=true" alt="GitHub Stats" />
+</p>
 
-<h3>🔥 Contribution Streak</h3>
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Leonxzy44&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonxzyTheDev&layout=compact&title_color=c77dff&text_color=d6b4fc&bg_color=0d0d1a&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LeonxzyTheDev&theme=purple-dark&ring=c77dff&fire=c77dff&currStreakLabel=c77dff&hide_border=true&background=0d0d1a" alt="GitHub Streak" />
+</p>
 
 <h3>🏆 GitHub Trophies</h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
