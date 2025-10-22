@@ -24,16 +24,11 @@
 
 ---
 
-<p align = "center">
-
-![WhatsApp Slika 2025-10-22 u 16 00 49_d2259f8e](https://github.com/user-attachments/assets/0345bd76-48cf-4168-88c7-bb0edb772146)
-
-</p>
 
 
 
 
----
+
 
 
 
