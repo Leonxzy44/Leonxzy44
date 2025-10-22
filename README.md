@@ -10,8 +10,9 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Leonxzy44&label=Profile+Views&color=ff7a00&style=for-the-badge&labelColor=000000" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Leonxzy44&color=6a0dad&label=Profile+Views" alt="views badge" />
 </p>
+
 
 
 
@@ -19,8 +20,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=FF7A00&center=true&vCenter=true&width=500&lines=%E2%80%8BSoftware+Developer+%7C+Programmer;%E2%80%8BOpen+Source+Enthusiast;%E2%80%8BTech+Explorer+%7C+Robotics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=A020F0&center=true&vCenter=true&width=500&lines=%E2%80%8BSoftware+Developer+%7C+Programmer;%E2%80%8BOpen+Source+Enthusiast;%E2%80%8BTech+Explorer+%7C+Robotics" alt="Typing SVG" />
 </p>
+
 
 ---
 
