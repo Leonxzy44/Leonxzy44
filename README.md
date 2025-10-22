@@ -145,7 +145,7 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 </p>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Leonxzy44&theme=radical&hide_border=true&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&background=1E1E1E&dates=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Leonxzy44&hide_border=true&background=1E1E1E&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </a>
 
 
