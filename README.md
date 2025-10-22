@@ -28,7 +28,8 @@
 
 <p align="center">
 
-![Demo Animation](https://media.newyorker.com/photos/67411356a7d224b818eb08a7/4:3/w_1080,h_810,c_limit/r45251web_rd.gif)
+<img src="https://media.newyorker.com/photos/67411356a7d224b818eb08a7/4:3/w_1080,h_810,c_limit/r45251web_rd.gif" width="400" alt="Demo Animation">
+
 
 
 </p>
