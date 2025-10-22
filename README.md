@@ -24,22 +24,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Leonxzy44&color=6a0dad&label=Profile+Views" alt="views badge" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&title_color=bb86fc&text_color=cbb7ff&icon_color=bb86fc&bg_color=0d1117&hide_border=true" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Leonxzy44&theme=purple-dark&hide_border=true" alt="streak" />
-</p>
 
 
 
 
----
 
 
 
