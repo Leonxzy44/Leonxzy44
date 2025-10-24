@@ -41,7 +41,8 @@
 
 
 
-My real name is Leon and i'm interested into coding, chess, math, physics, reading, robotics and arduino. I love to code and build projects. I want to become JavaScript and C# Software engineer. Most of my projects are on GitHub. If you want to contact me, you can do it [Here](leon.hodzic@outlook.com)
+My real name is Leon and i'm interested into coding, chess, math, physics, reading, robotics and arduino. I love to code and build projects. I want to become JavaScript and C# Software engineer. Most of my projects are on [GitHub](github.com)
+. If you want to contact me, you can do it [here](leon.hodzic@outlook.com)
 
 
 ---
