@@ -19,20 +19,16 @@
 
 ---
 
+<h3 align="center">🌐 Socials:</h3>
 <p align="center">
-
- 🌐 Socials:
-
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/)
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-FFD700?logo=monkeytype&logoColor=000000)](https://monkeytype.com/)
-[![Wikipedia](https://img.shields.io/badge/Wikipedia-000000?logo=wikipedia&logoColor=white)](https://wikipedia.org/)
-[![Lichess](https://img.shields.io/badge/Lichess-000000?logo=lichess&logoColor=white)](https://lichess.org/)
-[![Chess.com](https://img.shields.io/badge/Chess.com-81B64C?logo=chessdotcom&logoColor=white)](https://chess.com/)
-
-
-
+  <a href="https://stackoverflow.com/"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://x.com/"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"/></a>
+  <a href="https://monkeytype.com/"><img src="https://img.shields.io/badge/Monkeytype-FFD700?logo=monkeytype&logoColor=000000"/></a>
+  <a href="https://wikipedia.org/"><img src="https://img.shields.io/badge/Wikipedia-000000?logo=wikipedia&logoColor=white"/></a>
+  <a href="https://lichess.org/"><img src="https://img.shields.io/badge/Lichess-000000?logo=lichess&logoColor=white"/></a>
+  <a href="https://chess.com/"><img src="https://img.shields.io/badge/Chess.com-81B64C?logo=chessdotcom&logoColor=white"/></a>
 </p>
+
 
 
 
