@@ -136,23 +136,24 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 
 <div align="center">
 
-<h1>🔮 GitHub Stats</h1>
+<h1>💫 GitHub Stats</h1>
 
-<!-- Minimal GitHub Stats for Leonxzy44 (custom dark-green theme) -->
+<!-- GitHub Stats for Leonxzy44 — custom colours -->
 
 <p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&hide_border=true&bg_color=0b0f10&title_color=4ce475&text_color=a0a0a0&icon_color=4ce475&count_private=true" 
-       alt="GitHub Stats" 
-       height="165" />
+    src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&hide_border=true&bg_color=0E1619&title_color=4ED87A&text_color=A2A2A2&icon_color=4ED87A&count_private=true" 
+    alt="GitHub Stats" 
+    height="165" />
 </p>
 
 <p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&hide_border=true&bg_color=0b0f10&title_color=4ce475&text_color=a0a0a0&icon_color=4ce475" 
-       alt="Most Used Languages" 
-       height="165" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&hide_border=true&bg_color=0E1619&title_color=4ED87A&text_color=A2A2A2&icon_color=4ED87A" 
+    alt="Most Used Languages" 
+    height="165" />
 </p>
+
 
 
  ---
