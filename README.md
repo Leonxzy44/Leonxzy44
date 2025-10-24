@@ -142,18 +142,17 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 
 <p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true" 
+       src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&hide_border=true&bg_color=0D1117&title_color=5ee67b&text_color=9f9f9f&icon_color=5ee67b&count_private=true" 
        alt="GitHub Stats" 
        height="165" />
 </p>
 
 <p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&theme=chartreuse-dark&hide_border=true" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&hide_border=true&bg_color=0D1117&title_color=5ee67b&text_color=9f9f9f&icon_color=5ee67b" 
        alt="Most Used Languages" 
        height="165" />
 </p>
-
 
 
 
