@@ -41,7 +41,8 @@
 
 
 
-My real name is Leon and i'm interested into coding, chess, math, physics, reading, robotics and arduino. I love to code and build projects. I also like gaming. Most of my projects are on GitHub. My most successful repo is https://github.com/Leonxzy44/Desktop-projects so you can check it out. Look at all things at read.me to find more informations about me. If you're ever interested into collaboration, contact me and then we are going to talk about it. Lintorch Software: https://github.com/Leonxzy44/Lintorch-Official
+My real name is Leon and i'm interested into coding, chess, math, physics, reading, robotics and arduino. I love to code and build projects. I want to become JavaScript and C# Software engineer. Most of my projects are on GitHub. If you want to contact me, you can do it [Here](leon.hodzic@outlook.com)
+
 
 ---
 <p align="center">
@@ -111,25 +112,6 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 
 ---
 
-<h1 align="center">🚀 About me </h1>
-
-<p align="center">
-
-● Full Stack Developer - Mostly backend but frontend too.
-
-● Software Engineer & Programmer.
-
-● Been coding a 𝘭𝘰𝘯𝘨 time...
-
-● Arduino developer & Libraries.
-
-● Currently working on: Lintorch software.
-
-● Contact me with mail. Links are below read.me
-
-</p>
-
----
 
 <div align="center">
 
@@ -218,28 +200,6 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 
 
 
-
-
-
----
-#   📨 My Mails
-
--  🤝 Gmail:
-leonhodzic44@gmail.com
-
--  📧 Outlook:              leon.hodzic@outlook.com
-
--  📡 DC Server:  https://discord.gg/xjQx3TBZ
-
-
----
-<p align="center">
-👤 Looking for someone to work with? 
-</p>
-<p align="center">
-I'm in! If you need any help at coding, fixing bugs or just want to talk about something, ask me!
-
-</p>
 
 
 
