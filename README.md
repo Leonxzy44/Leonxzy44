@@ -19,7 +19,9 @@
 
 ---
 
-### 🌐 Socials:
+<p align="center">
+
+ 🌐 Socials:
 
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/)
