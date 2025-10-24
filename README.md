@@ -19,9 +19,14 @@
 
 ---
 
-<p align="center">
+### 🌐 Socials:
 
-<img src="https://media.newyorker.com/photos/67411356a7d224b818eb08a7/4:3/w_1080,h_810,c_limit/r45251web_rd.gif" width="400" alt="Demo Animation">
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-FFD700?logo=monkeytype&logoColor=000000)](https://monkeytype.com/)
+[![Wikipedia](https://img.shields.io/badge/Wikipedia-000000?logo=wikipedia&logoColor=white)](https://wikipedia.org/)
+[![Lichess](https://img.shields.io/badge/Lichess-000000?logo=lichess&logoColor=white)](https://lichess.org/)
+[![Chess.com](https://img.shields.io/badge/Chess.com-81B64C?logo=chessdotcom&logoColor=white)](https://chess.com/)
 
 
 
