@@ -156,6 +156,14 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 
 
 
+<p align="center">
+  <img 
+       src="https://streak-stats.demolab.com?user=Leonxzy44&theme=dark&hide_border=true&background=0E1619&ring=4ED87A&fire=4ED87A&currStreakLabel=4ED87A&sideNums=4ED87A&sideLabels=4ED87A&dates=A2A2A2&stroke=0E1619" 
+       alt="GitHub Streak" 
+       height="165" />
+</p>
+
+
  ---
  
  ## ⭐ My Projects
