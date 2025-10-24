@@ -121,23 +121,21 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&hide_border=true&bg_color=0E1619&title_color=4ED87A&text_color=A2A2A2&icon_color=4ED87A&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&hide_border=true&bg_color=0A1F2E&title_color=4DA6FF&text_color=A2CFFF&icon_color=4DA6FF&count_private=true" 
     alt="GitHub Stats" 
     height="165" />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&hide_border=true&bg_color=0E1619&title_color=4ED87A&text_color=A2A2A2&icon_color=4ED87A" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&hide_border=true&bg_color=0A1F2E&title_color=4DA6FF&text_color=A2CFFF&icon_color=4DA6FF" 
     alt="Most Used Languages" 
     height="165" />
 </p>
 
-
-
 <p align="center">
   <img 
-       src="https://streak-stats.demolab.com?user=Leonxzy44&theme=dark&hide_border=true&background=0E1619&ring=4ED87A&fire=4ED87A&currStreakLabel=4ED87A&sideNums=4ED87A&sideLabels=4ED87A&dates=A2A2A2&stroke=0E1619" 
+       src="https://streak-stats.demolab.com?user=Leonxzy44&theme=dark&hide_border=true&background=0A1F2E&ring=4DA6FF&fire=4DA6FF&currStreakLabel=4DA6FF&sideNums=4DA6FF&sideLabels=4DA6FF&dates=A2CFFF&stroke=0A1F2E" 
        alt="GitHub Streak" 
        height="165" />
 </p>
