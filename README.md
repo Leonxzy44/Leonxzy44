@@ -115,7 +115,7 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 
 <div align="center">
 
-<h1>💫 GitHub Stats</h1>
+<h1>🚀 GitHub Stats</h1>
 
 <!-- GitHub Stats for Leonxzy44 — custom colours -->
 
