@@ -65,6 +65,8 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
+</p>
+
 ---
 
 <p align="center">
