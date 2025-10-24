@@ -138,20 +138,21 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 
 <h1>🔮 GitHub Stats</h1>
 
-<!-- 🟣 Purple Themed GitHub Stats -->
+<!-- GitHub Stats for Leonxzy44 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&title_color=c77dff&text_color=d6b4fc&icon_color=c77dff&bg_color=0d0d1a&hide_border=true" alt="GitHub Stats" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true" 
+       alt="GitHub Stats" 
+       height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&title_color=c77dff&text_color=d6b4fc&bg_color=0d0d1a&hide_border=true" alt="Top Languages" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&theme=chartreuse-dark&hide_border=true" 
+       alt="Most Used Languages" 
+       height="165" />
 </p>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Leonxzy44&hide_border=true&background=1E1E1E&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</a>
-
 
 
 
