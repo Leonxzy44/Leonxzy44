@@ -38,7 +38,7 @@
 
 
 
-![Discord](https://discord.com/api/guilds/1341794911258939543/widget.png?style=banner2)
+![Discord](https://img.shields.io/badge/Discord-lilcoder%231234-7289DA?logo=discord)
 
 
 
