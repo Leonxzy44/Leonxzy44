@@ -25,9 +25,11 @@
   <a href="https://stackoverflow.com/users/30537744/leonxzythedev"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"/></a>
   <a href="https://monkeytype.com/Leonxzy"><img src="https://img.shields.io/badge/Monkeytype-FFD700?logo=monkeytype&logoColor=000000"/></a>
-  <a href="https://en.wikipedia.org/wiki/Special:Contributions/Leon_Hodzic"><img src="https://img.shields.io/badge/Wikipedia-000000?logo=wikipedia&logoColor=white"/></a>
-  <a href="https://lichess.org/@/LeonxzyChess"><img src="https://img.shields.io/badge/Lichess-000000?logo=lichess&logoColor=white"/></a>
-  <a href="https://www.chess.com/member/leonxzy44"><img src="https://img.shields.io/badge/Chess.com-81B64C?logo=chessdotcom&logoColor=white"/></a>
+  <br>
+  <a href="https://github.com/Leonxzy44"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
+  <a href="mailto:leonhodzic44@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white"/></a>
+  <a href="mailto:leon.hodzic@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white"/></a>
+  <a href="https://www.geogebra.org/u/leonhodzic44"><img src="https://img.shields.io/badge/GeoGebra-764ABC?logo=geogebra&logoColor=white"/></a>
 </p>
 
 
