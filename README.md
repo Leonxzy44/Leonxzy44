@@ -48,7 +48,7 @@
 
 
 
-My real name is Leon and i'm interested into coding, chess, math, physics, reading, robotics and arduino. I love to code and build projects. I want to become 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵 and 𝘊# Software engineer. Most of my projects are on [GitHub](github.com). If you want to contact me, you can do it [here](mailto:leon.hodzic@outlook.com).
+My real name is Leon and i'm interested into coding, chess, math, physics, reading, robotics and arduino. I love to code and build projects. I want to become 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵 and 𝘊# Software engineer. I'm currently working on [Lintorch](https://github.com/Leonxzy44/Lintorch-Software) and [Arduino](https://github.com/Leonxzy44/ArduinoProjects). Most of my projects are on [GitHub](github.com). If you want to contact me, you can do it [here](mailto:leon.hodzic@outlook.com).
 
 
 ---
