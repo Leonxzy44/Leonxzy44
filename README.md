@@ -31,9 +31,8 @@
   <a href="mailto:leonhodzic44@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white"/></a>
   <a href="mailto:leon.hodzic@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white"/></a>
   <a href="https://www.geogebra.org/u/leonhodzic44"><img src="https://img.shields.io/badge/GeoGebra-764ABC?logo=geogebra&logoColor=white"/></a>
+  <a href="https://discord.com/users/1341794911258939543"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
 </p>
-
-
 
 
 
