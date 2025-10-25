@@ -38,7 +38,7 @@
 
 
 
-![Discord Presence](https://discord.com/widget?id=1341794911258939543&theme=dark)
+![Discord](https://discord.com/api/guilds/1341794911258939543/widget.png?style=banner2)
 
 
 
