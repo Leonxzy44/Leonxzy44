@@ -119,7 +119,7 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 
 <h1>🚀 GitHub Stats</h1>
 
-<!-- GitHub Stats Dashboard for Leonxzy44 (custom dark-blue & green theme) -->
+<!-- GitHub Stats Dashboard for Leonxzy44 (dark-blue & green theme) -->
 
 <p align="center">
   <img 
@@ -137,7 +137,7 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 
 <p align="center">
   <img 
-       src="https://streak-stats.demolab.com?user=Leonxzy44&hide_border=true&background=101820&ring=5ee48a&fire=5ee48a&currStreakLabel=5ee48a&sideNums=5ee48a&sideLabels=5ee48a&dates=a8a8a8&stroke=101820" 
+       src="https://streak-stats.demolab.com?user=Leonxzy44&hide_border=true&background=101820&ring=5ee48a&fire=5ee48a&currStreakLabel=5ee48a&currStreakNum=5ee48a&sideNums=5ee48a&sideLabels=5ee48a&dates=a8a8a8&stroke=101820" 
        alt="GitHub Streak" 
        height="165" />
 </p>
