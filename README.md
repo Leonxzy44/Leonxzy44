@@ -38,8 +38,8 @@
 
 
 
+![Discord Presence](https://discord.com/widget?id=1341794911258939543&theme=dark)
 
-![Discord Presence](https://lanyard.cnrad.dev/api/1341794911258939543)
 
 
 
