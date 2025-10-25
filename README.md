@@ -33,12 +33,13 @@
   <a href="https://www.geogebra.org/u/leonhodzic44"><img src="https://img.shields.io/badge/GeoGebra-764ABC?logo=geogebra&logoColor=white"/></a>
 </p>
 
-![Discord Presence](https://lanyard.cnrad.dev/api/1341794911258939543?theme=dark&showDisplayName=true&idleMessage=offline)
 
 
 
 
 
+
+![Discord Presence](https://lanyard.cnrad.dev/api/1341794911258939543)
 
 
 
