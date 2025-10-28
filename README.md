@@ -22,15 +22,8 @@
 
 ---
 
-<h1 align="center">
-
-![WhatsApp Slika 2025-10-28 u 17 26 17_a6e4dab7](https://github.com/user-attachments/assets/f656b0c2-710f-44ca-8eef-1ab3d8b56c98)
-
-</h1>
 
 
-
----
 
 <h3 align="center">🌐 Socials:</h3>
 <p align="center">
