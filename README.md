@@ -22,6 +22,16 @@
 
 ---
 
+<h1 align="center">
+
+![WhatsApp Slika 2025-10-28 u 17 26 17_a6e4dab7](https://github.com/user-attachments/assets/f656b0c2-710f-44ca-8eef-1ab3d8b56c98)
+
+</h1>
+
+
+
+---
+
 <h3 align="center">🌐 Socials:</h3>
 <p align="center">
   <a href="https://stackoverflow.com/users/30537744/leonxzythedev"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white"/></a>
