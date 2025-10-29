@@ -38,6 +38,14 @@
   <a href="https://discord.com/users/1341794911258939543"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
 </p>
 
+---
+
+<h1 align="center">
+
+![Discord](https://img.shields.io/discord/1341794911258939543?color=43b581&label=Discord&logo=discord&logoColor=white&style=flat)
+
+</h1>
+
 
 
 
