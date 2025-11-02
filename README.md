@@ -83,7 +83,7 @@ me.say_hi()
 ```
 
 <p align="center">
-⭐ <i>Feel free to fork this repo and say hi back!</i> ⭐
+⭐ <i>Feel free to ask me for advicd or help!</i> ⭐
 </p>
 
 
