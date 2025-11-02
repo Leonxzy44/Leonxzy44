@@ -60,7 +60,7 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 ---
 
 <p align="center">
-💻 Here’s a bit about me in code form 💻
+💻 Here’s a bit about me in code form
 </p>
 
 
