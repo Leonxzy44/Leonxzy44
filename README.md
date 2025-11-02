@@ -83,7 +83,7 @@ me.say_hi()
 ```
 
 <p align="center">
-⭐ <i>Feel free to ask me for advicd or help!</i> ⭐
+⭐ <i>Feel free to ask me for advice!</i> ⭐
 </p>
 
 
