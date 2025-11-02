@@ -59,9 +59,9 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 
 ---
 
-<h1 align="center">Here’s a bit about me in code form 💻 </h1>
-
-
+<p align="center">
+💻 Here’s a bit about me in code form 💻
+</p>
 
 
 ```python
