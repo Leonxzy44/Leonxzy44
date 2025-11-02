@@ -59,9 +59,11 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 
 ---
 
-<h1 align="center">What's up?! 👋 </h1> 
+<p align="center">
 
 Here’s a bit about me in code form 💻
+
+</p>
 
 ```python
 class Developer:
@@ -82,8 +84,12 @@ me.say_hi()
 ```
 
 ---
+
+<p align="center">
+ 
 ⭐ *Feel free to fork this repo and say hi back!*
 
+</p>
 
 ---
 <p align="center">
