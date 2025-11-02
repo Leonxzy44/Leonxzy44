@@ -59,7 +59,7 @@ My real name is Leon and i'm interested into coding, chess, math, physics, readi
 
 ---
 
-# What's up?! 👋
+<h1 align="center">What's up?! 👋 </h1> 
 
 Here’s a bit about me in code form 💻
 
