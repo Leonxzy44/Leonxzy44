@@ -57,7 +57,32 @@
 
 My real name is Leon and i'm interested into coding, chess, math, physics, reading, robotics and arduino. I love to code and build projects. Every year, i'm taking the part in the Informatics Olimpyad, FMS Logo code-drawing tournament and Algorithms in Python tournament. By far i was most successful in Python. I want to become 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵 and 𝘊# Software engineer. I'm currently working on [Lintorch](https://github.com/Leonxzy44/Lintorch-Software) and [Arduino](https://github.com/Leonxzy44/ArduinoProjects). Most of my projects are on [GitHub](github.com).  If you want to contact me, you can do it [here](mailto:leon.hodzic@outlook.com). 
 
+---
 
+# What's up?! 👋
+
+Here’s a bit about me in code form 💻
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Leon Hodzic"
+        self.age = 13
+        self.country = "Croatia"
+        self.languages = ["Python", "JavaScript", "C++"]
+        self.learning = ["React", "Node.js", "AI/ML"]
+        self.hobbies = ["Biking", "Reading", "Chess"]
+        self.goal = "Build products that make life easier 🚀"
+
+    def say_hi(self):
+        print("Hey there! 👋 Thanks for visiting my GitHub profile.")
+
+me = Developer()
+me.say_hi()
+```
+
+---
+⭐ *Feel free to fork this repo and say hi back!*
 
 
 ---
