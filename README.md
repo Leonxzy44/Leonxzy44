@@ -140,21 +140,13 @@ me.say_hi()
        src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&hide_border=true&bg_color=101820&title_color=4da6ff&text_color=a8a8a8&icon_color=4da6ff&count_private=true" 
        alt="GitHub Stats" 
        height="165" />
-</p>
-
-<p align="center">
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&hide_border=true&bg_color=101820&title_color=4da6ff&text_color=a8a8a8&icon_color=4da6ff" 
        alt="Most Used Languages" 
        height="165" />
 </p>
 
-<p align="center">
-  <img 
-       src="https://streak-stats.demolab.com?user=Leonxzy44&hide_border=true&background=101820&ring=4da6ff&fire=4da6ff&currStreakLabel=4da6ff&currStreakNum=4da6ff&sideNums=4da6ff&sideLabels=4da6ff&dates=a8a8a8&stroke=101820" 
-       alt="GitHub Streak" 
-       height="165" />
-</p>
+
 
 
  ---
