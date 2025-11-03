@@ -137,12 +137,19 @@ me.say_hi()
 
 <p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&hide_border=true&bg_color=101820&title_color=4da6ff&text_color=a8a8a8&icon_color=4da6ff&count_private=true" 
+       src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=9f9f9f&icon_color=00bfff&count_private=true" 
        alt="GitHub Stats" 
        height="165" />
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&hide_border=true&bg_color=101820&title_color=4da6ff&text_color=a8a8a8&icon_color=4da6ff" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=9f9f9f" 
        alt="Most Used Languages" 
+       height="165" />
+</p>
+
+<p align="center">
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Leonxzy44&theme=tokyonight&hide_border=true&background=0D1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" 
+       alt="GitHub Streak" 
        height="165" />
 </p>
 
