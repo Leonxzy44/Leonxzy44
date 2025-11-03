@@ -121,10 +121,9 @@ me.say_hi()
 
 <p align="center">
   <img 
-       src="https://skillicons.dev/icons?i=vscode,visualstudio,postgres,mongodb,pycharm,docker,git,github,datagrip" 
+       src="https://skillicons.dev/icons?i=vscode,visualstudio,postgres,mongodb,pycharm,docker,git,github,datagrip,arduino" 
        alt="Tools Icons" />
 </p>
-
 
 ---
 
