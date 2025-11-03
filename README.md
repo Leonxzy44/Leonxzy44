@@ -117,11 +117,13 @@ me.say_hi()
 ---
 
 
+
+
 <h3 align="center">📖 Tools</h3>
 
 <p align="center">
   <img 
-       src="https://skillicons.dev/icons?i=vscode,visualstudio,postgres,mongodb,pycharm,docker,git,github,datagrip,arduino" 
+       src="https://skillicons.dev/icons?i=vscode,visualstudio,postgres,mongodb,pycharm,docker,git,github,arduino" 
        alt="Tools Icons" />
 </p>
 
