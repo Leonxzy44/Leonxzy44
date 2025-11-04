@@ -213,6 +213,12 @@ me.say_hi()
 
 ---
 
+<h1 align="left">📬 Contact me</h1>
+
+•**Outlook:** leon.hodzic@outlook.com
+•**Gmail:** leonhodzic44@gmail.com
+•**Discord:** `lilcoder`
+
 
 
 **Discord:** `lilcoder`
