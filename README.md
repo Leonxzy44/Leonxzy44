@@ -57,13 +57,6 @@
 
 My real name is Leon and i'm interested into coding, chess, math, physics, reading, robotics and arduino. I love to code and build projects. Every year, i'm taking the part in the Informatics Olimpyad, FMS Logo code-drawing tournament and Algorithms in Python tournament. By far i was most successful in Python. I want to become 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵 and 𝘊# Software engineer. I'm currently working on [Lintorch](https://github.com/Leonxzy44/Lintorch-Software) and [Arduino](https://github.com/Leonxzy44/ArduinoProjects). Most of my projects are on [GitHub](github.com).  If you want to contact me, you can do it [here](mailto:leon.hodzic@outlook.com). 
 
-## 📁 Featured Themes
-
-- **Web + Realtime:** Next.js/React UI, shared types, websockets, graceful state sync.  
-- **Mobile:** useful mini-aššs, custom fonts, audio cues, OTA updates.  
-- **Commerce Automation:** WooCommerce ↔ external API (auto-redeem, order status, Discord Bot).  
-- **Data & Trading:** Myfxbook/MQL5 parsing, quality filters, weekly activity checks, ranking models.  
-- **Infra & DX:** CI/CD, linting/formatting, typed APIs (OpenAPI), observability.
 
 ---
 
