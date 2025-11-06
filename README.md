@@ -40,6 +40,7 @@
 ---
 <table>
   <tr>
+    <!-- LEFT SIDE -->
     <td width="55%" valign="top">
 
 <h3>👋 About Me</h3>
@@ -66,6 +67,8 @@
 <p>📫 Contact me at: <a href="mailto:leon.hodzic@outlook.com">leon.hodzic@outlook.com</a></p>
 
 </td>
+
+<!-- RIGHT SIDE -->
 <td width="45%" valign="top">
 
 <h3 align="center">🌐 Socials:</h3>
@@ -79,6 +82,13 @@
   <a href="mailto:leon.hodzic@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white"/></a>
   <a href="https://www.geogebra.org/u/leonhodzic44"><img src="https://img.shields.io/badge/GeoGebra-764ABC?logo=geogebra&logoColor=white"/></a>
   <a href="https://discord.com/users/1341794911258939543"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
+  <br><br>
+  <!-- 🌐 Custom Themed Buttons -->
+  <a href="https://www.bug.hr/"><img src="https://img.shields.io/badge/Bug.hr-FF4500?logo=firefox&logoColor=white"/></a>
+  <a href="https://www.wikipedia.org/"><img src="https://img.shields.io/badge/Wikipedia-000000?logo=wikipedia&logoColor=white"/></a>
+  <a href="https://lichess.org/@/Leonxzy"><img src="https://img.shields.io/badge/Lichess-000000?logo=lichess&logoColor=white"/></a>
+  <a href="https://www.chess.com/member/Leonxzy"><img src="https://img.shields.io/badge/Chess.com-769656?logo=chess.com&logoColor=white"/></a>
+  <a href="https://www.tinkercad.com/users/Leonxzy"><img src="https://img.shields.io/badge/Tinkercad-1477D4?logo=tinkercad&logoColor=white"/></a>
 </p>
 
 </td>
