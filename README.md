@@ -145,6 +145,12 @@
        height="165" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leonxzy44&theme=2077" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leonxzy44&theme=2077" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Leonxzy44&theme=2077&utcOffset=8" />
+</p>
+
 
 
 
