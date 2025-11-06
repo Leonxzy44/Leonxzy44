@@ -14,8 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=1000&color=FF6E00&speed=70&center=true&vCenter=true&width=700&lines=Can't+start+coding+without+coffee;Software+developer+%26+engineer;Tech+explorer;Open+Source+Enthusiast;Mostly+coding+in+Python." alt="Neon Orange Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=FF6E00&speed=70&center=true&vCenter=true&width=700&lines=Can't+start+coding+without+coffee;Software+developer+%26+engineer;Tech+explorer;Open+Source+Enthusiast;Mostly+coding+in+Python." alt="Neon Orange Typing SVG" />
 </p>
+
 
 
 
