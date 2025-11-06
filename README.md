@@ -81,31 +81,6 @@
 ---
 
 <p align="center">
- Here’s a bit about me in code form 💻
-</p>
-
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Leon Hodzic"
-        self.age = 13
-        self.country = "Croatia"
-        self.languages = ["Python", "JavaScript", "C++"]
-        self.learning = ["React", "Node.js", "AI/ML"]
-        self.hobbies = ["Biking", "Reading", "Chess"]
-        self.goal = "Build products that make life easier 🚀"
-
-    def say_hi(self):
-        print("Hey there! 👋 Thanks for visiting my GitHub profile.")
-
-me = Developer()
-me.say_hi()
-```
----
-
-
-<p align="center">
   🧠 Languages:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
