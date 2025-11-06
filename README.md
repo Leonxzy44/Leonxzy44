@@ -41,6 +41,7 @@
 
 <table>
   <tr>
+    <!-- LEFT SIDE -->
     <td width="55%" valign="top">
 
       <h3>👋 About Me</h3>
@@ -68,6 +69,7 @@
 
     </td>
 
+    <!-- RIGHT SIDE -->
     <td width="45%" valign="top">
 
       <h3 align="center">💻 Here’s a bit about me in code form</h3>
