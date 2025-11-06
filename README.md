@@ -98,7 +98,7 @@
 
 ---
 
-p align="center">
+<p align="center">
  Here’s a bit about me in code form 💻
 </p>
 
