@@ -71,36 +71,29 @@
 
 <h3 align="center">💻 Here’s a bit about me in code form</h3>
 
-<pre>
+<pre style="background-color:#1e1e1e; color:#d4d4d4; padding:12px; border-radius:10px;">
 <code>
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Leon Hodzic"
-        self.age = 13
-        self.country = "Croatia"
-        self.languages = ["Python", "JavaScript", "C++"]
-        self.learning = ["React", "Node.js", "AI/ML"]
-        self.hobbies = ["Biking", "Reading", "Chess"]
-        self.goal = "Build products that make life easier 🚀"
+<span style="color:#569CD6;">class</span> <span style="color:#4EC9B0;">Developer</span>:
+    <span style="color:#569CD6;">def</span> <span style="color:#DCDCAA;">__init__</span>(<span style="color:#9CDCFE;">self</span>):
+        <span style="color:#9CDCFE;">self</span>.<span style="color:#9CDCFE;">name</span> = <span style="color:#CE9178;">"Leon Hodzic"</span>
+        <span style="color:#9CDCFE;">self</span>.<span style="color:#9CDCFE;">age</span> = <span style="color:#B5CEA8;">13</span>
+        <span style="color:#9CDCFE;">self</span>.<span style="color:#9CDCFE;">country</span> = <span style="color:#CE9178;">"Croatia"</span>
+        <span style="color:#9CDCFE;">self</span>.<span style="color:#9CDCFE;">languages</span> = [<span style="color:#CE9178;">"Python"</span>, <span style="color:#CE9178;">"JavaScript"</span>, <span style="color:#CE9178;">"C++"</span>]
+        <span style="color:#9CDCFE;">self</span>.<span style="color:#9CDCFE;">learning</span> = [<span style="color:#CE9178;">"React"</span>, <span style="color:#CE9178;">"Node.js"</span>, <span style="color:#CE9178;">"AI/ML"</span>]
+        <span style="color:#9CDCFE;">self</span>.<span style="color:#9CDCFE;">hobbies</span> = [<span style="color:#CE9178;">"Biking"</span>, <span style="color:#CE9178;">"Reading"</span>, <span style="color:#CE9178;">"Chess"</span>]
+        <span style="color:#9CDCFE;">self</span>.<span style="color:#9CDCFE;">goal</span> = <span style="color:#CE9178;">"Build products that make life easier 🚀"</span>
 
-    def say_hi(self):
-        print("Hey there! 👋 Thanks for visiting my GitHub profile.")
+    <span style="color:#569CD6;">def</span> <span style="color:#DCDCAA;">say_hi</span>(<span style="color:#9CDCFE;">self</span>):
+        <span style="color:#DCDCAA;">print</span>(<span style="color:#CE9178;">"Hey there! 👋 Thanks for visiting my GitHub profile."</span>)
 
-me = Developer()
-me.say_hi()
-```
+<span style="color:#9CDCFE;">me</span> = <span style="color:#4EC9B0;">Developer</span>()
+<span style="color:#9CDCFE;">me</span>.<span style="color:#DCDCAA;">say_hi</span>()
 </code>
 </pre>
 
 </td>
   </tr>
 </table>
-
-
-
-
-
 
 ---
 
