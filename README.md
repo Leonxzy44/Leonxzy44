@@ -43,8 +43,8 @@
 
 <p>I'm currently working on:</p>
 <ul>
-  <li>🔥 <a href="https://github.com/Leonxzy44/Lintorch-Software">Lintorch</a></li>
-  <li>⚡ <a href="https://github.com/Leonxzy44/ArduinoProjects">Arduino</a></li>
+  <li>👉 <a href="https://github.com/Leonxzy44/Lintorch-Software">Lintorch</a></li>
+  <li>👉 <a href="https://github.com/Leonxzy44/ArduinoProjects">Arduino</a></li>
 </ul>
 
 <p>Most of my projects are on <a href="https://github.com">GitHub</a>.</p>
