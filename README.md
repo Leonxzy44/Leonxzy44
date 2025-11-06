@@ -107,7 +107,7 @@
 
 
 
-<p align="center">📖 Tools</p>
+<p align="center">📖 Tools:</p>
 
 <p align="center">
   <img 
