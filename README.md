@@ -18,6 +18,7 @@
 </p>
 
 <h3 align="center">🌐 Socials:</h3>
+
 <p align="center">
   <a href="https://stackoverflow.com/users/30537744/leonxzythedev"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"/></a>
@@ -33,7 +34,6 @@
   <a href="https://www.chess.com/member/Leonxzy44"><img src="https://img.shields.io/badge/Chess.com-769656?logo=chess.com&logoColor=white"/></a>
   <a href="https://www.tinkercad.com/users/Leonxzy"><img src="https://img.shields.io/badge/Tinkercad-1477D4?logo=tinkercad&logoColor=white"/></a>
 </p>
-
 
 
 
