@@ -19,14 +19,6 @@
 
 
 
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=%E2%80%8BSoftware+Developer+%7C+Programmer;%E2%80%8BOpen+Source+Enthusiast;%E2%80%8BTech+Explorer+%7C+Robotics&background=1B2B45/80/animated-wave.gif" alt="Typing SVG" />
-</p>
-
-
 ---
 
 
@@ -45,34 +37,41 @@
   <a href="https://discord.com/users/1341794911258939543"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-My real name is Leon and i'm interested into coding, chess, math, physics, reading, robotics and arduino. I love to code and build projects. Every year, i'm taking the part in the Informatics Olimpyad, FMS Logo code-drawing tournament and Algorithms in Python tournament. By far i was most successful in Python. I want to become 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵 and 𝘊# Software engineer. I'm currently working on [Lintorch](https://github.com/Leonxzy44/Lintorch-Software) and [Arduino](https://github.com/Leonxzy44/ArduinoProjects). Most of my projects are on [GitHub](github.com).  If you want to contact me, you can do it [here](mailto:leon.hodzic@outlook.com). 
-
-
 ---
 
-<p align="center">
- Here’s a bit about me in code form 💻
-</p>
+<table>
+  <tr>
+    <td width="55%" valign="top">
 
+<h3>👋 About Me</h3>
 
-```python
+<p>My name is <strong>Leon</strong> and I'm interested in <strong>coding</strong>, <strong>chess</strong>, <strong>math</strong>, <strong>physics</strong>, <strong>reading</strong>, <strong>robotics</strong> and <strong>Arduino</strong>. I love to code and build projects.</p>
+
+<p>Every year, I take part in:</p>
+<ul>
+  <li>🏆 <strong>Informatics Olympiad</strong></li>
+  <li>🎨 <strong>FMS Logo Code-Drawing Tournament</strong></li>
+  <li>🐍 <strong>Algorithms in Python Tournament</strong></li>
+</ul>
+
+<p>By far, I’ve been most successful in <strong>Python</strong>. I aim to become a <strong>JavaScript</strong> and <strong>C# Software Engineer</strong>.</p>
+
+<p>I'm currently working on:</p>
+<ul>
+  <li>🔥 <a href="https://github.com/Leonxzy44/Lintorch-Software">Lintorch</a></li>
+  <li>⚡ <a href="https://github.com/Leonxzy44/ArduinoProjects">Arduino</a></li>
+</ul>
+
+<p>Most of my projects are on <a href="https://github.com">GitHub</a>.</p>
+
+<p>📫 Contact me at: <a href="mailto:leon.hodzic@outlook.com">leon.hodzic@outlook.com</a></p>
+
+</td>
+<td width="45%" valign="top">
+
+<h3 align="center">💻 Here’s a bit about me in code form</h3>
+
+<pre><code class="language-python">
 class Developer:
     def __init__(self):
         self.name = "Leon Hodzic"
@@ -88,11 +87,13 @@ class Developer:
 
 me = Developer()
 me.say_hi()
-```
+</code></pre>
 
-<p align="center">
-⭐ <i>Feel free to ask me for advice!</i> ⭐
-</p>
+</td>
+  </tr>
+</table>
+
+
 
 
 
@@ -100,6 +101,7 @@ me.say_hi()
 
 
 ---
+
 <p align="center">
   🧠 Languages:
 <div align="center">
