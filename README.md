@@ -38,7 +38,6 @@
 </p>
 
 ---
-
 <table>
   <tr>
     <td width="55%" valign="top">
@@ -69,27 +68,18 @@
 </td>
 <td width="45%" valign="top">
 
-<h3 align="center">💻 Here’s a bit about me in code form</h3>
-
-<pre>
-<code>
-<span style="color:#569CD6">class</span> <span style="color:#4EC9B0">Developer</span>:
-    <span style="color:#569CD6">def</span> <span style="color:#DCDCAA">__init__</span>(<span style="color:#9CDCFE">self</span>):
-        <span style="color:#9CDCFE">self</span>.<span style="color:#9CDCFE">name</span> = <span style="color:#CE9178">"Leon Hodzic"</span>
-        <span style="color:#9CDCFE">self</span>.<span style="color:#9CDCFE">age</span> = <span style="color:#B5CEA8">13</span>
-        <span style="color:#9CDCFE">self</span>.<span style="color:#9CDCFE">country</span> = <span style="color:#CE9178">"Croatia"</span>
-        <span style="color:#9CDCFE">self</span>.<span style="color:#9CDCFE">languages</span> = [<span style="color:#CE9178">"Python"</span>, <span style="color:#CE9178">"JavaScript"</span>, <span style="color:#CE9178">"C++"</span>]
-        <span style="color:#9CDCFE">self</span>.<span style="color:#9CDCFE">learning</span> = [<span style="color:#CE9178">"React"</span>, <span style="color:#CE9178">"Node.js"</span>, <span style="color:#CE9178">"AI/ML"</span>]
-        <span style="color:#9CDCFE">self</span>.<span style="color:#9CDCFE">hobbies</span> = [<span style="color:#CE9178">"Biking"</span>, <span style="color:#CE9178">"Reading"</span>, <span style="color:#CE9178">"Chess"</span>]
-        <span style="color:#9CDCFE">self</span>.<span style="color:#9CDCFE">goal</span> = <span style="color:#CE9178">"Build products that make life easier 🚀"</span>
-
-    <span style="color:#569CD6">def</span> <span style="color:#DCDCAA">say_hi</span>(<span style="color:#9CDCFE">self</span>):
-        <span style="color:#DCDCAA">print</span>(<span style="color:#CE9178">"Hey there! 👋 Thanks for visiting my GitHub profile."</span>)
-
-<span style="color:#9CDCFE">me</span> = <span style="color:#4EC9B0">Developer</span>()
-<span style="color:#9CDCFE">me</span>.<span style="color:#DCDCAA">say_hi</span>()
-</code>
-</pre>
+<h3 align="center">🌐 Socials:</h3>
+<p align="center">
+  <a href="https://stackoverflow.com/users/30537744/leonxzythedev"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"/></a>
+  <a href="https://monkeytype.com/Leonxzy"><img src="https://img.shields.io/badge/Monkeytype-FFD700?logo=monkeytype&logoColor=000000"/></a>
+  <br>
+  <a href="https://github.com/Leonxzy44"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
+  <a href="mailto:leonhodzic44@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white"/></a>
+  <a href="mailto:leon.hodzic@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white"/></a>
+  <a href="https://www.geogebra.org/u/leonhodzic44"><img src="https://img.shields.io/badge/GeoGebra-764ABC?logo=geogebra&logoColor=white"/></a>
+  <a href="https://discord.com/users/1341794911258939543"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
+</p>
 
 </td>
   </tr>
