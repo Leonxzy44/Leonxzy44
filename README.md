@@ -13,6 +13,11 @@
   <img src="https://komarev.com/ghpvc/?username=Leonxzy44&color=0A192F&label=Profile+Views&labelColor=000814&style=flat&labelTextColor=FFFFFF" alt="views badge" />
 </p>
 
+<!-- Add this in your GitHub README.md -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Can't+start+coding+without+coffee;Software+developer+%26+engineer;Tech+explorer;Open+Source+Enthusiast;Mostly+coding+in+Python." alt="Typing SVG" />
+</p>
+
 
 
 <p align="center">
