@@ -122,7 +122,7 @@
 
 <div align="center">
 
-<h1>🚀 GitHub Stats</h1>
+<h1>📊 GitHub Stats</h1>
 
 <!-- GitHub Stats Dashboard for Leonxzy44 (dark-blue & blue theme) -->
 
