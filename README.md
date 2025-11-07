@@ -48,7 +48,7 @@
 
 <h3>👋 About Me</h3>
 
-<p>My name is <strong>Leon</strong> and I'm 13 yes old. I'm interested in <strong>coding</strong>, <strong>chess</strong>, <strong>math</strong>, <strong>physics</strong>, <strong>reading</strong>, <strong>robotics</strong>, and <strong>Arduino</strong>. I love to code and build projects.</p>
+<p>My name is <strong>Leon</strong> and I'm 13 yrs old. I'm interested in <strong>coding</strong>, <strong>chess</strong>, <strong>math</strong>, <strong>physics</strong>, <strong>reading</strong>, <strong>robotics</strong>, and <strong>Arduino</strong>. I love to code and build projects.</p>
 
 <p>Every year, I take part in:</p>
 <ul>
