@@ -157,8 +157,12 @@ me.say_hi()
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonxzyDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="LeonxzyDev's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonxzyDev&layout=compact&theme=tokyonight&hide_border=true" alt="LeonxzyDev's Most Used Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="LeonxzyDev's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&theme=tokyonight&hide_border=true" alt="LeonxzyDev's Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Leonxzy44&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
 
