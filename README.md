@@ -15,46 +15,6 @@
 
 
 
-<h3 align="center">🌐 Socials:</h3>
-
-<div align="center">
-
-  <!-- Row 1 -->
-  <a href="https://stackoverflow.com/users/30537744/leonxzythedev" target="_blank">
-    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="38" height="38" alt="Stack Overflow" style="margin: 0 8px;" />
-  </a>
-  <a href="" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="38" height="38" alt="X" style="margin: 0 8px;" />
-  </a>
-  <a href="https://monkeytype.com/Leonxzy" target="_blank">
-    <img src="https://cdn.simpleicons.org/monkeytype/FFC800" width="38" height="38" alt="Monkeytype" style="margin: 0 8px;" />
-  </a>
-  <a href="https://github.com/Leonxzy44" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" height="38" alt="GitHub" style="margin: 0 8px;" />
-  </a>
-  <br/>
-
-  <!-- Row 2 -->
-  <a href="mailto:leonhodzic44@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" height="38" alt="Gmail" style="margin: 0 8px;" />
-  </a>
-  <a href="mailto:leon.hodzic@outlook.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Microsoft_Office_Outlook_%282018–present%29.svg/64px-Microsoft_Office_Outlook_%282018–present%29.svg.png" width="38" height="38" alt="Outlook" style="margin: 0 8px;" />
-  </a>
-  <a href="https://www.geogebra.org/u/leonhodzic44" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/GeoGebra_Logo.svg/64px-GeoGebra_Logo.svg.png" width="38" height="38" alt="GeoGebra" style="margin: 0 8px;" />
-  </a>
-  <a href="https://discord.com/users/1341794911258939543" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="34" height="34" alt="Discord" style="margin: 0 8px; vertical-align: middle;" />
-  </a>
-  <br/>
-
-  <!-- Row 3 -->
-  <a href="https://lichess.org/@/LeonxzyChess" target="_blank">
-    <img src="https://cdn.simpleicons.org/lichess/FFFFFF" width="38" height="38" al
-
-
-
 
 
 ---
