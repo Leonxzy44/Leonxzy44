@@ -74,7 +74,7 @@ Here is the link for the [repository](https://github.com/Leonxzy44/SMPL-projects
 
 My discord: `lilcoder`
 
-<p>📫 Contact me at: <a href="mailto:leon.hodzic@outlook.com">leon.hodzic@outlook.com</a></p>
+<p>📬 Contact me at: <a href="mailto:leon.hodzic@outlook.com">leon.hodzic@outlook.com</a></p>
 
 <p>📧 My Gmail is <a href="mailto:leonhodzic44@gmail.com">here</a>.</p></p>
 </td>
