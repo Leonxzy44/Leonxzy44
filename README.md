@@ -153,7 +153,7 @@ me.say_hi()
 
 <div align="center">
 
-<h1>📊 GitHub Stats</h1>
+<h1> <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="30px"> GitHub Stats</h1>
 
 
 <p align="center">
