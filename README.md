@@ -135,11 +135,44 @@ My discord: `lilcoder`
 <!-- GitHub Stats Dashboard for Leonxzy44 (dark-blue & blue theme) -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&bg_color=0A192F,0E2A47,133B5C&title_color=4FC3F7&text_color=E3F2FD&icon_color=2196F3&border_color=1565C0" alt="GitHub stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonxzy44&background=0A192F,0E2A47,133B5C&ring=4FC3F7&fire=2196F3&currStreakLabel=4FC3F7&sideNums=E3F2FD&currStreakNum=E3F2FD&sideLabels=E3F2FD&dates=90CAF9&border=1565C0" alt="GitHub streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&bg_color=0A192F,0E2A47,133B5C&title_color=4FC3F7&text_color=E3F2FD&border_color=1565C0" alt="Top languages" />
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Leonxzy44
+    &show_icons=true
+    &bg_color=0A192F,0E2A47,133B5C
+    &title_color=4FC3F7
+    &text_color=E3F2FD
+    &icon_color=2196F3
+    &border_color=1565C0" 
+    alt="GitHub stats" 
+  />
+
+  <!-- GitHub Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Leonxzy44
+    &background=0A192F,0E2A47,133B5C
+    &ring=4FC3F7
+    &fire=2196F3
+    &currStreakLabel=4FC3F7
+    &sideNums=E3F2FD
+    &currStreakNum=E3F2FD
+    &sideLabels=E3F2FD
+    &dates=90CAF9
+    &stroke=1565C0
+    &border=1565C0" 
+    alt="GitHub streak" 
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44
+    &layout=compact
+    &bg_color=0A192F,0E2A47,133B5C
+    &title_color=4FC3F7
+    &text_color=E3F2FD
+    &border_color=1565C0" 
+    alt="Top languages" 
+  />
 </p>
 
 
