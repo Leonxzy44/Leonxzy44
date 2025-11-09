@@ -135,11 +135,10 @@ My discord: `lilcoder`
 <!-- GitHub Stats Dashboard for Leonxzy44 (dark-blue & blue theme) -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonxzy44&theme=tokyonight" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&theme=default&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=58A6FF" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonxzy44&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="Top languages" />
 </p>
-
 
  ---
  
