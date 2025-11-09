@@ -135,11 +135,11 @@ My discord: `lilcoder`
 <!-- GitHub Stats Dashboard for Leonxzy44 (dark-blue & blue theme) -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&bg_color=002B36,003B46,004B56&title_color=5FFBF1&text_color=A0FFF9&icon_color=40E0D0&border_color=00CED1" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&bg_color=0A192F,0E2A47,133B5C&title_color=4FC3F7&text_color=E3F2FD&icon_color=2196F3&border_color=1565C0" alt="GitHub stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonxzy44&background=002B36,003B46,004B56&ring=40E0D0&fire=00CED1&currStreakLabel=5FFBF1&sideNums=A0FFF9&currStreakNum=5FFBF1&sideLabels=A0FFF9&dates=88FFFF&border=00CED1" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonxzy44&background=0A192F,0E2A47,133B5C&ring=4FC3F7&fire=2196F3&currStreakLabel=4FC3F7&sideNums=E3F2FD&currStreakNum=E3F2FD&sideLabels=E3F2FD&dates=90CAF9&border=1565C0" alt="GitHub streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&bg_color=002B36,003B46,004B56&title_color=5FFBF1&text_color=A0FFF9&border_color=00CED1" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&bg_color=0A192F,0E2A47,133B5C&title_color=4FC3F7&text_color=E3F2FD&border_color=1565C0" alt="Top languages" />
 </p>
 
 
