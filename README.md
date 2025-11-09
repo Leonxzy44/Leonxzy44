@@ -15,66 +15,41 @@
 
 <h3 align="center">🌐 Socials:</h3>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
 
   <a href="https://stackoverflow.com/users/30537744/leonxzythedev" target="_blank">
-    <img src="assets/socials/stackoverflow.svg"
-         alt="Stack Overflow"
-         width="44" height="44"
-         style="background:#111827; border-radius:12px; padding:6px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="45" height="45" alt="Stack Overflow" />
   </a>
 
   <a href="" target="_blank">
-    <img src="assets/socials/x.svg"
-         alt="X"
-         width="44" height="44"
-         style="background:#111827; border-radius:12px; padding:6px;" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="45" height="45" alt="X" />
   </a>
 
   <a href="https://monkeytype.com/Leonxzy" target="_blank">
-    <img src="assets/socials/monkeytype.svg"
-         alt="Monkeytype"
-         width="44" height="44"
-         style="background:#111827; border-radius:12px; padding:6px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Monkeytype_logo.svg" width="45" height="45" alt="Monkeytype" />
   </a>
 
   <a href="https://github.com/Leonxzy44" target="_blank">
-    <img src="assets/socials/github.svg"
-         alt="GitHub"
-         width="44" height="44"
-         style="background:#111827; border-radius:12px; padding:6px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
   </a>
 
-  <a href="mailto:leonhodzic44@gmail.com">
-    <img src="assets/socials/gmail.svg"
-         alt="Gmail"
-         width="44" height="44"
-         style="background:#111827; border-radius:12px; padding:6px;" />
+  <a href="mailto:leonhodzic44@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="45" height="45" alt="Gmail" />
   </a>
 
-  <a href="mailto:leon.hodzic@outlook.com">
-    <img src="assets/socials/outlook.svg"
-         alt="Outlook"
-         width="44" height="44"
-         style="background:#111827; border-radius:12px; padding:6px;" />
+  <a href="mailto:leon.hodzic@outlook.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Outlook_%282018–present%29.svg" width="45" height="45" alt="Outlook" />
   </a>
 
   <a href="https://www.geogebra.org/u/leonhodzic44" target="_blank">
-    <img src="assets/socials/geogebra.svg"
-         alt="GeoGebra"
-         width="44" height="44"
-         style="background:#111827; border-radius:12px; padding:6px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/GeoGebra_Logo.svg" width="45" height="45" alt="GeoGebra" />
   </a>
 
   <a href="https://discord.com/users/1341794911258939543" target="_blank">
-    <img src="assets/socials/discord.svg"
-         alt="Discord"
-         width="44" height="44"
-         style="background:#111827; border-radius:12px; padding:6px;" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="45" height="45" alt="Discord" />
   </a>
 
 </div>
-
 
 
 ---
