@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Passionate+Software+Developer+%7C+Building+scalable+web+apps;Open+Source+Contributor+and+Lifelong+Learner+in+Tech;Robotics+%26+AI+Enthusiast+%7C+Exploring+innovation+one+project+at+a+time&background=1B2B45/80/animated-wave.gif" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=500&color=FF6E00&center=true&vCenter=true&multiline=true&width=800&lines=Creative+Software+Developer+%26+Open+Source+Builder+%7C+Crafting+Digital+Experiences;Exploring+AI%2C+Automation%2C+and+Next-Gen+Tech+Solutions+Daily;Turning+Ideas+Into+Code+%7C+Innovating+One+Project+At+A+Time" alt="Typing SVG" />
 </p>
+
 
 
 <h3 align="center">🌐 Socials:</h3>
