@@ -155,23 +155,12 @@ me.say_hi()
 
 <h1>📊 GitHub Stats</h1>
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&bg_color=0A192F,0E2A47,133B5C&title_color=4FC3F7&text_color=E3F2FD&icon_color=2196F3&border_color=1565C0"
-    alt="GitHub stats"
-    height="180"
-    style="display:inline-block; margin-right:10px;"
-  />
 
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&bg_color=0A192F,0E2A47,133B5C&title_color=4FC3F7&text_color=E3F2FD&border_color=1565C0"
-    alt="Top languages"
-    height="180"
-    style="display:inline-block;"
-  />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonxzyDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="LeonxzyDev's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonxzyDev&layout=compact&theme=tokyonight&hide_border=true" alt="LeonxzyDev's Most Used Languages"/>
 </p>
+
 
  ---
  
