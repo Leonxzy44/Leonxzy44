@@ -14,11 +14,21 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/Leonxzy44"><img src="https://cdn.simpleicons.org/github/40E0D0" width="38"/></a>
-  <a href="https://stackoverflow.com/users/30537744/leonxzythedev"><img src="https://cdn.simpleicons.org/stackoverflow/40E0D0" width="38"/></a>
-  <a href="mailto:leonhodzic44@gmail.com"><img src="https://cdn.simpleicons.org/gmail/40E0D0" width="38"/></a>
-  <a href="https://discord.com/users/1341794911258939543"><img src="https://cdn.simpleicons.org/discord/40E0D0" width="38"/></a>
-  <a href="https://lichess.org/@/LeonxzyChess"><img src="https://cdn.simpleicons.org/lichess/40E0D0" width="38"/></a>
+  <a href="https://github.com/Leonxzy44">
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45"/>
+  </a>
+  <a href="https://stackoverflow.com/users/30537744/leonxzythedev">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" width="45" height="45"/>
+  </a>
+  <a href="mailto:leonhodzic44@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45"/>
+  </a>
+  <a href="https://discord.com/users/1341794911258939543">
+    <img src="https://skillicons.dev/icons?i=discord" width="45" height="45"/>
+  </a>
+  <a href="https://lichess.org/@/LeonxzyChess">
+    <img src="https://skillicons.dev/icons?i=chess" width="45" height="45"/>
+  </a>
 </div>
 
 
