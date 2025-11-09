@@ -25,9 +25,6 @@
   <a href="mailto:leonhodzic44@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"/>
   </a>
-  <a href="mailto:leon.hodzic@outlook.com">
-    <img src="https://skillicons.dev/icons?i=outlook" width="45" height="45" alt="Outlook"/>
-  </a>
   <a href="https://discord.com/users/1341794911258939543" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" alt="Discord"/>
   </a>
