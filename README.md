@@ -38,11 +38,9 @@
   <a href="mailto:leonhodzic44@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail" width="40" height="40" alt="Gmail" />
   </a>
-  <!-- Use your own Outlook logo file -->
   <a href="mailto:leon.hodzic@outlook.com">
     <img src="assets/outlook.svg" width="40" height="40" alt="Outlook" />
   </a>
-  <!-- Use your own GeoGebra logo file -->
   <a href="https://www.geogebra.org/u/leonhodzic44" target="_blank">
     <img src="assets/geogebra.svg" width="40" height="40" alt="GeoGebra" />
   </a>
@@ -58,14 +56,9 @@
   <a href="https://www.chess.com/member/Leonxzy44" target="_blank">
     <img src="https://cdn.simpleicons.org/chessdotcom" width="40" height="40" alt="Chess.com" />
   </a>
-  <a href="https://www.wikipedia.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/wikipedia" width="40" height="40" alt="Wikipedia" />
-  </a>
-  <a href="https://www.bug.hr/" target="_blank">
-    <img src="https://cdn.simpleicons.org/firefox" width="40" height="40" alt="Bug.hr" />
-  </a>
 
 </div>
+
 
 
 
