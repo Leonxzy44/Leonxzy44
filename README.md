@@ -128,23 +128,10 @@
 <!-- GitHub Stats Dashboard for Leonxzy44 (dark-blue & blue theme) -->
 
 <p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=9f9f9f&icon_color=00bfff&count_private=true" 
-       alt="GitHub Stats" 
-       height="165" />
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=9f9f9f" 
-       alt="Most Used Languages" 
-       height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonxzyDev&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonxzyDev&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonxzyDev&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
-
-<p align="center">
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Leonxzy44&theme=tokyonight&hide_border=true&background=0D1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" 
-       alt="GitHub Streak" 
-       height="165" />
-</p>
-
 
 
 
