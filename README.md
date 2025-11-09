@@ -111,9 +111,6 @@
 </p>
 
 
----
-## 🗓️ Isometric Commit Calendar
-![Isometric calendar](https://raw.githubusercontent.com/Leonxzy44/metrics/main/metrics.plugin.isocalendar.fullyear.svg)
 
 ---
 
@@ -125,9 +122,9 @@
 <!-- GitHub Stats Dashboard for Leonxzy44 (dark-blue & blue theme) -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&theme=cobalt" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonxzy44&theme=cobalt" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&theme=cobalt" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonxzy44&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 
