@@ -21,50 +21,51 @@
 <div align="center">
 
   <!-- Row 1 -->
-  <a href="https://stackoverflow.com/users/30537744/leonxzythedev">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  <a href="https://stackoverflow.com/users/30537744/leonxzythedev" target="_blank">
+    <img src="https://cdn.simpleicons.org/stackoverflow?viewbox=auto&size=40" alt="Stack Overflow" />
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  <a href="" target="_blank">
+    <img src="https://cdn.simpleicons.org/x?viewbox=auto&size=40" alt="X" />
   </a>
-  <a href="https://monkeytype.com/Leonxzy">
-    <img src="https://img.shields.io/badge/Monkeytype-FFD700?style=for-the-badge&logo=monkeytype&logoColor=000000" alt="Monkeytype" />
+  <a href="https://monkeytype.com/Leonxzy" target="_blank">
+    <img src="https://cdn.simpleicons.org/monkeytype?viewbox=auto&size=40" alt="Monkeytype" />
   </a>
-  <a href="https://github.com/Leonxzy44">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Leonxzy44" target="_blank">
+    <img src="https://cdn.simpleicons.org/github?viewbox=auto&size=40" alt="GitHub" />
   </a>
   <br/>
 
   <!-- Row 2 -->
   <a href="mailto:leonhodzic44@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://cdn.simpleicons.org/gmail?viewbox=auto&size=40" alt="Gmail" />
   </a>
   <a href="mailto:leon.hodzic@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
+    <img src="https://cdn.simpleicons.org/microsoftoutlook?viewbox=auto&size=40" alt="Outlook" />
   </a>
-  <a href="https://www.geogebra.org/u/leonhodzic44">
-    <img src="https://img.shields.io/badge/GeoGebra-764ABC?style=for-the-badge&logo=geogebra&logoColor=white" alt="GeoGebra" />
+  <a href="https://www.geogebra.org/u/leonhodzic44" target="_blank">
+    <img src="https://cdn.simpleicons.org/geogebra?viewbox=auto&size=40" alt="GeoGebra" />
   </a>
-  <a href="https://discord.com/users/1341794911258939543">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.com/users/1341794911258939543" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord?viewbox=auto&size=40" alt="Discord" />
   </a>
   <br/>
 
   <!-- Row 3 -->
-  <a href="https://lichess.org/@/LeonxzyChess">
-    <img src="https://img.shields.io/badge/Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white" alt="Lichess" />
+  <a href="https://lichess.org/@/LeonxzyChess" target="_blank">
+    <img src="https://cdn.simpleicons.org/lichess?viewbox=auto&size=40" alt="Lichess" />
   </a>
-  <a href="https://www.chess.com/member/Leonxzy44">
-    <img src="https://img.shields.io/badge/Chess.com-769656?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com" />
+  <a href="https://www.chess.com/member/Leonxzy44" target="_blank">
+    <img src="https://cdn.simpleicons.org/chessdotcom?viewbox=auto&size=40" alt="Chess.com" />
   </a>
-  <a href="https://www.wikipedia.org/">
-    <img src="https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Wikipedia" />
+  <a href="https://www.wikipedia.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/wikipedia?viewbox=auto&size=40" alt="Wikipedia" />
   </a>
-  <a href="https://www.bug.hr/">
-    <img src="https://img.shields.io/badge/Bug.hr-FF4500?style=for-the-badge&logo=firefox&logoColor=white" alt="Bug.hr" />
+  <a href="https://www.bug.hr/" target="_blank">
+    <img src="https://cdn.simpleicons.org/firefox?viewbox=auto&size=40" alt="Bug.hr" />
   </a>
 
 </div>
+
 
 
 ---
