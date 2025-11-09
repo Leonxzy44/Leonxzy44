@@ -135,10 +135,11 @@ My discord: `lilcoder`
 <!-- GitHub Stats Dashboard for Leonxzy44 (dark-blue & blue theme) -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&theme=default&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=58A6FF" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonxzy44&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&bg_color=0A0F24&title_color=40E0D0&text_color=FFFFFF&icon_color=40E0D0" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonxzy44&background=0A0F24&ring=40E0D0&fire=40E0D0&currStreakLabel=40E0D0&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&bg_color=0A0F24&title_color=40E0D0&text_color=FFFFFF" alt="Top languages" />
 </p>
+
 
  ---
  
