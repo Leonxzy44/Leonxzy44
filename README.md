@@ -39,25 +39,14 @@
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail" style="margin: 0 8px;" />
   </a>
   <a href="mailto:leon.hodzic@outlook.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Outlook_%282018–present%29.svg" width="40" height="40" alt="Outlook" style="margin: 0 8px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Microsoft_Office_Outlook_%282018–present%29.svg/64px-Microsoft_Office_Outlook_%282018–present%29.svg.png" width="40" height="40" alt="Outlook" style="margin: 0 8px;" />
   </a>
   <a href="https://www.geogebra.org/u/leonhodzic44" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/GeoGebra_Logo.svg" width="40" height="40" alt="GeoGebra" style="margin: 0 8px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/GeoGebra_Logo.svg/64px-GeoGebra_Logo.svg.png" width="40" height="40" alt="GeoGebra" style="margin: 0 8px;" />
   </a>
   <a href="https://discord.com/users/1341794911258939543" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" height="40" alt="Discord" style="margin: 0 8px;" />
-  </a>
-  <br/>
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width=
 
-  <!-- Row 3 -->
-  <a href="https://lichess.org/@/LeonxzyChess" target="_blank">
-    <img src="https://cdn.simpleicons.org/lichess/FFFFFF" width="40" height="40" alt="Lichess" style="margin: 0 8px;" />
-  </a>
-  <a href="https://www.chess.com/member/Leonxzy44" target="_blank">
-    <img src="https://cdn.simpleicons.org/chessdotcom/81B64C" width="40" height="40" alt="Chess.com" style="margin: 0 8px;" />
-  </a>
-
-</div>
 
 
 
