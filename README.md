@@ -1,9 +1,6 @@
 <p align="center">
-  <a href="https://developer.android.com/">
-    <img src="https://developer.android.com/images/social/android-developers.png" alt="Android Developer Challenge Banner" width="800" />
-  </a>
+  <img src="Leonxzy_purple_banner_transparent.png" alt="Leonxzy Banner" width="800" />
 </p>
-
 
 <h1 align="center">Hi there! My name is Leonxzy! 👋 </h1>
 
