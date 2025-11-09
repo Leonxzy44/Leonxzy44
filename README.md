@@ -61,12 +61,14 @@
 
 <p>Most of my projects are on <a href="https://github.com">GitHub</a>.</p>
 
+My discord: `lilcoder`
+
 <p>📫 Contact me at: <a href="mailto:leon.hodzic@outlook.com">leon.hodzic@outlook.com</a></p>
 
 <p>📧 My Gmail is <a href="mailto:leonhodzic44@gmail.com">here</a>.</p></p>
 </td>
 
-My discord: `lilcoder`
+
 
 
 
