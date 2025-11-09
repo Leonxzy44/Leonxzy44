@@ -9,9 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=Leonxzy44&color=0A192F&label=Profile+Views&labelColor=000814&style=flat&labelTextColor=FFFFFF" alt="views badge" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=500&color=FF6E00&center=true&vCenter=true&multiline=true&width=800&lines=Creative;Software;Developer;%26;Open;Source;Builder;Crafting;Digital;Experiences;Exploring;AI;Automation;and;Next-Gen;Tech;Solutions;Daily;Turning;Ideas;Into;Code;Innovating;One;Project;At;A;Time" alt="Typing SVG" />
-</p>
 
 
 
