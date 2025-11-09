@@ -113,8 +113,7 @@
 
 ---
 ## 🗓️ Isometric Commit Calendar
-![Isometric calendar](https://github.com/Leonxzy44/metrics/blob/main/metrics.plugin.isocalendar.fullyear.svg)
-
+![Isometric calendar](https://raw.githubusercontent.com/Leonxzy44/metrics/main/metrics.plugin.isocalendar.fullyear.svg)
 
 ---
 
