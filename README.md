@@ -1,9 +1,8 @@
-<h1 align="center">
-
-<img width="1536" height="1024" alt="ChatGPT Image Nov 9, 2025, 09_42_23 AM" src="https://github.com/user-attachments/assets/2aae4b63-2104-40f2-a89f-a5760d8906a7" />
- 
-
- </h1>
+<p align="center">
+  <a href="https://developer.android.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+UI+Designer;Building+beautiful+apps+with+Compose+%F0%9F%93%B1" alt="Android Developer Typing Banner" />
+  </a>
+</p>
 
 
 </h1>
