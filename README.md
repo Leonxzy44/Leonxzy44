@@ -137,12 +137,16 @@ My discord: `lilcoder`
   <img
     src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&bg_color=0A192F,0E2A47,133B5C&title_color=4FC3F7&text_color=E3F2FD&icon_color=2196F3&border_color=1565C0"
     alt="GitHub stats"
+    height="180"
+    style="display:inline-block; margin-right:10px;"
   />
 
   <!-- Top Languages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&bg_color=0A192F,0E2A47,133B5C&title_color=4FC3F7&text_color=E3F2FD&border_color=1565C0"
     alt="Top languages"
+    height="180"
+    style="display:inline-block;"
   />
 </p>
 
