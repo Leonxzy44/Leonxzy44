@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/android-banner.gif" alt="Android Developer Challenge Banner" width="800" />
+  <a href="https://developer.android.com/">
+    <img src="https://developer.android.com/images/social/android-developers.png" alt="Android Developer Challenge Banner" width="800" />
+  </a>
 </p>
 
 
