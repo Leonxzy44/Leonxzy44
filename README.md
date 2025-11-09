@@ -15,53 +15,54 @@
 
 
 
-
 <h3 align="center">🌐 Socials:</h3>
 
 <div align="center">
 
   <!-- Row 1 -->
   <a href="https://stackoverflow.com/users/30537744/leonxzythedev" target="_blank">
-    <img src="https://cdn.simpleicons.org/stackoverflow?viewbox=auto&size=40" alt="Stack Overflow" />
+    <img src="https://cdn.simpleicons.org/stackoverflow" width="40" height="40" alt="Stack Overflow" />
   </a>
   <a href="" target="_blank">
-    <img src="https://cdn.simpleicons.org/x?viewbox=auto&size=40" alt="X" />
+    <img src="https://cdn.simpleicons.org/x" width="40" height="40" alt="X" />
   </a>
   <a href="https://monkeytype.com/Leonxzy" target="_blank">
-    <img src="https://cdn.simpleicons.org/monkeytype?viewbox=auto&size=40" alt="Monkeytype" />
+    <img src="https://cdn.simpleicons.org/monkeytype" width="40" height="40" alt="Monkeytype" />
   </a>
   <a href="https://github.com/Leonxzy44" target="_blank">
-    <img src="https://cdn.simpleicons.org/github?viewbox=auto&size=40" alt="GitHub" />
+    <img src="https://cdn.simpleicons.org/github" width="40" height="40" alt="GitHub" />
   </a>
   <br/>
 
   <!-- Row 2 -->
   <a href="mailto:leonhodzic44@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail?viewbox=auto&size=40" alt="Gmail" />
+    <img src="https://cdn.simpleicons.org/gmail" width="40" height="40" alt="Gmail" />
   </a>
+  <!-- Use your own Outlook logo file -->
   <a href="mailto:leon.hodzic@outlook.com">
-    <img src="https://cdn.simpleicons.org/microsoftoutlook?viewbox=auto&size=40" alt="Outlook" />
+    <img src="assets/outlook.svg" width="40" height="40" alt="Outlook" />
   </a>
+  <!-- Use your own GeoGebra logo file -->
   <a href="https://www.geogebra.org/u/leonhodzic44" target="_blank">
-    <img src="https://cdn.simpleicons.org/geogebra?viewbox=auto&size=40" alt="GeoGebra" />
+    <img src="assets/geogebra.svg" width="40" height="40" alt="GeoGebra" />
   </a>
   <a href="https://discord.com/users/1341794911258939543" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord?viewbox=auto&size=40" alt="Discord" />
+    <img src="https://cdn.simpleicons.org/discord" width="40" height="40" alt="Discord" />
   </a>
   <br/>
 
   <!-- Row 3 -->
   <a href="https://lichess.org/@/LeonxzyChess" target="_blank">
-    <img src="https://cdn.simpleicons.org/lichess?viewbox=auto&size=40" alt="Lichess" />
+    <img src="https://cdn.simpleicons.org/lichess" width="40" height="40" alt="Lichess" />
   </a>
   <a href="https://www.chess.com/member/Leonxzy44" target="_blank">
-    <img src="https://cdn.simpleicons.org/chessdotcom?viewbox=auto&size=40" alt="Chess.com" />
+    <img src="https://cdn.simpleicons.org/chessdotcom" width="40" height="40" alt="Chess.com" />
   </a>
   <a href="https://www.wikipedia.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/wikipedia?viewbox=auto&size=40" alt="Wikipedia" />
+    <img src="https://cdn.simpleicons.org/wikipedia" width="40" height="40" alt="Wikipedia" />
   </a>
   <a href="https://www.bug.hr/" target="_blank">
-    <img src="https://cdn.simpleicons.org/firefox?viewbox=auto&size=40" alt="Bug.hr" />
+    <img src="https://cdn.simpleicons.org/firefox" width="40" height="40" alt="Bug.hr" />
   </a>
 
 </div>
