@@ -21,48 +21,49 @@
 <div align="center">
   <!-- Row 1 -->
   <a href="https://stackoverflow.com/users/30537744/leonxzythedev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="40" height="40" alt="Stack Overflow"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" width="40" height="40" style="filter: invert(53%) sepia(89%) saturate(3790%) hue-rotate(353deg) brightness(101%) contrast(101%);" alt="Stack Overflow"/>
   </a>
   <a href="" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40" alt="X (Twitter)"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40" style="filter: invert(100%);" alt="X (Twitter)"/>
   </a>
   <a href="https://monkeytype.com/Leonxzy" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Monkeytype_logo.svg" width="40" height="40" alt="Monkeytype"/>
   </a>
   <a href="https://github.com/Leonxzy44" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" height="40" style="filter: invert(100%);" alt="GitHub"/>
   </a>
   <br>
 
   <!-- Row 2 -->
   <a href="mailto:leonhodzic44@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" alt="Gmail"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" style="filter: invert(36%) sepia(73%) saturate(4762%) hue-rotate(347deg) brightness(92%) contrast(92%);" alt="Gmail"/>
   </a>
   <a href="mailto:leon.hodzic@outlook.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" width="40" height="40" alt="Outlook"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" width="40" height="40" style="filter: invert(27%) sepia(87%) saturate(3068%) hue-rotate(191deg) brightness(96%) contrast(101%);" alt="Outlook"/>
   </a>
   <a href="https://www.geogebra.org/u/leonhodzic44" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geogebra.svg" width="40" height="40" alt="GeoGebra"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geogebra.svg" width="40" height="40" style="filter: invert(31%) sepia(77%) saturate(1782%) hue-rotate(231deg) brightness(94%) contrast(94%);" alt="GeoGebra"/>
   </a>
   <a href="https://discord.com/users/1341794911258939543" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="40" height="40" alt="Discord"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="40" height="40" style="filter: invert(46%) sepia(28%) saturate(6366%) hue-rotate(228deg) brightness(96%) contrast(92%);" alt="Discord"/>
   </a>
   <br>
 
   <!-- Row 3 -->
   <a href="https://lichess.org/@/LeonxzyChess" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/lichess.svg" width="40" height="40" alt="Lichess"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/lichess.svg" width="40" height="40" style="filter: invert(100%);" alt="Lichess"/>
   </a>
   <a href="https://www.chess.com/member/Leonxzy44" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/chessdotcom.svg" width="40" height="40" alt="Chess.com"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/chessdotcom.svg" width="40" height="40" style="filter: invert(41%) sepia(34%) saturate(439%) hue-rotate(61deg) brightness(98%) contrast(94%);" alt="Chess.com"/>
   </a>
   <a href="https://www.wikipedia.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wikipedia.svg" width="40" height="40" alt="Wikipedia"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wikipedia.svg" width="40" height="40" style="filter: invert(100%);" alt="Wikipedia"/>
   </a>
   <a href="https://www.bug.hr/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Mozilla_Firefox_logo_2019.svg" width="40" height="40" alt="Bug.hr (Firefox icon)"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Mozilla_Firefox_logo_2019.svg" width="40" height="40" alt="Bug.hr"/>
   </a>
 </div>
+
 
 ---
 <table>
