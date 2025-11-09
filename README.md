@@ -66,6 +66,8 @@
 <p>📧 My Gmail is <a href="mailto:leonhodzic44@gmail.com">here</a>.</p></p>
 </td>
 
+My discord: `lilcoder`
+
 
 
 </td>
