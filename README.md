@@ -18,24 +18,51 @@
 
 <h3 align="center">🌐 Socials:</h3>
 
-<div align="center" style="line-height: 0;">
+<div align="center">
   <!-- Row 1 -->
-  <a href="https://stackoverflow.com/users/30537744/leonxzythedev"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"/></a>
-  <a href="https://monkeytype.com/Leonxzy"><img src="https://img.shields.io/badge/Monkeytype-FFD700?logo=monkeytype&logoColor=000000"/></a>
-  <a href="https://github.com/Leonxzy44"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a><br>
-  <!-- Row 2 -->
-  <a href="mailto:leonhodzic44@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white"/></a>
-  <a href="mailto:leon.hodzic@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white"/></a>
-  <a href="https://www.geogebra.org/u/leonhodzic44"><img src="https://img.shields.io/badge/GeoGebra-764ABC?logo=geogebra&logoColor=white"/></a>
-  <a href="https://discord.com/users/1341794911258939543"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a><br>
-  <!-- Row 3 -->
-  <a href="https://lichess.org/@/LeonxzyChess"><img src="https://img.shields.io/badge/Lichess-000000?logo=lichess&logoColor=white"/></a>
-  <a href="https://www.chess.com/member/Leonxzy44"><img src="https://img.shields.io/badge/Chess.com-769656?logo=chess.com&logoColor=white"/></a>
-  <a href="https://www.wikipedia.org/"><img src="https://img.shields.io/badge/Wikipedia-000000?logo=wikipedia&logoColor=white"/></a>
-  <a href="https://www.bug.hr/"><img src="https://img.shields.io/badge/Bug.hr-FF4500?logo=firefox&logoColor=white"/></a>
-</div>
+  <a href="https://stackoverflow.com/users/30537744/leonxzythedev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="40" height="40" alt="Stack Overflow"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40" alt="X (Twitter)"/>
+  </a>
+  <a href="https://monkeytype.com/Leonxzy" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Monkeytype_logo.svg" width="40" height="40" alt="Monkeytype"/>
+  </a>
+  <a href="https://github.com/Leonxzy44" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+  <br>
 
+  <!-- Row 2 -->
+  <a href="mailto:leonhodzic44@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" alt="Gmail"/>
+  </a>
+  <a href="mailto:leon.hodzic@outlook.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" width="40" height="40" alt="Outlook"/>
+  </a>
+  <a href="https://www.geogebra.org/u/leonhodzic44" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geogebra.svg" width="40" height="40" alt="GeoGebra"/>
+  </a>
+  <a href="https://discord.com/users/1341794911258939543" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="40" height="40" alt="Discord"/>
+  </a>
+  <br>
+
+  <!-- Row 3 -->
+  <a href="https://lichess.org/@/LeonxzyChess" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/lichess.svg" width="40" height="40" alt="Lichess"/>
+  </a>
+  <a href="https://www.chess.com/member/Leonxzy44" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/chessdotcom.svg" width="40" height="40" alt="Chess.com"/>
+  </a>
+  <a href="https://www.wikipedia.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wikipedia.svg" width="40" height="40" alt="Wikipedia"/>
+  </a>
+  <a href="https://www.bug.hr/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Mozilla_Firefox_logo_2019.svg" width="40" height="40" alt="Bug.hr (Firefox icon)"/>
+  </a>
+</div>
 
 ---
 <table>
