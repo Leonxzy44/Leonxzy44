@@ -49,9 +49,9 @@
 
 <p>Every year, I take part in:</p>
 <ul>
-  <li>🏆 <strong>Informatics Olympiad</strong></li>
-  <li>🎨 <strong>FMS Logo Code-Drawing Tournament</strong></li>
-  <li>🐍 <strong>Algorithms in Python Tournament</strong></li>
+  <li> <strong>Informatics Olympiad</strong></li>
+  <li> <strong>FMS Logo Code-Drawing Tournament</strong></li>
+  <li> <strong>Algorithms in Python Tournament</strong></li>
 </ul>
 
 <p>By far, I’ve been most successful in <strong>Python</strong>. I aim to become a <strong>JavaScript</strong> and <strong>C# Software Engineer</strong>.</p>
