@@ -13,6 +13,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=40E0D0&center=true&vCenter=true&width=600&lines=%E2%80%8BSoftware+Developer+%7C+Programmer;%E2%80%8BOpen+Source+Enthusiast;%E2%80%8BTech+Explorer+%7C+Robotics&background=1B2B45/80/animated-wave.gif" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <a href="https://github.com/Leonxzy44"><img src="https://cdn.simpleicons.org/github/40E0D0" width="38"/></a>
+  <a href="https://stackoverflow.com/users/30537744/leonxzythedev"><img src="https://cdn.simpleicons.org/stackoverflow/40E0D0" width="38"/></a>
+  <a href="mailto:leonhodzic44@gmail.com"><img src="https://cdn.simpleicons.org/gmail/40E0D0" width="38"/></a>
+  <a href="https://discord.com/users/1341794911258939543"><img src="https://cdn.simpleicons.org/discord/40E0D0" width="38"/></a>
+  <a href="https://lichess.org/@/LeonxzyChess"><img src="https://cdn.simpleicons.org/lichess/40E0D0" width="38"/></a>
+</div>
 
 
 
