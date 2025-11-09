@@ -112,11 +112,9 @@
 
 
 ---
-<h1 align="center">
+## 🗓️ Isometric Commit Calendar
+![Isometric calendar](https://github.com/Leonxzy44/metrics/blob/main/metrics.plugin.isocalendar.fullyear.svg)
 
-<img width="931" height="619" alt="image" src="https://github.com/user-attachments/assets/c2c5bbb4-77b8-4e07-b53d-b6aa70b7cfd9" />
-
-</h1>
 
 ---
 
