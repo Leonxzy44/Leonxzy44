@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6F00&center=true&vCenter=true&width=800&lines=Software+Developer+%7C+Programmer+%7C+Builder+of+Digital+Dreams;Open+Source+Enthusiast+%7C+Collaborator+%7C+Constant+Learner;Tech+Explorer+%7C+Robotics+Innovator+%7C+AI+and+Automation+Geek&background=1B2B45/80/animated-wave.gif" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=FF6600&center=true&vCenter=true&width=600&lines=%E2%80%8BSoftware+Developer+%7C+Programmer;%E2%80%8BOpen+Source+Enthusiast;%E2%80%8BTech+Explorer+%7C+Robotics&background=1B2B45/80/animated-wave.gif" alt="Typing SVG" />
 </p>
+
 
 
 
