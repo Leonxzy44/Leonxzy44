@@ -15,7 +15,11 @@
 
 
 
+<!-- GitHub Stats Section -->
 
+| Stars | Forks | Followers | Contributions |
+|-------|-------|-----------|---------------|
+| ![Stars](https://img.shields.io/github/stars/Leonxzy44/Lintorch?style=flat-square&color=4CAF50) | ![Forks](https://img.shields.io/github/forks/Leonxzy44/Lintorch?style=flat-square&color=F44336) | ![Followers](https://img.shields.io/github/followers/Leonxzy44?style=flat-square&color=2196F3) | ![Contributions](https://img.shields.io/badge/contributions-123-darkgrey?style=flat-square) |
 
 
 <h3 align="center">🌐 Socials:</h3>
