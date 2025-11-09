@@ -39,10 +39,10 @@
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail" style="margin: 0 8px;" />
   </a>
   <a href="mailto:leon.hodzic@outlook.com">
-    <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="40" height="40" alt="Outlook" style="margin: 0 8px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Outlook_%282018–present%29.svg" width="40" height="40" alt="Outlook" style="margin: 0 8px;" />
   </a>
   <a href="https://www.geogebra.org/u/leonhodzic44" target="_blank">
-    <img src="https://cdn.simpleicons.org/geogebra" width="40" height="40" alt="GeoGebra" style="margin: 0 8px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/GeoGebra_Logo.svg" width="40" height="40" alt="GeoGebra" style="margin: 0 8px;" />
   </a>
   <a href="https://discord.com/users/1341794911258939543" target="_blank">
     <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" height="40" alt="Discord" style="margin: 0 8px;" />
