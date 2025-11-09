@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="Leonxzy Android Developer Banner" width="600" />
+  <img src="assets/android-banner.gif" alt="Android Developer Challenge Banner" width="800" />
 </p>
 
-</h1>
 
 <h1 align="center">Hi there! My name is Leonxzy! 👋 </h1>
 
