@@ -13,24 +13,49 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=40E0D0&center=true&vCenter=true&width=600&lines=%E2%80%8BSoftware+Developer+%7C+Programmer;%E2%80%8BOpen+Source+Enthusiast;%E2%80%8BTech+Explorer+%7C+Robotics&background=1B2B45/80/animated-wave.gif" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <a href="https://github.com/Leonxzy44">
-    <img src="https://skillicons.dev/icons?i=github" width="45" height="45"/>
-  </a>
-  <a href="https://stackoverflow.com/users/30537744/leonxzythedev">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" width="45" height="45"/>
-  </a>
-  <a href="mailto:leonhodzic44@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45"/>
-  </a>
-  <a href="https://discord.com/users/1341794911258939543">
-    <img src="https://skillicons.dev/icons?i=discord" width="45" height="45"/>
-  </a>
-  <a href="https://lichess.org/@/LeonxzyChess">
-    <img src="https://skillicons.dev/icons?i=chess" width="45" height="45"/>
-  </a>
-</div>
+<h3 align="center">🌐 Socials:</h3>
 
+<div align="center">
+
+  <!-- Row 1 -->
+  <a href="https://stackoverflow.com/users/30537744/leonxzythedev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" width="45" height="45" alt="Stack Overflow"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="X"/>
+  </a>
+  <a href="https://monkeytype.com/Leonxzy" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Monkeytype_logo.svg" width="45" height="45" alt="Monkeytype"/>
+  </a>
+  <a href="https://github.com/Leonxzy44" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
+  </a>
+  <br/>
+
+  <!-- Row 2 -->
+  <a href="mailto:leonhodzic44@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"/>
+  </a>
+  <a href="mailto:leon.hodzic@outlook.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Outlook_%282018–present%29.svg" width="45" height="45" alt="Outlook"/>
+  </a>
+  <a href="https://www.geogebra.org/u/leonhodzic44" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/GeoGebra_Logo.svg" width="45" height="45" alt="GeoGebra"/>
+  </a>
+  <a href="https://discord.com/users/1341794911258939543" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" alt="Discord"/>
+  </a>
+  <br/>
+
+  <!-- Row 3 -->
+  <a href="https://lichess.org/@/LeonxzyChess" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Lichess_logo.svg" width="45" height="45" alt="Lichess"/>
+  </a>
+  <a href="https://www.chess.com/member/Leonxzy44" target="_blank">
+    <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpG2eZyF.png" width="45" height="45" alt="Chess.com"/>
+  </a>
+
+</div>
 
 
 
