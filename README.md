@@ -1,7 +1,7 @@
 <img width="1600" height="480" alt="image" src="https://github.com/user-attachments/assets/8fae1332-ff55-4f91-a05a-3f559b294a13" />
 
 
-<h1 align="center">Hi there!My name is Leon! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<h1 align="center">Hi there! My name is Leon! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
 
 
