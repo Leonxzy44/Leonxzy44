@@ -15,44 +15,62 @@
 
 <h3 align="center">🌐 Socials:</h3>
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-  <!-- Row 1 -->
   <a href="https://stackoverflow.com/users/30537744/leonxzythedev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" width="45" height="45" alt="Stack Overflow"/>
+    <img src="assets/socials/stackoverflow.svg"
+         alt="Stack Overflow"
+         width="44" height="44"
+         style="background:#111827; border-radius:12px; padding:6px;" />
   </a>
+
   <a href="" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="X"/>
+    <img src="assets/socials/x.svg"
+         alt="X"
+         width="44" height="44"
+         style="background:#111827; border-radius:12px; padding:6px;" />
   </a>
+
   <a href="https://monkeytype.com/Leonxzy" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Monkeytype_logo.svg" width="45" height="45" alt="Monkeytype"/>
+    <img src="assets/socials/monkeytype.svg"
+         alt="Monkeytype"
+         width="44" height="44"
+         style="background:#111827; border-radius:12px; padding:6px;" />
   </a>
+
   <a href="https://github.com/Leonxzy44" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
+    <img src="assets/socials/github.svg"
+         alt="GitHub"
+         width="44" height="44"
+         style="background:#111827; border-radius:12px; padding:6px;" />
   </a>
-  <br/>
 
-  <!-- Row 2 -->
   <a href="mailto:leonhodzic44@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"/>
+    <img src="assets/socials/gmail.svg"
+         alt="Gmail"
+         width="44" height="44"
+         style="background:#111827; border-radius:12px; padding:6px;" />
   </a>
-  <a href="mailto:leon.hodzic@outlook.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Outlook_%282018–present%29.svg" width="45" height="45" alt="Outlook"/>
-  </a>
-  <a href="https://www.geogebra.org/u/leonhodzic44" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/GeoGebra_Logo.svg" width="45" height="45" alt="GeoGebra"/>
-  </a>
-  <a href="https://discord.com/users/1341794911258939543" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" alt="Discord"/>
-  </a>
-  <br/>
 
-  <!-- Row 3 -->
-  <a href="https://lichess.org/@/LeonxzyChess" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Lichess_logo.svg" width="45" height="45" alt="Lichess"/>
+  <a href="mailto:leon.hodzic@outlook.com">
+    <img src="assets/socials/outlook.svg"
+         alt="Outlook"
+         width="44" height="44"
+         style="background:#111827; border-radius:12px; padding:6px;" />
   </a>
-  <a href="https://www.chess.com/member/Leonxzy44" target="_blank">
-    <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpG2eZyF.png" width="45" height="45" alt="Chess.com"/>
+
+  <a href="https://www.geogebra.org/u/leonhodzic44" target="_blank">
+    <img src="assets/socials/geogebra.svg"
+         alt="GeoGebra"
+         width="44" height="44"
+         style="background:#111827; border-radius:12px; padding:6px;" />
+  </a>
+
+  <a href="https://discord.com/users/1341794911258939543" target="_blank">
+    <img src="assets/socials/discord.svg"
+         alt="Discord"
+         width="44" height="44"
+         style="background:#111827; border-radius:12px; padding:6px;" />
   </a>
 
 </div>
