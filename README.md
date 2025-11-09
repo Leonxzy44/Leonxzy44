@@ -15,40 +15,25 @@
 
 <h3 align="center">🌐 Socials:</h3>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-
-  <a href="https://stackoverflow.com/users/30537744/leonxzythedev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="45" height="45" alt="Stack Overflow" />
-  </a>
-
-  <a href="" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="45" height="45" alt="X" />
-  </a>
-
-  <a href="https://monkeytype.com/Leonxzy" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Monkeytype_logo.svg" width="45" height="45" alt="Monkeytype" />
-  </a>
-
+<div align="center">
   <a href="https://github.com/Leonxzy44" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
   </a>
-
-  <a href="mailto:leonhodzic44@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="45" height="45" alt="Gmail" />
+  <a href="https://stackoverflow.com/users/30537744/leonxzythedev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" width="45" height="45" alt="Stack Overflow"/>
   </a>
-
-  <a href="mailto:leon.hodzic@outlook.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Outlook_%282018–present%29.svg" width="45" height="45" alt="Outlook" />
+  <a href="mailto:leonhodzic44@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"/>
   </a>
-
-  <a href="https://www.geogebra.org/u/leonhodzic44" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/GeoGebra_Logo.svg" width="45" height="45" alt="GeoGebra" />
+  <a href="mailto:leon.hodzic@outlook.com">
+    <img src="https://skillicons.dev/icons?i=outlook" width="45" height="45" alt="Outlook"/>
   </a>
-
   <a href="https://discord.com/users/1341794911258939543" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="45" height="45" alt="Discord" />
+    <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" alt="Discord"/>
   </a>
-
+  <a href="https://x.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="Twitter"/>
+  </a>
 </div>
 
 
