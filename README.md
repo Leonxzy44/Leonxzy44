@@ -61,6 +61,12 @@
 
 <p>Most of my projects are on <a href="https://github.com">GitHub</a>.</p>
 
+If you want you can join @SMPL-projects community or repository on GitHub. There you can view others projects, comment, and add your projects. It's and 𝗢𝗣𝗘𝗡 𝗦𝗢𝗨𝗥𝗖𝗘. Contact me to join.
+
+Here is the link for the [repository](https://github.com/Leonxzy44/SMPL-projects).
+
+𝗙𝗼𝗿𝗸, 𝘀𝘁𝗮𝗿, make 𝗽𝘂𝗹𝗹 𝗿𝗲𝗾𝘂𝗲𝘀𝘁𝘀 to help this repo grow! 💝
+
 My discord: `lilcoder`
 
 <p>📫 Contact me at: <a href="mailto:leon.hodzic@outlook.com">leon.hodzic@outlook.com</a></p>
@@ -68,11 +74,6 @@ My discord: `lilcoder`
 <p>📧 My Gmail is <a href="mailto:leonhodzic44@gmail.com">here</a>.</p></p>
 </td>
 
-If you want you can join @SMPL-projects community or repository on GitHub. There you can view others projects, comment, and add your projects. It's and 𝗢𝗣𝗘𝗡 𝗦𝗢𝗨𝗥𝗖𝗘. Contact me to join.
-
-Here is the link for the [repository](https://github.com/Leonxzy44/SMPL-projects).
-
-𝗙𝗼𝗿𝗸, 𝘀𝘁𝗮𝗿, make 𝗽𝘂𝗹𝗹 𝗿𝗲𝗾𝘂𝗲𝘀𝘁𝘀 to help this repo grow! 💝
 
 
 
