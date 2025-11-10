@@ -14,9 +14,6 @@
 </p>
 
 
-<img src="https://img.shields.io/github/stars/Leonxzy44/Arduino?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/forks/Leonxzy44/Arduino?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/followers/Leonxzy44?style=for-the-badge&logo=github"/>
 
 
 <h3 align="center">🌐 Socials:</h3>
