@@ -154,30 +154,22 @@ me.say_hi()
 <h1>📊 GitHub Stats</h1>
 
 
-<!-- GitHub Stats + Languages (Dark Themed Layout for Leonxzy44) -->
-<div align="center">
-  <table>
-    <tr>
-      <!-- Left: Stats -->
-      <td valign="top" width="55%">
-        <h3>Leonxzy44's GitHub Stats</h3>
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9ccfd8&text_color=cad3f5&icon_color=3fb950"
-          alt="Leonxzy44's GitHub Stats" 
-          height="180em" />
-      </td>
+  <!-- Center: Grade Circle -->
+  <td valign="middle" width="10%" align="center">
+    <div style="display: inline-block; width: 100px; height: 100px; border-radius: 50%; border: 8px solid #9ccfd8; color: #cad3f5; font-size: 36px; font-weight: bold; line-height: 100px; text-align: center; background-color: #0d1117;">
+      A
+    </div>
+  </td>
 
-      <!-- Right: Most Used Languages -->
-      <td valign="top" width="45%">
-        <h3>Most Used Languages</h3>
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=9ccfd8&text_color=cad3f5"
-          alt="Leonxzy44's Top Languages" 
-          height="180em" />
-      </td>
-    </tr>
-  </table>
-</div>
+  <!-- Right: Most Used Languages -->
+  <td valign="top" width="45%">
+    <h3>Most Used Languages</h3>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=9ccfd8&text_color=cad3f5"
+      alt="Leonxzy44's Top Languages" 
+      height="180em" />
+  </td>
+</tr>
 
 
 
