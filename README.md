@@ -153,14 +153,26 @@ me.say_hi()
 
 <h1>📊 GitHub Stats</h1>
 
-  <!-- Right: Most Used Languages -->
-  <td valign="top" width="50%">
-    <img 
+<!-- Leonxzy44 — GitHub Stats + Languages (Dark Theme Side-by-Side) -->
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <a href="https://github.com/Leonxzy44" style="display:inline-block;">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9ccfd8&text_color=cad3f5&icon_color=3fb950"
+      alt="Leonxzy44's GitHub Stats" />
+  </a>
+
+  <!-- Most Used Languages -->
+  <a href="https://github.com/Leonxzy44" style="display:inline-block;">
+    <img
+      height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=9ccfd8&text_color=cad3f5"
-      alt="Leonxzy44's Top Languages" 
-      height="180em" />
-  </td>
-</tr>
+      alt="Leonxzy44's Top Languages" />
+  </a>
+
+</div>
 
 
 <p align="center">
