@@ -168,14 +168,7 @@ me.say_hi()
       </td>
 
     
-      <td valign="top" width="45%">
-        <h3>Most Used Languages</h3>
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=9ccfd8&text_color=cad3f5"
-          alt="Leonxzy44's Top Languages" 
-          height="180em" />
-      </td>
-    </tr>
+
   </table>
 </div>
 
