@@ -5,7 +5,7 @@
 <p align="center">
   <svg width="600" height="220" viewBox="0 0 600 220" xmlns="http://www.w3.org/2000/svg">
 
-    <!-- Animated Blob -->
+ >
     <defs>
       <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
         <stop offset="0%" stop-color="#6ECFFF"/>
@@ -27,12 +27,12 @@
           " />
       </path>
 
-      <!-- Title Text -->
+     
       <text x="0" y="-5" font-size="40" font-weight="700" text-anchor="middle" fill="#ffffff">
         Hey! I'm Leonxzy
       </text>
 
-      <!-- Subtitle -->
+     
       <text x="0" y="35" font-size="18" text-anchor="middle" fill="#E0ECFF">
         Software Engineer | AI Architect Apprentice
       </text>
