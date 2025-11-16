@@ -154,6 +154,8 @@ me.say_hi()
 
 ---
 
+<h1 align="center">
+
 ## 🧪 Workflows
 
 | 🐍 Project        | 🛠️ Build      | ⚖️ Size        | 📜 Documentation | ☁️ Release |
@@ -164,6 +166,8 @@ me.say_hi()
 | **Amiquin**       | ![build](https://img.shields.io/badge/build-no%20status-lightgrey) | ![size](https://img.shields.io/badge/repo%20size-64.3MiB-blue) | ![docs](https://img.shields.io/badge/docs-available-orange) | ![soon](https://img.shields.io/badge/Soon™-grey) |
 | **Console Imager**| ![build](https://img.shields.io/badge/build-n%2Fa-lightgrey) | ![size](https://img.shields.io/badge/repo%20size-21KiB-blue) | ![docs](https://img.shields.io/badge/docs-none-lightgrey) | ![rel](https://img.shields.io/badge/release-v1.0.1-blue) |
 | **My Things Saver** | ![build](https://img.shields.io/badge/build-n%2Fa-lightgrey) | ![size](https://img.shields.io/badge/repo%20size-12.5MiB-blue) | ![docs](https://img.shields.io/badge/docs-none-lightgrey) | ![rel](https://img.shields.io/badge/release-v1.0.0-blue) |
+
+</h1>
 
 ---
 
