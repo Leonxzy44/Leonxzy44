@@ -47,16 +47,16 @@
 ## ℹ️ About Me
 
 - 👨‍💻 Full-stack Software Engineer specializing in **.NET & Cloud solutions** and building useful softwares and apps.
-- 🧠 Studying the magic of Computer Science — theory + practice = ❤️
-- 🤖 Building tools, bots, apps, softwares and AI experiments for fun and growth
-- 🧩 Gamer, matematician, and developer
-- 📬 DM me on [Discord (lilcoder)](https://discord.com/channels/@lilcoder) or [email](mailto:leon.hodzic@outlook.com)
+- 🧠 Studying the magic of Computer Science — theory + practice = 💝️
+- 🤖 Building tools, bots, apps, softwares and AI experiments for fun and growth.
+- 💡 Gamer, matematician, and developer.
+- 📬 DM me on [Discord](https://discord.com/channels/@lilcoder) or [Email](mailto:leon.hodzic@outlook.com).
 
 ## 🎯 Current Focus
 
-- 🚀 Deepening knowledge in **AI-assisted apps & services**
-- 🌐 Exploring advanced **.NET 9, SignalR, gRPC**
-- 🛠️ Scaling my personal projects for public use
+- 🚀 Deepening knowledge in **AI-assisted apps & services**.
+- 🌐 Exploring advanced **.NET 9, SignalR, gRPC**.
+- 🛠️ Scaling my personal projects for public use.
 ---
 
 <p align="center">
