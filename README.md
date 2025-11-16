@@ -44,49 +44,19 @@
 
 
 ---
-<table>
-  <tr>
-    <!-- LEFT SIDE -->
-    <td width="55%" valign="top">
+## ℹ️ About Me
 
-<h3>👋 About Me</h3>
+- 👨‍💻 Full-stack Software Engineer specializing in **.NET & Cloud solutions** and building useful softwares and apps.
+- 🧠 Studying the magic of Computer Science — theory + practice = ❤️
+- 🤖 Building tools, bots, apps, softwares and AI experiments for fun and growth
+- 🧩 Gamer, matematician, and developer
+- 📬 DM me on [Discord (lilcoder)](https://discord.com/channels/@lilcoder) or [email](mailto:leon.hodzic@outlook.com)
 
-<p>My name is <strong>Leon</strong> and I'm 13 yrs old. I'm interested in <strong>coding</strong>, <strong>chess</strong>, <strong>math</strong>, <strong>physics</strong>, <strong>reading</strong>, <strong>robotics</strong>, and <strong>Arduino</strong>. I love to code and build projects.</p>
+## 🎯 Current Focus
 
-<p>Every year, I take part in:</p>
-<ul>
-  <li> <strong>Informatics Olympiad</strong></li>
-  <li> <strong>FMS Logo Code-Drawing Tournament</strong></li>
-  <li> <strong>Algorithms in Python Tournament</strong></li>
-</ul>
-
-<p>By far, I’ve been most successful in <strong>Python</strong>. I aim to become a <strong>JavaScript</strong> and <strong>C# Software Engineer</strong>.</p>
-
-<p>I'm currently working on:</p>
-<ul>
-  <li>👉 <a href="https://github.com/Leonxzy44/Lintorch-Software">Lintorch</a></li>
-  <li>👉 <a href="https://github.com/Leonxzy44/ArduinoProjects">Arduino</a></li>
-</ul>
-
-<p>Most of my projects are on <a href="https://github.com">GitHub</a>.</p>
-
-If you want you can join @SMPL-projects community or repository on GitHub. There you can view others projects, comment, and add your projects. It's and 𝗢𝗣𝗘𝗡 𝗦𝗢𝗨𝗥𝗖𝗘. Contact me to join.
-
-Here is the link for the [repository](https://github.com/Leonxzy44/SMPL-projects).
-
-𝗙𝗼𝗿𝗸, 𝘀𝘁𝗮𝗿, make 𝗽𝘂𝗹𝗹 𝗿𝗲𝗾𝘂𝗲𝘀𝘁𝘀 to help this repo grow! 💝
-
-My discord: `lilcoder`
-
-<p>📬 Contact me at: <a href="mailto:leon.hodzic@outlook.com">leon.hodzic@outlook.com</a></p>
-
-<p>📧 My Gmail is <a href="mailto:leonhodzic44@gmail.com">here</a>.</p></p>
-</td>
-
-</td>
-  </tr>
-</table>
-
+- 🚀 Deepening knowledge in **AI-assisted apps & services**
+- 🌐 Exploring advanced **.NET 9, SignalR, gRPC**
+- 🛠️ Scaling my personal projects for public use
 ---
 
 <p align="center">
