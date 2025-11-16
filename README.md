@@ -46,6 +46,8 @@
 ---
 ## ℹ️ About Me
 
+Hi there. My name is **Leon** and i'm 13 years old passionate developer from **Europe**. I like to code, build apps and softwares. From other activities i like **reading**, **chess**, **gaming**... I aim to become **JavaScript** and **C#** Software engineer.
+
 - 👨‍💻 Full-stack Software Engineer specializing in **.NET & Cloud solutions** and building useful softwares and apps.
 - 🧠 Studying the magic of Computer Science — theory + practice = 💝️
 - 🤖 Building tools, bots, apps, softwares and AI experiments for fun and growth.
