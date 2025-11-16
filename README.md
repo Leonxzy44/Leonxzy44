@@ -158,7 +158,7 @@ me.say_hi()
 
 ## 🧪 Workflows
 
-| 🐍 Project        | 🛠️ Build      | ⚖️ Size        | 📜 Documentation | ☁️ Release |
+| 🐛 Project        | 🛠️ Build      | ⚖️ Size        | 📜 Documentation | ☁️ Release |
 |------------------|--------------|----------------|------------------|------------|
 | **Jiro**          | ![build](https://img.shields.io/badge/build-passing-brightgreen) | ![size](https://img.shields.io/badge/repo%20size-9.7MiB-blue) | ![docs](https://img.shields.io/badge/docs-available-orange) | ![rel](https://img.shields.io/badge/release-v1.0.0--beta-blue) |
 | **Jiro.Libs**     | ![build](https://img.shields.io/badge/build-passing-brightgreen) | ![size](https://img.shields.io/badge/repo%20size-7.1MiB-blue) | ![docs](https://img.shields.io/badge/docs-available-orange) | ![nuget](https://img.shields.io/badge/NuGet-v3.0.4-blue) |
