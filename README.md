@@ -50,7 +50,7 @@ Hi there. My name is **Leon** and i'm 13 years old passionate developer from **E
 
 - 👨‍💻 Full-stack Software Engineer specializing in **.NET & Cloud solutions** and building useful softwares and apps.
 - 🧠 Studying the magic of Computer Science — theory + practice = 💝️
-- 🤖 Building tools, bots, apps, softwares and AI experiments for fun and growth.
+- ⚡️ Building tools, bots, apps, softwares and AI experiments for fun and growth.
 - 💡 Gamer, mathematician, and developer.
 - 📬 DM me on [Discord](https://discord.com/channels/@lilcoder) or [Email](mailto:leon.hodzic@outlook.com).
 
