@@ -151,17 +151,23 @@ me.say_hi()
 </p>
 
 ---
+<div align="center">
+
 ## 🔧 What I'm Working On
 
 | 🚀 Project | Description | Links |
 |-----------|-------------|--------|
 | **📟 Lintorch** | AI and python powered software extracting apps. | [Repo](https://github.com/Leonxzy44/Lintorch-Software) • [Libs](#) • [Shared](#) |
-| **💾 Arduino** | Library and database for all of my arduino projects i made. | [Repo](https://github.com/Leonxzy44/ArduinoProjects) |
-| **📲 Vizion** | Display images in the console from online sources | [Repo](#) |
+| **💾 Arduino** | Library and database for all of my arduino projects i made. | [Repo](https://github.com/Leonxzy44/ArduinoProjects) • [Libs](#) • [Shared](#) |
+| **📲 Vizion** | Display images in the console from online sources | [Repo](#) • [Libs](#) • [Shared](#) |
+
+</div>
 
 ---
 
-<h1 align="center">
+
+
+<div align="center">
 
 ## 🧪 Workflows
 
@@ -174,7 +180,8 @@ me.say_hi()
 | **Console Imager**| ![build](https://img.shields.io/badge/build-n%2Fa-lightgrey) | ![size](https://img.shields.io/badge/repo%20size-21KiB-blue) | ![docs](https://img.shields.io/badge/docs-none-lightgrey) | ![rel](https://img.shields.io/badge/release-v1.0.1-blue) |
 | **My Things Saver** | ![build](https://img.shields.io/badge/build-n%2Fa-lightgrey) | ![size](https://img.shields.io/badge/repo%20size-12.5MiB-blue) | ![docs](https://img.shields.io/badge/docs-none-lightgrey) | ![rel](https://img.shields.io/badge/release-v1.0.0-blue) |
 
-</h1>
+</div>
+
 
 ---
 
