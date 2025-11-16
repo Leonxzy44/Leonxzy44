@@ -150,7 +150,14 @@ me.say_hi()
        alt="Tools Icons" />
 </p>
 
+---
+## 🔧 What I'm Working On
 
+| 🚀 Project | Description | Links |
+|-----------|-------------|--------|
+| **Lintorch** | AI and python powered software extracting apps. | [Repo](https://github.com/Leonxzy44/Lintorch-Software) • [Libs](#) • [Shared](#) |
+| **Arduino** | Library and database for all of my arduino projects i made. | [Repo](https://github.com/Leonxzy44/ArduinoProjects) |
+| **Vizion** | Display images in the console from online sources | [Repo](#) |
 
 ---
 
