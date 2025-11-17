@@ -3,7 +3,32 @@
 <img width="2576" height="1058" alt="image" src="https://github.com/user-attachments/assets/da52cb7a-2c97-44c4-b678-0b2c7398b0f3" />
 
 
+<style>
+.ani-emoji {
+  display: inline-block;
+  animation: pulse 1.8s infinite ease-in-out;
+}
 
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.12); }
+  100% { transform: scale(1); }
+}
+</style>
+
+## <span class="ani-emoji">👋</span> Hi, I'm **Leon**!
+
+🚀 Coding like it’s 2050, but debugging like it’s 1999.
+
+---
+
+- <span class="ani-emoji">🌍</span> Based in **Croatia, Europe**
+- <span class="ani-emoji">📧</span> Contact me: **leon.hodzic@outlook.com**
+- <span class="ani-emoji">🏅</span> Currently building **useful softwares and websites.**
+- <span class="ani-emoji">🧠</span> Exploring **AI** to create smarter user experiences
+- <span class="ani-emoji">⚡</span> Always diving into **new tech** to stay ahead
+
+---
 ---
 
 
