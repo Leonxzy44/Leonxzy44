@@ -3,17 +3,17 @@
 <img width="2576" height="1058" alt="image" src="https://github.com/user-attachments/assets/da52cb7a-2c97-44c4-b678-0b2c7398b0f3" />
 
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="wave"> Hi, I'm **Leon**!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hi, I'm **Leon**!
 
 🚀 **Coding like it’s 2050, but debugging like it’s 1999.**
 
 ---
 
-- <img src="https://media.giphy.com/media/2wSX6jG2gF8xS/giphy.gif" width="20" alt="globe"> Based in **Croatia, Europe**
-- <img src="https://media.giphy.com/media/XA7m5KzsGZQ0Q/giphy.gif" width="20" alt="email"> Contact me: **leon.hodzic@outlook.com**
-- <img src="https://media.giphy.com/media/QtOTnG3l3Pkn6/giphy.gif" width="20" alt="medal"> Currently building **real-time data apps for international sports**
-- <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="20" alt="brain"> Exploring **AI** to create smarter user experiences
-- <img src="https://media.giphy.com/media/W5eoZHPpUx9rTQw3aU/giphy.gif" width="20" alt="zap"> Always diving into **new tech** to stay ahead
+- <img src="https://media.giphy.com/media/iigp4VDywzZPG/giphy.gif" width="20"> Based in **Tirana, Albania**   <!-- globe-ish -->
+- <img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="20"> Contact me: **leon.hodzic@outlook.com**   <!-- mail-like -->
+- <img src="https://media.giphy.com/media/UvQ9M6U4K2Sg4/giphy.gif" width="20"> Currently building **real-time data apps for international sports**   <!-- medal-like -->
+- <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="20"> Exploring **AI** to create smarter user experiences**   <!-- brain-like -->
+- <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="20"> Always diving into **new tech** to stay ahead**   <!-- lightning-like -->
 
 ---
 ---
