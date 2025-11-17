@@ -1,5 +1,8 @@
+<h align="center">
 
+![WhatsApp Slika 2025-11-17 u 14 45 10_0c5f37d0](https://github.com/user-attachments/assets/b2984b4d-23c1-47e7-a962-ed41802258ce)
 
+</h>
 
 
 <img width="1600" height="480" alt="image" src="https://github.com/user-attachments/assets/8fae1332-ff55-4f91-a05a-3f559b294a13" />
