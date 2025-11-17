@@ -3,19 +3,17 @@
 <img width="2576" height="1058" alt="image" src="https://github.com/user-attachments/assets/da52cb7a-2c97-44c4-b678-0b2c7398b0f3" />
 
 
-</h>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="wave"> Hi, I'm **Leon**!
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Leon**!
-
-🚀 <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="25"> **Coding like it’s 2050, but debugging like it’s 1999.**
+<img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="24" alt="rocket"> **Coding like it’s 2050, but debugging like it’s 1999.**
 
 ---
 
-- <img src="https://media.giphy.com/media/WWac8h5dZzwp6/giphy.gif" width="20"> Based in **Tirana, Albania**
-- <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="20"> Contact me: **leon.hodzic@outlook.com**
-- <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="20"> Currently building **real-time data apps for international sports**
-- <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="20"> Exploring **AI** to create smarter user experiences
-- <img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" width="20"> Always diving into **new tech** to stay ahead
+- <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="20" alt="globe"> Based in **Croatia, Europe**
+- <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="20" alt="email"> Contact me: **leon.hodzic@outlook.com**
+- <img src="https://media.giphy.com/media/1BXa2alBjrCXC/giphy.gif" width="20" alt="medal"> Currently building **real-time data apps for international sports**
+- <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="20" alt="brain"> Exploring **AI** to create smarter user experiences
+- <img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="20" alt="lightning"> Always diving into **new tech** to stay ahead
 
 ---
 ---
