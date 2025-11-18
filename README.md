@@ -188,6 +188,8 @@ me.say_hi()
 
 
  ---
+
+ <h1 align="center">**Thanks for visiting my GitHub profile, see you soon and happy coding!** 🚀✨️ </h1>
  
 
 
