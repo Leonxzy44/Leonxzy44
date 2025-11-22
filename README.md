@@ -47,7 +47,7 @@
 Hi there. My name is **Leon** and i'm 13 years old passionate developer from **Europe**. I like to code, build apps and softwares. From other activities i like **reading**, **chess**, **gaming**... I aim to become **JavaScript** and **C#** Software engineer.
 
 - 💼 Full-stack Software Engineer specializing in **Python & JavaScript**
-- 🧠 Mastering full-time coding.
+- 🧠 Mastering full-time python coding along with VSC.
 - ⚡️ Building tools, bots, apps, softwares and AI experiments for fun and growth.
 - 💡 Gamer, mathematician, and developer.
 - 📬 DM me on [Discord](https://discord.com/channels/@lilcoder) or [Email](mailto:leon.hodzic@outlook.com).
