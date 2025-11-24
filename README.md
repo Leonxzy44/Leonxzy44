@@ -10,22 +10,11 @@
 </h1>
 
 ---
+
 <h1 align="center">
-  I'm Leonxzy!
-  <!-- Animated waving emoji using inline SVG (SMIL) -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 64 64" style="vertical-align:middle;">
-    <!-- emoji as text inside svg so it uses system emoji glyph -->
-    <text x="6" y="46" font-size="40">👋</text>
-    <!-- animateTransform rotates the emoji back and forth to simulate a wave -->
-    <animateTransform
-      attributeName="transform"
-      attributeType="XML"
-      type="rotate"
-      dur="1.6s"
-      values="0 28 28; 20 28 28; 0 28 28; -20 28 28; 0 28 28"
-      repeatCount="indefinite"/>
-  </svg>
+  I'm Leonxzy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 </h1>
+
 
 <!-- Optional short subtitle -->
 <p align="center">Welcome to my GitHub 👋 — nice to meet you!</p>
