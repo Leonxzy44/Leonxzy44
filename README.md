@@ -20,6 +20,7 @@
 <p align="center">Welcome to my GitHub 👋 — nice to meet you!</p>
 
 
+<img width="710" height="513" alt="image" src="https://github.com/user-attachments/assets/f21a967e-aa1f-4887-ab19-c7691aa357cb" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Leonxzy44&color=0A192F&label=Profile+Views&labelColor=000814&style=flat&labelTextColor=FFFFFF" alt="views badge" />
