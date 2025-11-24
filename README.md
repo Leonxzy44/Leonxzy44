@@ -1,9 +1,13 @@
 <h align="center">
 
+
 <img width="2576" height="1058" alt="image" src="https://github.com/user-attachments/assets/da52cb7a-2c97-44c4-b678-0b2c7398b0f3" />
 
+<h align="center">
 
+![WhatsApp Slika 2025-11-24 u 19 39 46_3b76e6f9](https://github.com/user-attachments/assets/f363115b-3800-4807-8e21-15f2c1351c64)
 
+</h1>
 ---
 
 
