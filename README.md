@@ -8,8 +8,27 @@
 ![WhatsApp Slika 2025-11-24 u 19 39 46_3b76e6f9](https://github.com/user-attachments/assets/f363115b-3800-4807-8e21-15f2c1351c64)
 
 </h1>
----
 
+---
+<h1 align="center">
+  I'm Leonxzy!
+  <!-- Animated waving emoji using inline SVG (SMIL) -->
+  <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 64 64" style="vertical-align:middle;">
+    <!-- emoji as text inside svg so it uses system emoji glyph -->
+    <text x="6" y="46" font-size="40">👋</text>
+    <!-- animateTransform rotates the emoji back and forth to simulate a wave -->
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      dur="1.6s"
+      values="0 28 28; 20 28 28; 0 28 28; -20 28 28; 0 28 28"
+      repeatCount="indefinite"/>
+  </svg>
+</h1>
+
+<!-- Optional short subtitle -->
+<p align="center">Welcome to my GitHub 👋 — nice to meet you!</p>
 
 
 
@@ -46,6 +65,7 @@
 
 
 ---
+
 ## 👾 About Me
 
 Hi there. My name is **Leon** and i'm 13 years old passionate developer from **Europe**. I like to code, build apps and softwares. From other activities i like **reading**, **chess**, **gaming**... I aim to become **JavaScript** and **C#** Software engineer.
