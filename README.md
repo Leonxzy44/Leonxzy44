@@ -87,10 +87,10 @@ class Developer:
         self.languages = ["Python", "JavaScript", "C++"]
         self.learning = ["React", "Node.js", "AI/ML"]
         self.hobbies = ["Biking", "Reading", "Chess"]
-        self.goal = "Build products that make life easier 🚀"
+        self.goal = "Build products that make life easier"
 
     def say_hi(self):
-        print("Hey there! 👋 Thanks for visiting my GitHub profile.")
+        print("Hey there! Thanks for visiting my GitHub profile.")
 
 me = Developer()
 me.say_hi()
