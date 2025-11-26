@@ -57,7 +57,7 @@
 </div>
 
 ---
-##ℹ️ Information box (Click on theme to reveal
+## ℹ️ Information box
 
 <details>
   <summary> </summary>
