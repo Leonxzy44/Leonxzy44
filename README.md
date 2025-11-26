@@ -57,8 +57,10 @@
 </div>
 
 ---
+##ℹ️ Information box (Click on theme to reveal
+
 <details>
-  <summary>ℹ️ Information box (Click on theme to reveal</summary>
+  <summary> </summary>
 
 Your hidden content here.
 
