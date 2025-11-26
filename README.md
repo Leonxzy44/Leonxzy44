@@ -58,7 +58,7 @@
 
 ---
 <details>
-  <summary>My Section Title</summary>
+  <summary>ℹ️ Information box (Click on theme to reveal</summary>
 
 Your hidden content here.
 
