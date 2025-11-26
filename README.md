@@ -66,6 +66,16 @@ I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C
 
 </details>
 
+<details>
+  <summary>📐 Hobbies & activities</summary>
+
+• **Chess**
+• **Reading**
+• **Coding**
+• **Speed-typing**
+
+</details>
+
 ---
 
 ## 👾 About Me
