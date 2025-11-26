@@ -56,6 +56,13 @@
   </a>
 </div>
 
+---
+<details>
+  <summary>My Section Title</summary>
+
+Your hidden content here.
+
+</details>
 
 ---
 
