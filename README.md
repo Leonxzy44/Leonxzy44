@@ -18,7 +18,7 @@
 
 <div align="center">
 
-### 💻 Coding in Progress...
+
 
 ![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
