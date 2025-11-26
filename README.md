@@ -60,9 +60,9 @@
 ## ℹ️ Information box
 
 <details>
-  <summary> </summary>
+  <summary>👨‍💻 Coding skills </summary>
 
-Your hidden content here.
+I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C++** and **JS**. Using AI powered tools to improve. Building bots, apps, websites, softwares, hardwares and much more.
 
 </details>
 
