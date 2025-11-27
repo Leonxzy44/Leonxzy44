@@ -13,16 +13,7 @@
 </h1>
 
 
-<!-- Optional short subtitle -->
-<p align="center">Welcome to my GitHub 👋 — nice to meet you!</p>
 
-<div align="center">
-
-
-
-![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-</div>
 
 
 
