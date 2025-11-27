@@ -55,6 +55,11 @@
 
 I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C++** and **JS**. Using AI powered tools to improve. Building bots, apps, websites, softwares, hardwares and much more.
 
+I'm currently working on:
+
+🫴🏽 [Pynux](https://discord.com/channels/@lilcode
+
+🫴🏽
 </details>
 
 <details>
@@ -69,8 +74,9 @@ Some of my hobbies are **coding**, **reading**, **chess** and **Speed-typing**.
 
 - **Games**: Forza Horizon 5, Minecraft, Fortnite, World of Tanks, Geometry Dash, Witcher 3, Gta V.
 
-
 </details>
+
+
 
 ---
 
