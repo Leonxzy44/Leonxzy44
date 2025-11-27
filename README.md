@@ -57,8 +57,7 @@ I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C
 
 I'm currently working on:
 
-🫴🏽 [Pynux](https://discord.com/channels/@lilcode
-
+🫴🏽 [Pynux](https://github.com/Leonxzy44/Pynux)
 🫴🏽
 </details>
 
