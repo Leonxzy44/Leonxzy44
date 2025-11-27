@@ -69,10 +69,7 @@ I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C
 <details>
   <summary>📐 Hobbies & activities</summary>
 
-• **Chess**
-• **Reading**
-• **Coding**
-• **Speed-typing**
+Some of my hobbies are **coding**, **reading**, **chess** and **Speed-typing**.
 
 </details>
 
