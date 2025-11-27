@@ -27,7 +27,7 @@
 
 
 
-<h3 align="center">🌐 Socials:</h3>
+
 
 <div align="center">
   <a href="https://github.com/Leonxzy44" target="_blank">
