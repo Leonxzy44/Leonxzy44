@@ -72,7 +72,11 @@ Some of my hobbies are **coding**, **reading**, **chess** and **Speed-typing**.
 
 </details>
 
+---
+
 - 📬 DM me on [Discord](https://discord.com/channels/@lilcoder) or [Email](mailto:leon.hodzic@outlook.com) me.
+
+- 🤝 Business inquires: leonhodzic44@gmail.com
 
 ---
 
