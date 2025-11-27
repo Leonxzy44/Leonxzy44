@@ -58,9 +58,17 @@ I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C
 </details>
 
 <details>
-  <summary>📐 Hobbies & activities</summary>
+  <summary>♟️ Hobbies & activities</summary>
 
 Some of my hobbies are **coding**, **reading**, **chess** and **Speed-typing**.
+
+</details>
+
+<details>
+  <summary>🕹 Gaming</summary>
+
+- **Games**: Forza Horizon 5, Minecraft, Fortnite, World of Tanks, Geometry Dash, Witcher 3, Gta V.
+
 
 </details>
 
