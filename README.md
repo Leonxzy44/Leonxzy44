@@ -58,7 +58,8 @@ I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C
 I'm currently working on:
 
 🫴🏽 [Pynux](https://github.com/Leonxzy44/Pynux)
-🫴🏽
+
+🫴🏽 [Arduino projects](https://github.com/Leonxzy44/ArduinoProjects)
 </details>
 
 <details>
