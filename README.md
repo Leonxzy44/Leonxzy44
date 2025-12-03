@@ -80,6 +80,8 @@ Some of my hobbies are **coding**, **reading**, **chess** and **Speed-typing**.
 
 ---
 
+If you're ever interested into collab or working together, contact me and then we will talk about it.
+
 - 📬 DM me on [Discord](https://discord.com/channels/@lilcoder) or [Email](mailto:leon.hodzic@outlook.com) me to contact.
 
 - 🤝 Business inquires: leonhodzic44@gmail.com
