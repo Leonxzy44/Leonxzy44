@@ -48,7 +48,7 @@
 </div>
 
 ---
-## ℹ️ Information box
+## ⓘ Informations
 
 <details>
   <summary>👨‍💻 Coding skills </summary>
