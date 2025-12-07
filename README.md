@@ -95,24 +95,63 @@ If you're ever interested into collab or working together, contact me and then w
 <p align="center">
   🧠 Languages:
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+
+  <!-- JavaScript -->
+  <span style="background-color:#111827;border-radius:16px;padding:12px;display:inline-flex;margin:4px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+         alt="JavaScript" width="40" height="40">
+  </span>
+
+  <!-- TypeScript -->
+  <span style="background-color:#111827;border-radius:16px;padding:12px;display:inline-flex;margin:4px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
+         alt="TypeScript" width="40" height="40">
+  </span>
+
+  <!-- Python -->
+  <span style="background-color:#111827;border-radius:16px;padding:12px;display:inline-flex;margin:4px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+         alt="Python" width="40" height="40">
+  </span>
+
+  <!-- Java -->
+  <span style="background-color:#111827;border-radius:16px;padding:12px;display:inline-flex;margin:4px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+         alt="Java" width="40" height="40">
+  </span>
+
+  <!-- C++ -->
+  <span style="background-color:#111827;border-radius:16px;padding:12px;display:inline-flex;margin:4px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
+         alt="C++" width="40" height="40">
+  </span>
+
+  <!-- C# -->
+  <span style="background-color:#111827;border-radius:16px;padding:12px;display:inline-flex;margin:4px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
+         alt="C#" width="40" height="40">
+  </span>
+
+  <!-- HTML -->
+  <span style="background-color:#111827;border-radius:16px;padding:12px;display:inline-flex;margin:4px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" 
+         alt="HTML5" width="40" height="40">
+  </span>
+
+  <!-- CSS -->
+  <span style="background-color:#111827;border-radius:16px;padding:12px;display:inline-flex;margin:4px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
+         alt="CSS3" width="40" height="40">
+  </span>
+
+  <!-- PHP -->
+  <span style="background-color:#111827;border-radius:16px;padding:12px;display:inline-flex;margin:4px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
+         alt="PHP" width="40" height="40">
+  </span>
+
 </div>
 
-</p>
 
 ---
 
