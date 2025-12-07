@@ -114,7 +114,6 @@ If you're ever interested into collab or working together, contact me and then w
 </div>
 
 </p>
-
 ---
 
 
