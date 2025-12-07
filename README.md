@@ -96,15 +96,15 @@ If you're ever interested into collab or working together, contact me and then w
   🧠 Languages:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TS-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=FF6F00" />
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=239120" />
-  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="icons/js.png" width="40"/>
+  <img src="icons/ts.png" width="40"/>
+  <img src="icons/python.png" width="40"/>
+  <img src="icons/java.png" width="40"/>
+  <img src="icons/cpp.png" width="40"/>
+  <img src="icons/csharp.png" width="40"/>
+  <img src="icons/html.png" width="40"/>
+  <img src="icons/css.png" width="40"/>
+  <img src="icons/php.png" width="40"/>
 </p>
 
 ---
