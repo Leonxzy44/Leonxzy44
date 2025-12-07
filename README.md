@@ -47,7 +47,21 @@
   </a>
 </div>
 
-<img src="rgb-line.svg" alt="RGB animated line" />
+<p align="center">
+  <svg width="100%" height="6" viewBox="0 0 100 4" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="rgbGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%"   stop-color="#ff00ff"/>
+        <stop offset="25%"  stop-color="#8000ff"/>
+        <stop offset="50%"  stop-color="#0000ff"/>
+        <stop offset="75%"  stop-color="#0080ff"/>
+        <stop offset="100%" stop-color="#80b0ff"/>
+      </linearGradient>
+    </defs>
+    <rect x="0" y="0" width="100" height="4" fill="url(#rgbGradient)" rx="1" ry="1" />
+  </svg>
+</p>
+
 
 ## ⓘ Informations (click to reveal)
 
