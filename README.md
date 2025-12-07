@@ -48,7 +48,7 @@
 </div>
 
 ---
-## ⓘ Informations
+## ⓘ Informations (click to reveal)
 
 <details>
   <summary>👨‍💻 Coding skills </summary>
