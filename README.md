@@ -47,9 +47,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="assets/rgb-line.svg" alt="RGB animated line" width="100%" />
-</p>
 
 
 ## ⓘ Informations (click to reveal)
