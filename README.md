@@ -156,9 +156,9 @@ me.say_hi()
 
 | 🚀 Project | Description | Links |
 |-----------|-------------|--------|
-| **📟 Lintorch** | AI and python powered software extracting apps. | [Repo](https://github.com/Leonxzy44/Lintorch-Software) • [Libs](#) • [Shared](#) |
-| **💾 Arduino** | Library and database for all of my arduino projects i made. | [Repo](https://github.com/Leonxzy44/ArduinoProjects) • [Libs](#) • [Shared](#) |
-| **📲 Vizion** | Display images in the console from online sources | [Repo](#) • [Libs](#) • [Shared](#) |
+| **💻 LintorchOS** | AI and python powered software extracting apps. Made by me. | [Repo](https://github.com/Leonxzy44/Lintorch-Software) • [Libs](#) • [Shared](https://github.com/Leonxzy44/Lintorch-Software) |
+| **💾 Arduino** | Library and database for all of my arduino projects i made. | [Repo](https://github.com/Leonxzy44/ArduinoProjects) • [Libs](#) • [Shared](https://github.com/Leonxzy44/ArduinoProjects) |
+| **💻 PynuxOS** | Also a software. Made by two persons. | [Repo](https://github.com/Leonxzy44/Pynux-Tech) • [Libs](#) • [Shared](https://github.com/Leonxzy44/Pynux-Tech) |
 
 </div>
 
