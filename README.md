@@ -96,84 +96,16 @@ If you're ever interested into collab or working together, contact me and then w
   🧠 Languages:
 
 <p align="center">
-
-  <!-- JavaScript -->
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-    alt="JavaScript"
-    height="32"
-    style="margin:6px; padding:10px; background:#111827; border-radius:16px; box-sizing:content-box;"
-  />
-
-  <!-- TypeScript -->
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-    alt="TypeScript"
-    height="32"
-    style="margin:6px; padding:10px; background:#111827; border-radius:16px; box-sizing:content-box;"
-  />
-
-  <!-- Python -->
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-    alt="Python"
-    height="32"
-    style="margin:6px; padding:10px; background:#111827; border-radius:16px; box-sizing:content-box;"
-  />
-
-  <!-- Java -->
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-    alt="Java"
-    height="32"
-    style="margin:6px; padding:10px; background:#111827; border-radius:16px; box-sizing:content-box;"
-  />
-
-  <!-- C++ -->
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-    alt="C++"
-    height="32"
-    style="margin:6px; padding:10px; background:#111827; border-radius:16px; box-sizing:content-box;"
-  />
-
-  <!-- C# -->
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-    alt="C#"
-    height="32"
-    style="margin:6px; padding:10px; background:#111827; border-radius:16px; box-sizing:content-box;"
-  />
-
-  <!-- HTML -->
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-    alt="HTML5"
-    height="32"
-    style="margin:6px; padding:10px; background:#111827; border-radius:16px; box-sizing:content-box;"
-  />
-
-  <!-- CSS -->
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-    alt="CSS3"
-    height="32"
-    style="margin:6px; padding:10px; background:#111827; border-radius:16px; box-sizing:content-box;"
-  />
-
-  <!-- PHP -->
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-    alt="PHP"
-    height="32"
-    style="margin:6px; padding:10px; background:#111827; border-radius:16px; box-sizing:content-box;"
-  />
-
+  <img src="https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TS-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=239120" />
+  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4" />
 </p>
-
-
-
-
 
 ---
 
