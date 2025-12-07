@@ -94,56 +94,85 @@ If you're ever interested into collab or working together, contact me and then w
 
 <p align="center">
   🧠 Languages:
-<div align="center">
 
-  <div align="center" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;">
+<p align="center">
 
   <!-- JavaScript -->
-  <div style="background:#0f172a;border-radius:18px;padding:14px;box-shadow:0 0 10px rgba(99,102,241,0.25);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
-  </div>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    alt="JavaScript"
+    height="32"
+    style="margin:6px; padding:10px; background:#111827; border-radius:16px; box-sizing:content-box;"
+  />
 
   <!-- TypeScript -->
-  <div style="background:#0f172a;border-radius:18px;padding:14px;box-shadow:0 0 10px rgba(59,130,246,0.25);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
-  </div>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+    alt="TypeScript"
+    height="32"
+    style="margin:6px; padding:10px; background:#111827; border-radius:16px; box-sizing:content-box;"
+  />
 
   <!-- Python -->
-  <div style="background:#0f172a;border-radius:18px;padding:14px;box-shadow:0 0 10px rgba(253,224,71,0.25);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
-  </div>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    alt="Python"
+    height="32"
+    style="margin:6px; padding:10px; background:#111827; border-radius:16px; box-sizing:content-box;"
+  />
 
   <!-- Java -->
-  <div style="background:#0f172a;border-radius:18px;padding:14px;box-shadow:0 0 10px rgba(249,115,22,0.25);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
-  </div>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    alt="Java"
+    height="32"
+    style="margin:6px; padding:10px; background:#111827; border-radius:16px; box-sizing:content-box;"
+  />
 
   <!-- C++ -->
-  <div style="background:#0f172a;border-radius:18px;padding:14px;box-shadow:0 0 10px rgba(59,130,246,0.25);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>
-  </div>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+    alt="C++"
+    height="32"
+    style="margin:6px; padding:10px; background:#111827; border-radius:16px; box-sizing:content-box;"
+  />
 
   <!-- C# -->
-  <div style="background:#0f172a;border-radius:18px;padding:14px;box-shadow:0 0 10px rgba(168,85,247,0.25);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42"/>
-  </div>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+    alt="C#"
+    height="32"
+    style="margin:6px; padding:10px; background:#111827; border-radius:16px; box-sizing:content-box;"
+  />
 
   <!-- HTML -->
-  <div style="background:#0f172a;border-radius:18px;padding:14px;box-shadow:0 0 10px rgba(249,115,22,0.25);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
-  </div>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    alt="HTML5"
+    height="32"
+    style="margin:6px; padding:10px; background:#111827; border-radius:16px; box-sizing:content-box;"
+  />
 
   <!-- CSS -->
-  <div style="background:#0f172a;border-radius:18px;padding:14px;box-shadow:0 0 10px rgba(59,130,246,0.25);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
-  </div>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    alt="CSS3"
+    height="32"
+    style="margin:6px; padding:10px; background:#111827; border-radius:16px; box-sizing:content-box;"
+  />
 
   <!-- PHP -->
-  <div style="background:#0f172a;border-radius:18px;padding:14px;box-shadow:0 0 10px rgba(168,85,247,0.25);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42"/>
-  </div>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+    alt="PHP"
+    height="32"
+    style="margin:6px; padding:10px; background:#111827; border-radius:16px; box-sizing:content-box;"
+  />
 
-</div>
+</p>
+
+
+
 
 
 ---
