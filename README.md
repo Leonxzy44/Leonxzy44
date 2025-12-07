@@ -55,11 +55,7 @@
 
 I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C++** and **JS**. Using AI powered tools to improve. Building bots, apps, websites, softwares, hardwares and much more.
 
-I'm currently working on:
 
-🫴🏽 [Pynux](https://github.com/Leonxzy44/Pynux)
-
-🫴🏽 [Arduino projects](https://github.com/Leonxzy44/ArduinoProjects)
 </details>
 
 <details>
@@ -114,6 +110,7 @@ If you're ever interested into collab or working together, contact me and then w
 </div>
 
 </p>
+
 ---
 
 
