@@ -72,7 +72,7 @@ I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C
 
 ---
 
-# 📬 Contact me here
+# 📬 Contacts & links
 
 If you're ever interested into collab or working together, contact me and then we will talk about it.
 
