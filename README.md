@@ -15,7 +15,7 @@
 ✨ A passionate Project manager | Full Stack Developer from Croatia 🌍
 
 
-
+---
 
 
 <p align="center">
