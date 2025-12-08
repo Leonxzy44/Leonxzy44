@@ -7,7 +7,7 @@
 
 </h1>
 
----
+
 
 <h1 align="center">
   Hey there! I'm Leonxzy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
@@ -199,6 +199,11 @@ If you're ever interested into collab or working together, contact me and then w
 
 
  ---
+ ## Let's Connect 🤝:
+ 
+Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in AI 🤖, DevOps ⚙️, or web development 🌐. Let’s make something amazing together! 🚀
+
+--- 
 
  <p align="center">Thanks for visiting my GitHub profile, see you soon and happy coding! 🚀✨️ </p>
  
