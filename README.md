@@ -12,8 +12,9 @@
 <h1 align="center">
   Hey there! I'm Leonxzy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 </h1>
+<p align="center">
 ✨ A passionate Project manager | Full Stack Developer from Croatia 🌍
-
+</p>
 
 ---
 
