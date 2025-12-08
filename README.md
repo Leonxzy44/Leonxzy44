@@ -55,7 +55,7 @@
 
 # 👨‍💻 Coding skills
 
-I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C++** and **JS**. Using AI powered tools to improve. Building bots, apps, websites, softwares, hardwares and much more. Looking up to join or create a projects together. Currently in work with [@mrkihq](https://github.com/mrkihq) at @Pynux Tech.
+I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C++** and **JS**. Using AI powered tools to improve. Building bots, apps, websites, softwares, hardwares and much more. Looking up to join or create a projects together. Currently in work with [@mrkihq](https://github.com/mrkihq) at [@Pynux Tech]().
 
 # 🏆 Tournaments & competitions
 
