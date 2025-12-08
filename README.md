@@ -2,7 +2,8 @@
 
 <h align="center">
 
-![WhatsApp Slika 2025-11-24 u 19 39 46_3b76e6f9](https://github.com/user-attachments/assets/f363115b-3800-4807-8e21-15f2c1351c64)
+<img width="2576" height="1058" alt="image" src="https://github.com/user-attachments/assets/1f1aefa1-438c-46af-b4f7-b8c021210275" />
+
 
 </h1>
 
