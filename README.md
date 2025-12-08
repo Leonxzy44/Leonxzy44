@@ -72,6 +72,8 @@ I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C
 
 ---
 
+# 📬 Contact me here
+
 If you're ever interested into collab or working together, contact me and then we will talk about it.
 
 - 📧 DM me on [Discord](https://discord.com/channels/@lilcoder) or [Email](mailto:leon.hodzic@outlook.com) me to contact.
