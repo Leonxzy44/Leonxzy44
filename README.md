@@ -51,7 +51,7 @@
 
 
 
-## ⓘ Informations
+
 
 # 👨‍💻 Coding skills
 
@@ -63,7 +63,11 @@ I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C
 
 • Algorithms in python tournament
 
-• Active [LeetCode]() user. 
+• Active [LeetCode](https://leetcode.com/u/Leon_Hodzic/) user. 
+
+• Talkative [StackedOverflow](https://stackoverflow.com/users/30537744/leonxzythedev) contributor.
+
+
 
 
 ---
