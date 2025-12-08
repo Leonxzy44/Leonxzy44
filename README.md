@@ -85,7 +85,7 @@ If you're ever interested into collab or working together, contact me and then w
 
 
 <p align="center">
-  📦 Languages and tools :
+  🔧 Languages and tools :
 </p>
 
 
