@@ -51,30 +51,19 @@
 
 
 
-## ⓘ Informations (click to reveal)
+## ⓘ Informations
 
-<details>
-  <summary>👨‍💻 Coding skills </summary>
+# 👨‍💻 Coding skills
 
 I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C++** and **JS**. Using AI powered tools to improve. Building bots, apps, websites, softwares, hardwares and much more.
 
+# 🏆 Tournaments & competitions
 
-</details>
+• FMS Logo coding tournament
 
-<details>
-  <summary>♟️ Hobbies & activities</summary>
+• Algorithms in python tournament
 
-Some of my hobbies are **coding**, **reading**, **chess** and **Speed-typing**.
-
-</details>
-
-<details>
-  <summary>🕹 Gaming</summary>
-
-- **Games**: Forza Horizon 5, Minecraft, Fortnite, World of Tanks, Geometry Dash, Witcher 3, Gta V.
-
-</details>
-
+• Active [LeetCode]() user. 
 
 
 ---
