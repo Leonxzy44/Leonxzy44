@@ -10,7 +10,7 @@
 ---
 
 <h1 align="center">
-  I'm Leonxzy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+  Hi there! I'm Leon <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 </h1>
 
 
