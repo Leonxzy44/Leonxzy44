@@ -23,6 +23,20 @@
   <img src="https://komarev.com/ghpvc/?username=Leonxzy44&color=0A192F&label=Profile+Views&labelColor=000814&style=flat&labelTextColor=FFFFFF" alt="views badge" />
 </p>
 
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=Leonxzy44&color=red&style=flat-square)
+
+<!-- Followers -->
+![Followers](https://img.shields.io/github/followers/Leonxzy44?label=Followers&style=flat-square)
+
+<!-- Stars -->
+![Stars](https://img.shields.io/github/stars/Leonxzy44?label=Stars&style=flat-square)
+
+<!-- Contributions -->
+![Contributions](https://img.shields.io/github/last-commit/Leonxzy44/Leonxzy44?label=Contributions&style=flat-square)
+
+<!-- GitHub Status -->
+![Website](https://img.shields.io/badge/Website-Up-brightgreen?style=flat-square)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=%E2%80%8BSoftware+Developer+%7C+Programmer;%E2%80%8BOpen+Source+Enthusiast;%E2%80%8BTech+Explorer+%7C+Robotics&background=1B2B45/80/animated-wave.gif" alt="Typing SVG" />
 </p>
