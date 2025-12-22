@@ -61,37 +61,6 @@
 
 
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=%E2%80%8BSoftware+Developer+%7C+Programmer;%E2%80%8BOpen+Source+Enthusiast;%E2%80%8BTech+Explorer+%7C+Robotics&background=1B2B45/80/animated-wave.gif" alt="Typing SVG" />
-</p>
-
-
-
-
-
-<div align="center">
-  <a href="https://github.com/Leonxzy44" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
-  </a>
-  <a href="https://stackoverflow.com/users/30537744/leonxzythedev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" width="45" height="45" alt="Stack Overflow"/>
-  </a>
-  <a href="mailto:leonhodzic44@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"/>
-  </a>
-  <a href="https://discord.com/users/1341794911258939543" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" alt="Discord"/>
-  </a>
-  <a href="https://x.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="Twitter"/>
-  </a>
-</div>
-
-
-
-
-
 # 👨‍💻 Coding skills
 
 I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C++** and **JS**. Using AI powered tools to improve. Building bots, apps, websites, softwares, hardwares and much more. 
