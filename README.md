@@ -112,7 +112,7 @@ I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C
 ---
 
 <details>
-  <summary>📊 GitHub analytics & stats</summary>
+  <summary>📊 GitHub analytics & stats.</summary>
 
   <div align="center">
 
@@ -144,9 +144,10 @@ I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C
   
   
 </details>
+<details>
+  <summary>🏗️ Projects i am currently working on & databases / tables</summary>
 
----
-<div align="center">
+ <div align="center">
 
 ## 🔧 What I'm Working On
 
@@ -178,46 +179,21 @@ I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C
 | **My Things Saver** | ![build](https://img.shields.io/badge/build-n%2Fa-lightgrey) | ![size](https://img.shields.io/badge/repo%20size-12.5MiB-blue) | ![docs](https://img.shields.io/badge/docs-none-lightgrey) | ![rel](https://img.shields.io/badge/release-v1.0.0-blue) |
 
 </div>
+  
 
+  
+  
+</details>
 
 ---
 
 
 
 
-<div align="center">
-
-<h1>📊 GitHub Stats</h1>
-
-<!-- Leonxzy44 — GitHub Stats + Languages (Dark Theme Side-by-Side) -->
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <a href="https://github.com/Leonxzy44" style="display:inline-block;">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9ccfd8&text_color=cad3f5&icon_color=3fb950"
-      alt="Leonxzy44's GitHub Stats" />
-  </a>
-
-  <!-- Most Used Languages -->
-  <a href="https://github.com/Leonxzy44" style="display:inline-block;">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=9ccfd8&text_color=cad3f5"
-      alt="Leonxzy44's Top Languages" />
-  </a>
-
-</div>
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leonxzy44&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
-</p>
 
 
 
---- 
+
 
 
 
