@@ -187,12 +187,14 @@ I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C
 </details>
 <details>
   <summary>❤️ GitHub achievments & goals.</summary>
+  
+---
 
-  500 commits - 24.7.2025
+- 500 commits - 24.7.2025
 
-  1k commits - 22.12.2025
+- 1k commits - 22.12.2025
 
-  1.5k commits - ?
+- 1.5k commits - ?
 
   
   
@@ -203,7 +205,7 @@ I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C
 
 
 
-
+---
 
 
 
