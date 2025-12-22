@@ -29,6 +29,36 @@
 
 
 ---
+
+
+<p align="center">
+  
+<a href="https://discord.com/users/lilcoder">
+  <img src="https://img.shields.io/badge/Discord-lilcoder-5865F2?style=flat&logo=discord&logoColor=white" />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Leonxzy44&label=Profile%20Views&color=brightgreen&style=flat" />
+
+  <a href="https://github.com/Leonxzy44?tab=followers">
+    <img src="https://img.shields.io/github/followers/Leonxzy44?label=Followers&style=flat&color=blue" />
+  </a>
+
+  <a href="https://github.com/Leonxzy44?tab=stars">
+    <img src="https://img.shields.io/github/stars/Leonxzy44?label=Star%20Gazers&style=flat&color=yellow" />
+  </a>
+
+  <a href="https://github.com/Leonxzy44">
+    <img src="https://img.shields.io/badge/GitHub-Leonxzy44-black?style=flat&logo=github" />
+  </a>
+
+  <a href="https://twitch.tv/leonxzy44">
+    <img src="https://img.shields.io/badge/Twitch-offline-9146FF?style=flat&logo=twitch&logoColor=white" />
+  </a>
+</p>
+
+
 <img align="right" width="380" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" />
 
 ### 🧑‍💻 About Me ✨  
@@ -59,39 +89,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-
----
-
-<p align="center">
-  
-<a href="https://discord.com/users/lilcoder">
-  <img src="https://img.shields.io/badge/Discord-lilcoder-5865F2?style=flat&logo=discord&logoColor=white" />
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Leonxzy44&label=Profile%20Views&color=brightgreen&style=flat" />
-
-  <a href="https://github.com/Leonxzy44?tab=followers">
-    <img src="https://img.shields.io/github/followers/Leonxzy44?label=Followers&style=flat&color=blue" />
-  </a>
-
-  <a href="https://github.com/Leonxzy44?tab=stars">
-    <img src="https://img.shields.io/github/stars/Leonxzy44?label=Star%20Gazers&style=flat&color=yellow" />
-  </a>
-
-  <a href="https://github.com/Leonxzy44">
-    <img src="https://img.shields.io/badge/GitHub-Leonxzy44-black?style=flat&logo=github" />
-  </a>
-
-  <a href="https://twitch.tv/leonxzy44">
-    <img src="https://img.shields.io/badge/Twitch-offline-9146FF?style=flat&logo=twitch&logoColor=white" />
-  </a>
-</p>
-
-
-
 
 
 
