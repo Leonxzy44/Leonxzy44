@@ -32,12 +32,12 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" />
 
 ### 🧑‍💻 About Me ✨  
-**Data Engineer | Prev. PM @girlscript**
+**Software enginner, software developer**
 
 ⚡ Check my ✨ **Website** or 🌱 **eBook**  
-📬 How to reach me: **Schedule Call** or **Join Newsletter**  
-👥 Join my opensource/community **recodehive**  
-💬 Ask me about **SEO / Data Science**
+📬 How to reach me: [email](mailto:leon.hodzic@outlook.com) or DM me on [Discord](https://discord.com/users/lilcoder).
+👥 Join my community [Gaming.gg](https://discord.gg/2EwM8XbT)
+💬 Ask me about **Vibe coding / softwares**
 
 ---
 
