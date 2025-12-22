@@ -206,12 +206,11 @@ I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C
 
 
 ---
-<p align="center">
-Do you want to contact me for collaboration opportunities? ⟶ Contact Details
-Show some ❤️ by starring some of the repositories!.
-</p>
 
- <p align="center">Thanks for visiting my GitHub profile, see you soon and happy coding! 🚀✨️ </p>
+That's all! If you're ever interested into collaborating or creating a project together on **GitHub**, I'm in! Contact me here ⟶ [Email](mailto:leon.hodzic@outlook.com).
+
+
+ <p align="center">Thanks for visiting my **GitHub profile**, see you soon and happy coding! 🚀✨️ </p>
  
 
 
