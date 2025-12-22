@@ -66,7 +66,9 @@
 **💼 Software enginner, software developer**
 
 📬 How to reach me: [email](mailto:leon.hodzic@outlook.com) or DM me on [Discord](https://discord.com/users/lilcoder).
+
 👥 Join my community [Gaming.gg](https://discord.gg/2EwM8XbT)
+
 💬 Ask me about **Vibe coding / softwares**
 
 ---
