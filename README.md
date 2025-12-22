@@ -65,7 +65,7 @@
 ### 🧑‍💻 About Me ✨  
 **💼 Software engineer, programmer.**
 
-- 📬 How to reach me: [email](mailto:leon.hodzic@outlook.com) or DM me on [Discord](https://discord.com/users/lilcoder).
+- 📬 How to reach me: [Email](mailto:leon.hodzic@outlook.com) me or DM me on [Discord](https://discord.com/users/lilcoder).
 
 - 👥 Join my community [Gaming.gg](https://discord.gg/2EwM8XbT)
 
@@ -94,15 +94,6 @@ I'm a **full stack** software engineer specializing in **HTML**, **Python**, **C
 
 ---
 
-# 📬 Contacts & links
-
-If you're ever interested into collab or working together, contact me and then we will talk about it.
-
-- 📧 DM me on [Discord](https://discord.com/channels/@lilcoder) or [Email](mailto:leon.hodzic@outlook.com) me to contact.
-
-- 🤝 Business inquires: leonhodzic44@gmail.com
-
----
 
 
 
