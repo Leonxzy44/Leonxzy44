@@ -29,6 +29,12 @@
 
 
 ---
+<p align="center">
+  
+<a href="https://discord.com/users/lilcoder">
+  <img src="https://img.shields.io/badge/Discord-lilcoder-5865F2?style=flat&logo=discord&logoColor=white" />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Leonxzy44&label=Profile%20Views&color=brightgreen&style=flat" />
@@ -49,6 +55,7 @@
     <img src="https://img.shields.io/badge/Twitch-offline-9146FF?style=flat&logo=twitch&logoColor=white" />
   </a>
 </p>
+
 
 
 
