@@ -29,9 +29,8 @@
 
 
 ---
-<img width="291" height="291" alt="image" src="https://github.com/user-attachments/assets/ece6db8b-a9a5-4e75-b531-0273ab438396" />
 
----
+
 
 <p align="center">
   
@@ -64,35 +63,14 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" />
 
 ### 🧑‍💻 About Me ✨  
-**Software enginner, software developer**
-
-⚡ Check my ✨ **Website** or 🌱 **eBook**  
+**💼 Software enginner, software developer**
 📬 How to reach me: [email](mailto:leon.hodzic@outlook.com) or DM me on [Discord](https://discord.com/users/lilcoder).
 👥 Join my community [Gaming.gg](https://discord.gg/2EwM8XbT)
 💬 Ask me about **Vibe coding / softwares**
 
 ---
 
-### 🛠️ Tech Stack / Certifications
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-
-**Frameworks & Libraries:**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
 
 # 👨‍💻 Coding skills
 
