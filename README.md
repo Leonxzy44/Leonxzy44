@@ -11,6 +11,16 @@
     alt="Waving hand"
   />
 </h1>
+
+<p align="center">
+  <a href="https://linktr.ee/leonhodzic44">Portfolios</a> ·
+  <a href="https://linkedin.com/in/yourusername">LinkedIn</a> ·
+  <a href="https://twitter.com/LeonxzyDEV">Twitter</a> ·
+  <a href="https://yourwebsite.com">Website</a> ·
+  <a href="https://stackoverflow.com/users/30537744/leonxzythedev">StackOverflow</a> ·
+  <a href="mailto:leon.hodzic@outlook.com">Contact me</a>
+</p>
+
 <!---
 Leonxzy44/Leonxzy44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
