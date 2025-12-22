@@ -51,6 +51,15 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" />
 
+### 🧑‍💻 Who I am? 
+
+My name is Leon. I'm 13 years old and i come from Europe. i love to code and build different projects.
+
+- 📬 How to reach me: [Email](mailto:leon.hodzic@outlook.com) me or DM me on [Discord](https://discord.com/users/lilcoder).
+
+- 👥 Join my community [Gaming.gg](https://discord.gg/2EwM8XbT)
+
+- 💬 Ask me about **Vibe coding / softwares**
 <!---
 Leonxzy44/Leonxzy44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
