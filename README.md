@@ -32,21 +32,22 @@
 
 <p align="center">
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Leonxzy44&label=Profile%20Views&style=flat-square&color=brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=Leonxzy44&label=☁️%20Profile%20Views&style=flat&color=brightgreen" />
 
   <!-- Followers -->
   <a href="https://github.com/Leonxzy44?tab=followers">
-    <img src="https://img.shields.io/github/followers/Leonxzy44?label=Followers&style=flat-square&color=blue" />
+    <img src="https://img.shields.io/github/followers/Leonxzy44?label=☁️%20Followers&style=flat&color=blue" />
   </a>
 
   <!-- Star Gazers -->
   <a href="https://github.com/Leonxzy44?tab=stars">
-    <img src="https://img.shields.io/github/stars/Leonxzy44?label=Star%20Gazers&style=flat-square&color=yellow" />
+    <img src="https://img.shields.io/github/stars/Leonxzy44?label=☁️%20Star%20Gazers&style=flat&color=yellow" />
   </a>
 
   <!-- GitHub -->
-  <img src="https://img.shields.io/badge/GitHub-Leonxzy44-black?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/☁️%20GitHub-Leonxzy44-black?style=flat&logo=github" />
 </p>
+
 
 
 
