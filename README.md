@@ -29,25 +29,25 @@
 
 
 ---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Leonxzy44&label=Profile%20Views&color=brightgreen&style=flat" />
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Leonxzy44&label=Profile%20Views&style=flat-square&color=brightgreen" />
 
+  <!-- Followers -->
   <a href="https://github.com/Leonxzy44?tab=followers">
-    <img src="https://img.shields.io/github/followers/Leonxzy44?label=Followers&style=flat&color=blue" />
+    <img src="https://img.shields.io/github/followers/Leonxzy44?label=Followers&style=flat-square&color=blue" />
   </a>
 
+  <!-- Star Gazers -->
   <a href="https://github.com/Leonxzy44?tab=stars">
-    <img src="https://img.shields.io/github/stars/Leonxzy44?label=Star%20Gazers&style=flat&color=yellow" />
+    <img src="https://img.shields.io/github/stars/Leonxzy44?label=Star%20Gazers&style=flat-square&color=yellow" />
   </a>
 
-  <a href="https://github.com/Leonxzy44">
-    <img src="https://img.shields.io/badge/GitHub-Leonxzy44-black?style=flat&logo=github" />
-  </a>
-
-  <a href="https://twitch.tv/yourtwitchname">
-    <img src="https://img.shields.io/badge/Twitch-offline-9146FF?style=flat&logo=twitch&logoColor=white" />
-  </a>
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub-Leonxzy44-black?style=flat-square&logo=github" />
 </p>
+
 
 
 <p align="center">
