@@ -49,6 +49,8 @@
   </a>
 </p>
 
+<img align="right" width="380" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" />
+
 <!---
 Leonxzy44/Leonxzy44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
