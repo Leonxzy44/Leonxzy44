@@ -29,21 +29,31 @@
 
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Leonxzy44&label=Profile%20Views&color=brightgreen&style=flat" />
+
+  <a href="https://github.com/Leonxzy44?tab=followers">
+    <img src="https://img.shields.io/github/followers/Leonxzy44?label=Followers&style=flat&color=blue" />
+  </a>
+
+  <a href="https://github.com/Leonxzy44?tab=stars">
+    <img src="https://img.shields.io/github/stars/Leonxzy44?label=Star%20Gazers&style=flat&color=yellow" />
+  </a>
+
+  <a href="https://github.com/Leonxzy44">
+    <img src="https://img.shields.io/badge/GitHub-Leonxzy44-black?style=flat&logo=github" />
+  </a>
+
+  <a href="https://twitch.tv/yourtwitchname">
+    <img src="https://img.shields.io/badge/Twitch-offline-9146FF?style=flat&logo=twitch&logoColor=white" />
+  </a>
+</p>
 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Leonxzy44&color=0A192F&label=Profile+Views&labelColor=000814&style=flat&labelTextColor=FFFFFF" alt="views badge" />
 
-<p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Leonxzy44&label=Profile%20Views&color=2f3136&style=flat-square" />
 
-  <!-- Followers with white bubble -->
-  <img src="https://img.shields.io/github/followers/Leonxzy44?label=Followers&style=flat-square&color=2f3136&labelColor=2f3136&cacheSeconds=3600" />
-
-  <!-- Contributions -->
-  <img src="https://img.shields.io/badge/Contributions-Active-2f3136?style=flat-square&labelColor=2f3136" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=%E2%80%8BSoftware+Developer+%7C+Programmer;%E2%80%8BOpen+Source+Enthusiast;%E2%80%8BTech+Explorer+%7C+Robotics&background=1B2B45/80/animated-wave.gif" alt="Typing SVG" />
