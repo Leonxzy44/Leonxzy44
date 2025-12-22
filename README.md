@@ -18,21 +18,15 @@
 </h1>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">Portfolios</a> ·
+  <a href="https://linktr.ee/leonhodzic44">Portfolios</a> ·
   <a href="https://linkedin.com/in/yourusername">LinkedIn</a> ·
-  <a href="https://twitter.com/yourusername">Twitter</a> ·
+  <a href="https://twitter.com/LeonxzyDEV">Twitter</a> ·
   <a href="https://yourwebsite.com">Website</a> ·
-  <a href="https://www.google.com/search?q=your+name">Google Featured</a> ·
-  <a href="mailto:youremail@example.com">Contact me</a>
+  <a href="https://stackoverflow.com/users/30537744/leonxzythedev">StackOverflow</a> ·
+  <a href="mailto:leon.hodzic@outlook.com">Contact me</a>
 </p>
 
 
-<h1 align="center">
-  Hey there! I'm Leon! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-</h1>
-<p align="center">
-✨ A passionate Project manager | Full Stack Developer from Croatia 🌍
-</p>
 
 ---
 
