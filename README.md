@@ -62,7 +62,8 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" />
 
-### 🧑‍💻 About Me ✨  
+###🧑‍💻 Who I am? 
+
 **💼 Software engineer, programmer.**
 
 - 📬 How to reach me: [Email](mailto:leon.hodzic@outlook.com) me or DM me on [Discord](https://discord.com/users/lilcoder).
