@@ -29,9 +29,7 @@
 
 
 ---
-<table>
-<tr>
-<td width="60%">
+<img align="right" width="380" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" />
 
 ### 🧑‍💻 About Me ✨  
 **Data Engineer | Prev. PM @girlscript**
@@ -62,13 +60,6 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-</td>
-
-<td width="40%">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/coding-illustration.png" />
-</td>
-</tr>
-</table>
 
 ---
 
