@@ -53,7 +53,7 @@
 
 ### 🧑‍💻 Who I am? 
 
-My name is Leon. I'm 13 years old and i come from Europe. i love to code and build different projects.
+My name is Leon. I'm 13 years old and i come from Europe. i love to code and build different projects. I mostly specialize in **Python**, **JavaScript** and **C++**. I am currently building hardwares with C++ and arduino so you can check [this](https://github.com/Leonxzy44/ArduinoProjects) repo.
 
 - 📬 How to reach me: [Email](mailto:leon.hodzic@outlook.com) me or DM me on [Discord](https://discord.com/users/lilcoder).
 
