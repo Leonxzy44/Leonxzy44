@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/GitHub-Leonxzy44-black?style=flat&logo=github" />
   </a>
 
-  <a href="https://twitch.tv/yourtwitchname">
+  <a href="https://twitch.tv/leonxzy44">
     <img src="https://img.shields.io/badge/Twitch-offline-9146FF?style=flat&logo=twitch&logoColor=white" />
   </a>
 </p>
