@@ -101,7 +101,6 @@ My name is Leon. I'm 13 years old and i come from Europe. I love to code and bui
 
 
 - 💬 Ask me about **Vibe coding / softwares**
-
 <!---
 Leonxzy44/Leonxzy44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
