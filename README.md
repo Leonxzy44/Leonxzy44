@@ -6,4 +6,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![wired-lineal-27-globe-hover-rotate](https://github.com/user-attachments/assets/67d2892c-b903-41ae-8b0a-61e85c4eb0d6)
+
