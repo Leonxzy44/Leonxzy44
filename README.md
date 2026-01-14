@@ -4,3 +4,4 @@ Leonxzy44/Leonxzy44 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+<a href="https://lordicon.com/">Icons by Lordicon.com</a>
