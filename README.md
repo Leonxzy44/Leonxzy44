@@ -5,6 +5,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![wired-lineal-1326-command-window-line-morph-code](https://github.com/user-attachments/assets/20e5cf59-ae45-4679-a2e0-1c0316f2eb4f)
-
 
