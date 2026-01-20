@@ -13,6 +13,33 @@
   <a href="mailto:leon.hodzic@outlook.com">Contact me</a>
 </p>
 
+<p align="center">
+  
+<a href="https://discord.com/users/lilcoder">
+  <img src="https://img.shields.io/badge/Discord-lilcoder-5865F2?style=flat&logo=discord&logoColor=white" />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Leonxzy44&label=Profile%20Views&color=brightgreen&style=flat" />
+
+  <a href="https://github.com/Leonxzy44?tab=followers">
+    <img src="https://img.shields.io/github/followers/Leonxzy44?label=Followers&style=flat&color=blue" />
+  </a>
+
+  <a href="https://github.com/Leonxzy44?tab=stars">
+    <img src="https://img.shields.io/github/stars/Leonxzy44?label=Star%20Gazers&style=flat&color=yellow" />
+  </a>
+
+  <a href="https://github.com/Leonxzy44">
+    <img src="https://img.shields.io/badge/GitHub-Leonxzy44-black?style=flat&logo=github" />
+  </a>
+
+  <a href="https://twitch.tv/leonxzy44">
+    <img src="https://img.shields.io/badge/Twitch-offline-9146FF?style=flat&logo=twitch&logoColor=white" />
+  </a>
+</p>
+
 ## About me 🌠
 
 I'm a 13 years old programmer from Europe. Mostly, I'm into web development and Software engineering. My other hobbies are chess and playing video games.
