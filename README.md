@@ -6,11 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF0000&size=24&pause=1000&width=450&lines=Hi+there!+I'm+Leon!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="wired-outline-1322-python-code-language-hover-pinch.gif" width="60"/>
-  <img src="wired-outline-1320-json-hover-pinch.gif" width="60"/>
-  <img src="wired-outline-1321-html-5-code-language-hover-pinch.gif" width="60"/>
-  <img src="wired-outline-1324-c-code-language-hover-pinch.gif" width="60"/>
-  <img src="wired-outline-1323-java-code-language-hover-pinch.gif" width="60"/>
-</p>
 
+
+<p align="left">
+  <img src="assets/wired-outline-1322-python-code-language-hover-pinch.gif" width="60"/>
+  <img src="assets/wired-outline-1320-json-hover-pinch.gif" width="60"/>
+  <img src="assets/wired-outline-1321-html-5-code-language-hover-pinch.gif" width="60"/>
+  <img src="assets/wired-outline-1324-c-code-language-hover-pinch.gif" width="60"/>
+  <img src="assets/wired-outline-1323-java-code-language-hover-pinch.gif" width="60"/>
+</p>
