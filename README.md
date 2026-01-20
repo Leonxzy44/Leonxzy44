@@ -45,7 +45,7 @@
 I'm a 13 years old programmer from Europe. Mostly, I'm into web development and Software engineering. My other hobbies are chess and playing video games.
 Currently, I'm working on [ArduinoProjects](https://github.com/Leonxzy44/ArduinoProjects) and [Weather API tracker](https://github.com/Leonxzy44/Temperon-Weather-API-Tracker). Make sure to check out the remaining README and my [Website](https://leonxzy.com/)!
 
-<p align="center"> 🧠 Languages & tools: </p>
+<h1 align="center"> 🧠 Languages & tools: </h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f9b0352f-bd51-447f-ad71-c7465bf9c37a" width="100"/>
