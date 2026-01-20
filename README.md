@@ -55,3 +55,92 @@ Currently, I'm working on [ArduinoProjects](https://github.com/Leonxzy44/Arduino
   <img src="https://github.com/user-attachments/assets/c34786e5-08ae-4b19-9815-5742877f9523" width="100"/>
 </p>
 
+<details>
+  <summary>📊 GitHub analytics & stats.</summary>
+
+  <div align="center">
+
+<h1> </h1>
+
+<!-- Leonxzy44 — GitHub Stats + Languages (Dark Theme Side-by-Side) -->
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <a href="https://github.com/Leonxzy44" style="display:inline-block;">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=Leonxzy44&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9ccfd8&text_color=cad3f5&icon_color=3fb950"
+      alt="Leonxzy44's GitHub Stats" />
+  </a>
+
+  <!-- Most Used Languages -->
+  <a href="https://github.com/Leonxzy44" style="display:inline-block;">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonxzy44&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=9ccfd8&text_color=cad3f5"
+      alt="Leonxzy44's Top Languages" />
+  </a>
+
+</div>
+
+  
+
+  
+  
+</details>
+
+<details>
+  <summary>🏗️ Projects i am currently working on & databases / tables</summary>
+
+ <div align="center">
+
+## 🔧 What I'm Working On
+
+| 🚀 Project | Description | Links |
+|-----------|-------------|--------|
+| **💻 LintorchOS** | AI and python powered software extracting apps. Made by me. | [Repo](https://github.com/Leonxzy44/Lintorch-Software) • [Libs](#) • [Shared](https://github.com/Leonxzy44/Lintorch-Software) |
+| **💾 Arduino** | Library and database for all of my arduino projects i made. | [Repo](https://github.com/Leonxzy44/ArduinoProjects) • [Libs](#) • [Shared](https://github.com/Leonxzy44/ArduinoProjects) |
+| **💻 PynuxOS** | Also a software. Made by two persons. | [Repo](https://github.com/Leonxzy44/Pynux-Tech) • [Libs](#) • [Shared](https://github.com/Leonxzy44/Pynux-Tech) |
+
+</div>
+
+
+
+---
+
+
+
+<div align="center">
+
+## 🧪 Workflows
+
+| 🐛 Project        | 🛠️ Build      | ⚖️ Size        | 📜 Documentation | ☁️ Release |
+|------------------|--------------|----------------|------------------|------------|
+| **Lintorch**          | ![build](https://img.shields.io/badge/build-passing-brightgreen) | ![size](https://img.shields.io/badge/repo%20size-9.7MiB-blue) | ![docs](https://img.shields.io/badge/docs-available-orange) | ![rel](https://img.shields.io/badge/release-v1.0.0--beta-blue) |
+| **Jiro.Libs**     | ![build](https://img.shields.io/badge/build-passing-brightgreen) | ![size](https://img.shields.io/badge/repo%20size-7.1MiB-blue) | ![docs](https://img.shields.io/badge/docs-available-orange) | ![nuget](https://img.shields.io/badge/NuGet-v3.0.4-blue) |
+| **Arduino**   | ![build](https://img.shields.io/badge/build-passing-brightgreen) | ![size](https://img.shields.io/badge/repo%20size-7.2MiB-blue) | ![docs](https://img.shields.io/badge/docs-available-orange) | ![nuget](https://img.shields.io/badge/NuGet-v1.4.4-blue) |
+| **Amiquin**       | ![build](https://img.shields.io/badge/build-no%20status-lightgrey) | ![size](https://img.shields.io/badge/repo%20size-64.3MiB-blue) | ![docs](https://img.shields.io/badge/docs-available-orange) | ![soon](https://img.shields.io/badge/Soon™-grey) |
+| **Console Imager**| ![build](https://img.shields.io/badge/build-n%2Fa-lightgrey) | ![size](https://img.shields.io/badge/repo%20size-21KiB-blue) | ![docs](https://img.shields.io/badge/docs-none-lightgrey) | ![rel](https://img.shields.io/badge/release-v1.0.1-blue) |
+| **My Things Saver** | ![build](https://img.shields.io/badge/build-n%2Fa-lightgrey) | ![size](https://img.shields.io/badge/repo%20size-12.5MiB-blue) | ![docs](https://img.shields.io/badge/docs-none-lightgrey) | ![rel](https://img.shields.io/badge/release-v1.0.0-blue) |
+
+</div>
+  
+
+  
+  
+</details>
+<details>
+  <summary>❤️ GitHub achievments & goals.</summary>
+  
+---
+
+- 500 commits - 24.7.2025
+
+- 1k commits - 22.12.2025
+
+- 1.5k commits - ?
+
+  
+  
+</details>
+
