@@ -11,6 +11,9 @@
   />
 </p>
 
+## About me 🌠
+
+I'm a 13 years old programmer from Europe. Mostly, I'm into web development and Software engineering. My other hobbies are chess and playing video games.
 
 
 <p align="center">
