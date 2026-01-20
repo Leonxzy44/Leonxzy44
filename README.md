@@ -16,7 +16,7 @@
 <p align="center">
   
 <a href="https://discord.com/users/lilcoder">
-  <img src="https://img.shields.io/badge/Discord-lilcoder-5865F2?style=flat&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-itsleonxzy-5865F2?style=flat&logo=discord&logoColor=white" />
 </p>
 
 
