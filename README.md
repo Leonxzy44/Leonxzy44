@@ -6,19 +6,10 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com
-      ?font=Fira+Code
-      &color=FF0000
-      &size=40
-      &pause=1000
-      &width=700
-      &height=70
-      &vCenter=true
-      &lines=Hi+there!+I'm+Leon!"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF0000&size=40&pause=1000&width=700&height=70&vCenter=true&lines=Hi+there!+I'm+Leon!"
     alt="Typing SVG"
   />
 </p>
-
 
 
 
