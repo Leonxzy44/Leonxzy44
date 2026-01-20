@@ -5,3 +5,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF0000&size=24&pause=1000&width=450&lines=Hi+there!+I'm+Leon!" alt="Typing SVG" />
 </p>
+
+![wired-outline-1322-python-code-language-hover-pinch](https://github.com/user-attachments/assets/8fc78892-29ba-44bf-afb9-a7e32545aa34)
