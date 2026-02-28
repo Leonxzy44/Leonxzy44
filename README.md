@@ -1,2 +1,1 @@
-
-<img width="512" height="512" alt="exe-extension" src="https://github.com/user-attachments/assets/e5aa9549-9113-4a20-9067-d94cd0e5c5db" />
+<img width="952" height="317" alt="image" src="https://github.com/user-attachments/assets/1bd2c807-2c0e-46f4-bbe1-06570f242fab" />
