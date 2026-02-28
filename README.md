@@ -1,5 +1,7 @@
 <img width="952" height="317" alt="image" src="https://github.com/user-attachments/assets/1bd2c807-2c0e-46f4-bbe1-06570f242fab" />
 
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Leonxzy44&color=0A192F&label=Profile+Views&labelColor=000814&style=flat&labelTextColor=FFFFFF" alt="views badge" />
 </p>
