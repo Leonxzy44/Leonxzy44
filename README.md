@@ -31,4 +31,3 @@
   <a href="https://discord.com/users/1341794911258939543"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
 </p>
 
-<iframe style="max-width:100%" src="https://wordwall.net/hr/embed/f78480918f8643f7ba9fea8e2c42cdc0?themeId=1&templateId=11&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
