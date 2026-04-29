@@ -6,4 +6,3 @@
 
 ---
 
-$\alpha, \beta, \gamma
