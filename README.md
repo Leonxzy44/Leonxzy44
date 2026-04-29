@@ -6,4 +6,4 @@
 
 ---
 
-$\alpha', \beta', \gamma' \dots$
+$\alpha, \beta, \gamma
